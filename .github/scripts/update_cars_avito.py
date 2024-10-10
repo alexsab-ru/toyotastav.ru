@@ -90,13 +90,21 @@ elements_to_localize = []
 # Предполагаем, что cars_element уже определён
 all_duplicates = []  # Список для хранения всех дубликатов
 
-cars_element = root.find('cars')
+cars_element = root
 
 for car in cars_element:
-    unique_id = f"{build_unique_id(car, 'mark_id', 'folder_id', 'modification_id', 'complectation_name', 'color', 'year')}"
+    unique_id = f"{build_unique_id(car, 'Make', 'Model', 'ModificationId', 'GenerationId', 'Color', 'Year')}"
     unique_id = f"{process_unique_id(unique_id)}"
     print(f"Уникальный идентификатор: {unique_id}")
-    create_child_element(car, 'url', f"https://{repo_name}/cars/{unique_id}/")
+    # create_child_element(car, 'url', f"https://{repo_name}/cars/{unique_id}/")
+
+    car_vin = car.find('VIN').text
+    new_vin = modify_vin(car_vin.lower(), 1)
+    update_element_text(car, 'VIN', new_vin.upper())
+    car_id = car.find('Id').text
+    new_id = increment_str(car_id, 1)
+    update_element_text(car, 'Id', new_id)
+
     
     # Создаем дубликаты, но не добавляем их сразу в cars_element
     duplicates = duplicate_car(car, 0, "в наличии", 0)
