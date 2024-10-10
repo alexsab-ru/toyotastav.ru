@@ -32,6 +32,6 @@ export default defineConfig({
 	vite: {
 		plugins: [yaml()]
 	},
-	site: 'https://site.com',
-	base: "/"
+	site: 'https://alexsab-ru.github.io',
+	base: "/toyotastav.ru/"
 });
