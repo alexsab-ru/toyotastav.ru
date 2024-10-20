@@ -745,67 +745,6 @@
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<ContactPhone>88652520202</ContactPhone>
 	</Ad>
-	<Ad>
-		<Id>2c71cdeb1e988f5ef687ffe6399b4d2b</Id>
-		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>❗ЭКСКЛЮЗИВНОЕ ПРЕДЛОЖЕНИЕ ОТ TOYOTA и LEXUS СТАВРОПОЛЬ❗
-
-❗Только до конца месяца действует особое кредитное предложение!❗
-
-✅ Автомобиль на гарантии
-✅ Эксклюзивная кредитная программа со сниженной процентной ставкой
-✅Выгодный обмен Вашего автомобиля на новый
-✅Индивидуальные предложения для каждого клиента
-
-Максимальная ВЫГОДА только до конца месяца!
-
-Автомобили Toyota от официального дилера ООО «Ставрополь-Авто» - это гарантия лучшей цены, качества и надежности! 
-Для Вашего удобства доступны он-лайн сервисы – оценка Вашего автомобиля, он-лайн одобрение кредита, покупка автомобиля он-лайн.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля. Есть предложения от другого Дилера? Приезжайте! И мы улучшим его.
-Готовы обсуждать условия покупки и договариваться о цене каждого автомобиля.  
-
-Не нашли нужную комплектацию? Мы закажем и привезем ее для Вас в максимально короткие сроки или подберем достойную альтернативу.
-
-Стоимость автомобиля указана с учетом текущих действующих акций и специальных предложений.</Description>
-		<Price>4690000</Price>
-		<TradeinDiscount>250000</TradeinDiscount>
-		<CreditDiscount>250000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>500000</MaxDiscount>
-		<Color>Черный</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BFXR3110499/254a98919d0eaf57a6f4f242e83ab5d1.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BFXR3110499/0298d128440bf188d40b35c148cab7bb.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BFXR3110499/a145058aa3337c3928786d02b16a7be7.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BFXR3110499/0daac1beba2ba2fe812db21cbec05cb6.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BFXR3110499/2b41dbbf7b30ccf1b294f1dbb4bc18bc.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BFXR3110499/8039b7bb95757ed5a57f8e05c94b1a7b.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BFXR3110499/3d7c45cdff939420f6f73c9967f7103d.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BFXR3110499/ddb2c54260aeba522b43de1bf8cdb94b.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BFXR3110499/6d5eae4b1b720de5bee0a420b345b469.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BFXR3110499/def8224c7b4fef75dff734723ecf7d89.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BFXR3110499/981aaab0c6640f3d3e67cee1a18a6bcb.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BFXR3110499/3dff338d58fd3a20b6eb42cefed04e70.jpg" />
-		</Images>
-		<Make>Toyota</Make>
-		<Model>RAV4</Model>
-		<GenerationId>426116</GenerationId>
-		<ModificationId>18374280</ModificationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Вариатор</Transmission>
-		<Year>2024</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LFMJN5BFXR3110500</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<ContactPhone>88652520202</ContactPhone>
-	</Ad>
 <Ad>
 		<Id>807a42d800d735482b8555ac893c3b57</Id>
 		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
