@@ -317,7 +317,18 @@
 		<InsuranceDiscount />
 		<MaxDiscount>300000</MaxDiscount>
 		<Color>Белый</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK3RG518305/90df27fb6e3588fa2d2047c0edf2976f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LVGBECEK3RG518305/1313555e304c13d3b1ad14a6d2627b39.jpg" />
+			<Image url="https://photo.toyotasever.ru/LVGBECEK3RG518305/590924040b437cbb8a51ac679bdeb1d3.jpg" />
+			<Image url="https://photo.toyotasever.ru/LVGBECEK3RG518305/a0dab900110902ee2a01b4b85ec92af2.jpg" />
+			<Image url="https://photo.toyotasever.ru/LVGBECEK3RG518305/51f3e82e1f9a479c5d68496985f5e299.jpg" />
+			<Image url="https://photo.toyotasever.ru/LVGBECEK3RG518305/7298c116761283ebe27e88c203e7bb35.jpg" />
+			<Image url="https://photo.toyotasever.ru/LVGBECEK3RG518305/926d8222f647a4814e6211e574588d92.jpg" />
+			<Image url="https://photo.toyotasever.ru/LVGBECEK3RG518305/6d315887662d90066962b021e30d1638.jpg" />
+			<Image url="https://photo.toyotasever.ru/LVGBECEK3RG518305/e7850c5dff181db5eba3cfb1d616411c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LVGBECEK3RG518305/68702dacf1a3aa317b0bce8223649cf7.jpg" />
+		</Images>
 		<Make>Toyota</Make>
 		<Model>Camry</Model>
 		<GenerationId>22027441</GenerationId>
@@ -427,7 +438,17 @@
 		<InsuranceDiscount />
 		<MaxDiscount>300000</MaxDiscount>
 		<Color>Черный</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK4RG021456/474de3ca8ac3e16e5f25d97ab6d7fde8.jpg" />
+			<Image url="https://photo.toyotasever.ru/LVGBECEK4RG021456/f709bb97fcc92ba0f4cd378cb4954960.jpg" />
+			<Image url="https://photo.toyotasever.ru/LVGBECEK4RG021456/a099443197d5028d24e2df0399210b9d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LVGBECEK4RG021456/aaf7f7cad6994cbca6451f1bdf83b97a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LVGBECEK4RG021456/fea1394a98efbded23086910a83d700a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LVGBECEK4RG021456/f612724bd72120246dd96b463909cd83.jpg" />
+			<Image url="https://photo.toyotasever.ru/LVGBECEK4RG021456/1dd34ecd3701781b827903059f026b78.jpg" />
+			<Image url="https://photo.toyotasever.ru/LVGBECEK4RG021456/20f4882400863292f6d71395b25f3d9f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LVGBECEK4RG021456/76d41a63fb689dad8bf21261f67d1b44.jpg" />
+		</Images>
 		<Make>Toyota</Make>
 		<Model>Camry</Model>
 		<GenerationId>22027441</GenerationId>
@@ -469,11 +490,11 @@
 Не нашли нужную комплектацию? Мы закажем и привезем ее для Вас в максимально короткие сроки или подберем достойную альтернативу.
 
 Стоимость автомобиля указана с учетом текущих действующих акций и специальных предложений.</Description>
-		<Price>3150000</Price>
-		<TradeinDiscount>200000</TradeinDiscount>
-		<CreditDiscount>200000</CreditDiscount>
+		<Price>2750000</Price>
+		<TradeinDiscount>50000</TradeinDiscount>
+		<CreditDiscount>50000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>400000</MaxDiscount>
+		<MaxDiscount>100000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/NMTBB0BE70R125598/4b4b6ec591e8b5b5940b5e1103c2dafb.jpg" />
@@ -644,10 +665,10 @@
 
 Стоимость автомобиля указана с учетом текущих действующих акций и специальных предложений.</Description>
 		<Price>4950000</Price>
-		<TradeinDiscount>250000</TradeinDiscount>
-		<CreditDiscount>250000</CreditDiscount>
+		<TradeinDiscount>100000</TradeinDiscount>
+		<CreditDiscount>100000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>500000</MaxDiscount>
+		<MaxDiscount>200000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LFMJN5BF1P3094495/68a5f292d2659a361a1a8d1c6ce0d73b.jpg" />
@@ -708,10 +729,10 @@
 
 Стоимость автомобиля указана с учетом текущих действующих акций и специальных предложений.</Description>
 		<Price>5300000</Price>
-		<TradeinDiscount>250000</TradeinDiscount>
-		<CreditDiscount>250000</CreditDiscount>
+		<TradeinDiscount>100000</TradeinDiscount>
+		<CreditDiscount>100000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>500000</MaxDiscount>
+		<MaxDiscount>200000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LFMJN5BF6P3094590/5039b9d3d1bbb906c22e43e3ed979241.jpg" />
@@ -742,6 +763,65 @@
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LFMJN5BF6P3094591</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<ContactPhone>88652520202</ContactPhone>
+	</Ad>
+	<Ad>
+		<Id>9c0e8cbb725f379d559834cd4a47752e</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в пути</Availability>
+		<Category>Автомобили</Category>
+		<Description>❗ЭКСКЛЮЗИВНОЕ ПРЕДЛОЖЕНИЕ ОТ TOYOTA и LEXUS СТАВРОПОЛЬ❗
+
+❗Только до конца месяца действует особое кредитное предложение!❗
+
+✅ Автомобиль на гарантии
+✅ Эксклюзивная кредитная программа со сниженной процентной ставкой
+✅Выгодный обмен Вашего автомобиля на новый
+✅Индивидуальные предложения для каждого клиента
+
+Максимальная ВЫГОДА только до конца месяца!
+
+Автомобили Toyota от официального дилера ООО «Ставрополь-Авто» - это гарантия лучшей цены, качества и надежности! 
+Для Вашего удобства доступны он-лайн сервисы – оценка Вашего автомобиля, он-лайн одобрение кредита, покупка автомобиля он-лайн.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля. Есть предложения от другого Дилера? Приезжайте! И мы улучшим его.
+Готовы обсуждать условия покупки и договариваться о цене каждого автомобиля.  
+
+Не нашли нужную комплектацию? Мы закажем и привезем ее для Вас в максимально короткие сроки или подберем достойную альтернативу.
+
+Стоимость автомобиля указана с учетом текущих действующих акций и специальных предложений.</Description>
+		<Price>5300000</Price>
+		<TradeinDiscount>150000</TradeinDiscount>
+		<CreditDiscount>150000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>300000</MaxDiscount>
+		<Color>Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF2R3111873/9a4c77c867be421552166ef3d1ba9298.jpg" />
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF2R3111873/17fc387f17e632402baae54a3ff1441d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF2R3111873/8ca8e8de3678a33d23f1bf06309321e6.jpg" />
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF2R3111873/56bc359b436efb2ab5fea0627a6c64fa.jpg" />
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF2R3111873/338752ced9b724fe181c13fe146cf6a3.jpg" />
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF2R3111873/94e693f6936113dcea4e7606ab41a26d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF2R3111873/6656d5ee8ef37068cdff3904a78aa121.jpg" />
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF2R3111873/bf847a7625c319769bb2cc07346eade6.jpg" />
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF2R3111873/c278c3a7967bd9efea9340cf0967c299.jpg" />
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF2R3111873/a38e08a6d477bac8206547c91fea455c.jpg" />
+		</Images>
+		<Make>Toyota</Make>
+		<Model>RAV4</Model>
+		<GenerationId>426116</GenerationId>
+		<ModificationId>18374280</ModificationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Вариатор</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LFMJN5BF2R3111874</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<ContactPhone>88652520202</ContactPhone>
 	</Ad>
