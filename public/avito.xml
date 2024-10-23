@@ -47,6 +47,7 @@
 		<Model>Camry</Model>
 		<GenerationId>748502</GenerationId>
 		<ModificationId>18374143</ModificationId>
+		<ComplectationId>22077020</ComplectationId>
 		<FuelType>Бензин</FuelType>
 		<Transmission>Автомат</Transmission>
 		<Year>2023</Year>
@@ -104,6 +105,7 @@
 		<Model>Camry</Model>
 		<GenerationId>22027441</GenerationId>
 		<ModificationId>22032906</ModificationId>
+		<ComplectationId>22045706</ComplectationId>
 		<FuelType>Бензин</FuelType>
 		<Transmission>Вариатор</Transmission>
 		<Year>2024</Year>
@@ -161,6 +163,7 @@
 		<Model>Camry</Model>
 		<GenerationId>22027441</GenerationId>
 		<ModificationId>22032906</ModificationId>
+		<ComplectationId>22045706</ComplectationId>
 		<FuelType>Бензин</FuelType>
 		<Transmission>Вариатор</Transmission>
 		<Year>2024</Year>
@@ -218,6 +221,7 @@
 		<Model>Camry</Model>
 		<GenerationId>22027441</GenerationId>
 		<ModificationId>22032906</ModificationId>
+		<ComplectationId>22045706</ComplectationId>
 		<FuelType>Бензин</FuelType>
 		<Transmission>Вариатор</Transmission>
 		<Year>2024</Year>
@@ -226,62 +230,6 @@
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LVGBACEK0RG006059</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<ContactPhone>88652520202</ContactPhone>
-	</Ad>
-	<Ad>
-		<Id>b064e60cefb3f6dc7941ac192bf04633</Id>
-		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>❗ЭКСКЛЮЗИВНОЕ ПРЕДЛОЖЕНИЕ ОТ TOYOTA и LEXUS СТАВРОПОЛЬ❗
-
-✅ Автомобиль на гарантии
-✅ Эксклюзивная кредитная программа со сниженной процентной ставкой
-✅Выгодный обмен Вашего автомобиля на новый
-✅Индивидуальные предложения для каждого клиента
-
-Максимальная ВЫГОДА только до конца месяца!
-
-Автомобили Toyota от официального дилера ООО «Ставрополь-Авто» - это гарантия лучшей цены, качества и надежности! 
-Для Вашего удобства доступны он-лайн сервисы – оценка Вашего автомобиля, онлайн одобрение кредита, покупка автомобиля он-лайн.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля. Есть предложения от другого Дилера? Приезжайте! И мы улучшим его.
-Готовы обсуждать условия покупки и договариваться о цене каждого автомобиля.  
-
-Не нашли нужную комплектацию? Мы закажем и привезем ее для Вас в максимально короткие сроки или подберем достойную альтернативу.
-
-Стоимость автомобиля указана с учетом текущих действующих акций и специальных предложений.</Description>
-		<Price>4810000</Price>
-		<TradeinDiscount>150000</TradeinDiscount>
-		<CreditDiscount>150000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>300000</MaxDiscount>
-		<Color>Черный</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LVGBACEK2RG006305/48ba9257f1cd967bc82e95f5e588da72.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK2RG006305/106e826423ba5707aee5714bed3a11d8.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK2RG006305/2a9f49a96fb48eed935a0595dd1c3471.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK2RG006305/4ab759d2cd0a1c6dc6db15066c6ee6c7.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK2RG006305/99716ad423ed29630af17ed770813f23.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK2RG006305/99a877d8197efadc8b09fe19514cbbb1.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK2RG006305/c1e6b8d7d5795b15a8ca5cce0e198f11.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK2RG006305/205f76853d6b97442b51c91ec13b43d8.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK2RG006305/6a43c323e3b1dc95b10bae2936308a12.jpg" />
-		</Images>
-		<Make>Toyota</Make>
-		<Model>Camry</Model>
-		<GenerationId>22027441</GenerationId>
-		<ModificationId>22032906</ModificationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Вариатор</Transmission>
-		<Year>2024</Year>
-		<Doors>4</Doors>
-		<BodyType>Седан</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LVGBACEK2RG006306</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<ContactPhone>88652520202</ContactPhone>
 	</Ad>
@@ -333,6 +281,7 @@
 		<Model>Camry</Model>
 		<GenerationId>22027441</GenerationId>
 		<ModificationId>22027446</ModificationId>
+		<ComplectationId>22027450</ComplectationId>
 		<FuelType>Гибрид</FuelType>
 		<Transmission>Вариатор</Transmission>
 		<Year>2024</Year>
@@ -395,6 +344,7 @@
 		<Model>Camry</Model>
 		<GenerationId>22027441</GenerationId>
 		<ModificationId>22027446</ModificationId>
+		<ComplectationId>22027450</ComplectationId>
 		<FuelType>Гибрид</FuelType>
 		<Transmission>Вариатор</Transmission>
 		<Year>2024</Year>
@@ -453,6 +403,7 @@
 		<Model>Camry</Model>
 		<GenerationId>22027441</GenerationId>
 		<ModificationId>22027446</ModificationId>
+		<ComplectationId>22027450</ComplectationId>
 		<FuelType>Гибрид</FuelType>
 		<Transmission>Вариатор</Transmission>
 		<Year>2024</Year>
@@ -513,6 +464,7 @@
 		<Model>Corolla</Model>
 		<GenerationId>408658</GenerationId>
 		<ModificationId>408224</ModificationId>
+		<ComplectationId>409684</ComplectationId>
 		<FuelType>Бензин</FuelType>
 		<Transmission>Вариатор</Transmission>
 		<Year>2022</Year>
@@ -573,6 +525,7 @@
 		<Model>Land Cruiser Prado</Model>
 		<GenerationId>18663001</GenerationId>
 		<ModificationId>18663002</ModificationId>
+		<ComplectationId>22051809</ComplectationId>
 		<FuelType>Бензин</FuelType>
 		<Transmission>Автомат</Transmission>
 		<Year>2024</Year>
@@ -627,6 +580,7 @@
 		<Model>Land Cruiser</Model>
 		<GenerationId>887922</GenerationId>
 		<ModificationId>887987</ModificationId>
+		<ComplectationId>18413301</ComplectationId>
 		<FuelType>Бензин</FuelType>
 		<Transmission>Автомат</Transmission>
 		<Year>2022</Year>
@@ -691,6 +645,7 @@
 		<Model>RAV4</Model>
 		<GenerationId>426116</GenerationId>
 		<ModificationId>18374280</ModificationId>
+		<ComplectationId>18374283</ComplectationId>
 		<FuelType>Бензин</FuelType>
 		<Transmission>Вариатор</Transmission>
 		<Year>2023</Year>
@@ -755,6 +710,7 @@
 		<Model>RAV4</Model>
 		<GenerationId>426116</GenerationId>
 		<ModificationId>18374280</ModificationId>
+		<ComplectationId>18374283</ComplectationId>
 		<FuelType>Бензин</FuelType>
 		<Transmission>Вариатор</Transmission>
 		<Year>2023</Year>
@@ -814,6 +770,7 @@
 		<Model>RAV4</Model>
 		<GenerationId>426116</GenerationId>
 		<ModificationId>18374280</ModificationId>
+		<ComplectationId>18767159</ComplectationId>
 		<FuelType>Бензин</FuelType>
 		<Transmission>Вариатор</Transmission>
 		<Year>2024</Year>
@@ -822,6 +779,55 @@
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LFMJN5BF2R3111874</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<ContactPhone>88652520202</ContactPhone>
+	</Ad>
+	<Ad>
+		<Id>fb0128264616f0ba5606371d68c1458a</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в пути</Availability>
+		<Category>Автомобили</Category>
+		<Description>❗ЭКСКЛЮЗИВНОЕ ПРЕДЛОЖЕНИЕ ОТ TOYOTA и LEXUS СТАВРОПОЛЬ❗
+
+❗Только до конца месяца действует особое кредитное предложение!❗
+
+✅ Автомобиль на гарантии
+✅ Эксклюзивная кредитная программа со сниженной процентной ставкой
+✅Выгодный обмен Вашего автомобиля на новый
+✅Индивидуальные предложения для каждого клиента
+
+Максимальная ВЫГОДА только до конца месяца!
+
+Автомобили Toyota от официального дилера ООО «Ставрополь-Авто» - это гарантия лучшей цены, качества и надежности! 
+Для Вашего удобства доступны он-лайн сервисы – оценка Вашего автомобиля, он-лайн одобрение кредита, покупка автомобиля он-лайн.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля. Есть предложения от другого Дилера? Приезжайте! И мы улучшим его.
+Готовы обсуждать условия покупки и договариваться о цене каждого автомобиля.  
+
+Не нашли нужную комплектацию? Мы закажем и привезем ее для Вас в максимально короткие сроки или подберем достойную альтернативу.
+
+Стоимость автомобиля указана с учетом текущих действующих акций и специальных предложений.</Description>
+		<Price>5300000</Price>
+		<TradeinDiscount>150000</TradeinDiscount>
+		<CreditDiscount>150000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>300000</MaxDiscount>
+		<Color>Черный</Color>
+		<Images />
+		<Make>Toyota</Make>
+		<Model>RAV4</Model>
+		<GenerationId>426116</GenerationId>
+		<ModificationId>18374280</ModificationId>
+		<ComplectationId>18767159</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Вариатор</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LFMJN5BF5R3110475</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<ContactPhone>88652520202</ContactPhone>
 	</Ad>
@@ -871,6 +877,7 @@
 		<Model>LX</Model>
 		<GenerationId>17072338</GenerationId>
 		<ModificationId>17072342</ModificationId>
+		<ComplectationId>18772602</ComplectationId>
 		<FuelType>Бензин</FuelType>
 		<Transmission>Автомат</Transmission>
 		<Year>2024</Year>
@@ -937,6 +944,7 @@
 		<Model>RX</Model>
 		<GenerationId>18183380</GenerationId>
 		<ModificationId>18311983</ModificationId>
+		<ComplectationId>18590517</ComplectationId>
 		<FuelType>Бензин</FuelType>
 		<Transmission>Автомат</Transmission>
 		<Year>2024</Year>
@@ -999,6 +1007,7 @@
 		<Model>RX</Model>
 		<GenerationId>18183380</GenerationId>
 		<ModificationId>18311983</ModificationId>
+		<ComplectationId>18590517</ComplectationId>
 		<FuelType>Бензин</FuelType>
 		<Transmission>Автомат</Transmission>
 		<Year>2024</Year>
@@ -1060,6 +1069,7 @@
 		<Model>RX</Model>
 		<GenerationId>18183380</GenerationId>
 		<ModificationId>18311983</ModificationId>
+		<ComplectationId>18559669</ComplectationId>
 		<FuelType>Бензин</FuelType>
 		<Transmission>Автомат</Transmission>
 		<Year>2024</Year>
@@ -1125,6 +1135,7 @@
 		<Model>RX</Model>
 		<GenerationId>18183380</GenerationId>
 		<ModificationId>18311983</ModificationId>
+		<ComplectationId>18559669</ComplectationId>
 		<FuelType>Бензин</FuelType>
 		<Transmission>Автомат</Transmission>
 		<Year>2024</Year>
