@@ -748,7 +748,7 @@
 Не нашли нужную комплектацию? Мы закажем и привезем ее для Вас в максимально короткие сроки или подберем достойную альтернативу.
 
 Стоимость автомобиля указана с учетом текущих действующих акций и специальных предложений.</Description>
-		<Price>5300000</Price>
+		<Price>5100000</Price>
 		<TradeinDiscount>150000</TradeinDiscount>
 		<CreditDiscount>150000</CreditDiscount>
 		<InsuranceDiscount />
@@ -783,10 +783,10 @@
 		<ContactPhone>88652520202</ContactPhone>
 	</Ad>
 	<Ad>
-		<Id>fb0128264616f0ba5606371d68c1458a</Id>
+		<Id>03927977e6d90527b3e17aa4296b9b27</Id>
 		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
 		<CarType>Новые</CarType>
-		<Availability>в пути</Availability>
+		<Availability>в наличии</Availability>
 		<Category>Автомобили</Category>
 		<Description>❗ЭКСКЛЮЗИВНОЕ ПРЕДЛОЖЕНИЕ ОТ TOYOTA и LEXUS СТАВРОПОЛЬ❗
 
