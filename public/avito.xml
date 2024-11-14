@@ -693,7 +693,20 @@
 		<InsuranceDiscount />
 		<MaxDiscount>300000</MaxDiscount>
 		<Color>Черный</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/e48e9c4aa5e45541353cc8723d0a497e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/e1823329855543046b0ea26aa9fa85db.jpg" />
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/8da89cae6d280213af20c6b9fd236cb7.jpg" />
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/8b80342948de7341d45851eea41d4f85.jpg" />
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/aeff4b5cf0d699743f5f87b1ab460e03.jpg" />
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/85ad7bfb49ab66326097b6ee75040f43.jpg" />
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/34ad894c5b1ee5f489aab714a5776f23.jpg" />
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/ced03179cde49216fb19195bd4299c4c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/2dd49086eec7d420a16f0bcf742183f3.jpg" />
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/c384eea4fa8c5cd7c54c8e8552b758a4.jpg" />
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/27037f6fb43464cdaf97023d64daf188.jpg" />
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/8d836933d26212aa70b7426404f1e93c.jpg" />
+		</Images>
 		<Make>Toyota</Make>
 		<Model>RAV4</Model>
 		<GenerationId>426116</GenerationId>
