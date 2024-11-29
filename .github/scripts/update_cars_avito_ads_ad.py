@@ -124,6 +124,26 @@ remove_folder_ids = [
 ]
 cars_element = root
 
+cars_remove_after_duplicate = [
+    'LVGBC74K4PG236685',
+    'LVGBACEKXRG006049',
+    'LVGBACEK7RG006008',
+    'LVGBACEK0RG006058',
+    'LVGBECEK3RG518305',
+    'LVGBECEK5RG508603',
+    'LVGBECEK4RG021456',
+    'JTEAACAJ8RK000609',
+    'JTMABABJ604064272',
+    'LFMJN5BF6P3094590',
+    'LFMJN5BF1P3094495',
+    'LFMJN5BF8R3110405',
+    'JTJPBBCX304047123',
+    'JTJCHBJA202012399',
+    'JTJCHBJA202013200',
+    'JTJCHBJA202013942',
+    'JTJCHBJA702011927',
+]
+
 for car in cars_element:
     should_remove = False
     
@@ -156,7 +176,8 @@ for car in cars_element:
         duplicates = duplicate_car(car, air_storage_data[vin], "в наличии", 0)
         all_duplicates.extend(duplicates)
     
-    # Добавляем дубликаты в отдельный список
+    if vin and vin in cars_remove_after_duplicate:
+        cars_to_remove.append(car)
 
 # Удаляем все не-BelGee машины
 for car in cars_to_remove:
