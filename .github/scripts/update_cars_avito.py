@@ -1,4 +1,3 @@
-# python3 .github/scripts/update_cars_avito.py
 import argparse
 import os
 import yaml
@@ -146,18 +145,11 @@ for car in cars_element:
         cars_to_remove.append(car)
         continue  # Пропускаем остальные операции для этой машины
 
-    unique_id = f"{build_unique_id(car, 'mark_id', 'folder_id', 'modification_id', 'complectation_name', 'color', 'year')}"
-    unique_id = f"{process_unique_id(unique_id)}"
-    print(f"Уникальный идентификатор: {unique_id}")
-    # create_child_element(car, 'url', f"https://{repo_name}/cars/{unique_id}/")
-
-    car_vin = car.find('VIN').text
-    new_vin = modify_vin(car_vin.lower(), 1)
-    update_element_text(car, 'VIN', new_vin.upper())
-    car_id = car.find('Id').text
-    new_id = increment_str(car_id, 1)
-    update_element_text(car, 'Id', new_id)
-
+    friendly_url = f"{join_car_data(car, 'mark_id', 'folder_id', 'modification_id', 'complectation_name', 'color', 'year')}"
+    friendly_url = f"{process_friendly_url(friendly_url)}"
+    print(f"Уникальный идентификатор: {friendly_url}")
+    create_child_element(car, 'url', f"https://{repo_name}/cars/{friendly_url}/")
+    update_element_text(car, 'color', avitoColor(car.find('color').text))
     
     # Получаем VIN автомобиля
     vin = car.find('vin').text if car.find('vin') is not None else None
