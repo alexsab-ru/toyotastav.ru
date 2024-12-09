@@ -58,64 +58,6 @@
 		<ContactPhone>+7 865 2978075</ContactPhone>
 	</Ad>
 	<Ad>
-		<Id>ec69e09003d699034435623f17109a37</Id>
-		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>❗ЭКСКЛЮЗИВНОЕ ПРЕДЛОЖЕНИЕ ОТ TOYOTA и LEXUS СТАВРОПОЛЬ❗
-
-✅ Автомобиль на гарантии
-✅ Эксклюзивная кредитная программа со сниженной процентной ставкой
-✅Выгодный обмен Вашего автомобиля на новый
-✅Индивидуальные предложения для каждого клиента
-
-Максимальная ВЫГОДА только до конца месяца!
-
-Автомобили Toyota от официального дилера ООО «Ставрополь-Авто» - это гарантия лучшей цены, качества и надежности! 
-Для Вашего удобства доступны он-лайн сервисы – оценка Вашего автомобиля, онлайн одобрение кредита, покупка автомобиля он-лайн.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля. Есть предложения от другого Дилера? Приезжайте! И мы улучшим его.
-Готовы обсуждать условия покупки и договариваться о цене каждого автомобиля.  
-
-Не нашли нужную комплектацию? Мы закажем и привезем ее для Вас в максимально короткие сроки или подберем достойную альтернативу.
-
-Стоимость автомобиля указана с учетом текущих действующих акций и специальных предложений.</Description>
-		<Price>5090000</Price>
-		<TradeinDiscount>150000</TradeinDiscount>
-		<CreditDiscount>150000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>300000</MaxDiscount>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/542b0093c96d249bd86aebb07a5b267b.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/3742401f2bc5bf77dd5cc888c8e2846f.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/a51506e42dcbd4e9df17c32060848511.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/4512d7be79e51d00d4e2a85921488136.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/d759ae3e2c9012d6db38826398db38c0.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/e899afb15b6dbfbc315bcc1411f782db.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/ff7df3cc7f4e5730b704267527d69fc1.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/90b3beca2a8cefcad2bf37be735e44de.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/57087b87efed54aee14b81b29b19c7ea.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/da5275969b7d756f3a2c23061c11b323.jpg" />
-		</Images>
-		<Make>Toyota</Make>
-		<Model>Camry</Model>
-		<GenerationId>22027441</GenerationId>
-		<ModificationId>22032906</ModificationId>
-		<ComplectationId>22045706</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Вариатор</Transmission>
-		<Year>2024</Year>
-		<Doors>4</Doors>
-		<BodyType>Седан</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LVGBACEK0RG006059</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<ContactPhone>+7 865 2978075</ContactPhone>
-	</Ad>
-	<Ad>
 		<Id>026773f78fe4405ca39b531f1dda966a</Id>
 		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
 		<CarType>Новые</CarType>
@@ -170,6 +112,64 @@
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LVGBACEK7RG006009</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<ContactPhone>+7 865 2978075</ContactPhone>
+	</Ad>
+	<Ad>
+		<Id>ec69e09003d699034435623f17109a37</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>❗ЭКСКЛЮЗИВНОЕ ПРЕДЛОЖЕНИЕ ОТ TOYOTA и LEXUS СТАВРОПОЛЬ❗
+
+✅ Автомобиль на гарантии
+✅ Эксклюзивная кредитная программа со сниженной процентной ставкой
+✅Выгодный обмен Вашего автомобиля на новый
+✅Индивидуальные предложения для каждого клиента
+
+Максимальная ВЫГОДА только до конца месяца!
+
+Автомобили Toyota от официального дилера ООО «Ставрополь-Авто» - это гарантия лучшей цены, качества и надежности! 
+Для Вашего удобства доступны он-лайн сервисы – оценка Вашего автомобиля, онлайн одобрение кредита, покупка автомобиля он-лайн.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля. Есть предложения от другого Дилера? Приезжайте! И мы улучшим его.
+Готовы обсуждать условия покупки и договариваться о цене каждого автомобиля.  
+
+Не нашли нужную комплектацию? Мы закажем и привезем ее для Вас в максимально короткие сроки или подберем достойную альтернативу.
+
+Стоимость автомобиля указана с учетом текущих действующих акций и специальных предложений.</Description>
+		<Price>5090000</Price>
+		<TradeinDiscount>150000</TradeinDiscount>
+		<CreditDiscount>150000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>300000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/542b0093c96d249bd86aebb07a5b267b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/3742401f2bc5bf77dd5cc888c8e2846f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/a51506e42dcbd4e9df17c32060848511.jpg" />
+			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/4512d7be79e51d00d4e2a85921488136.jpg" />
+			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/d759ae3e2c9012d6db38826398db38c0.jpg" />
+			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/e899afb15b6dbfbc315bcc1411f782db.jpg" />
+			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/ff7df3cc7f4e5730b704267527d69fc1.jpg" />
+			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/90b3beca2a8cefcad2bf37be735e44de.jpg" />
+			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/57087b87efed54aee14b81b29b19c7ea.jpg" />
+			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/da5275969b7d756f3a2c23061c11b323.jpg" />
+		</Images>
+		<Make>Toyota</Make>
+		<Model>Camry</Model>
+		<GenerationId>22027441</GenerationId>
+		<ModificationId>22032906</ModificationId>
+		<ComplectationId>22045706</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Вариатор</Transmission>
+		<Year>2024</Year>
+		<Doors>4</Doors>
+		<BodyType>Седан</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LVGBACEK0RG006059</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<ContactPhone>+7 865 2978075</ContactPhone>
 	</Ad>
@@ -718,74 +718,6 @@
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>JTJPBBCX304047124</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<ContactPhone>+7 865 2978075</ContactPhone>
-	</Ad>
-	<Ad>
-		<Id>2216a0399026d95f99a6639751c5ef86</Id>
-		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>❗ЭКСКЛЮЗИВНОЕ ПРЕДЛОЖЕНИЕ ОТ TOYOTA и LEXUS СТАВРОПОЛЬ❗
-
-❗Только до конца месяца действует особое кредитное предложение!❗
-
-✅ Автомобиль на гарантии
-✅ Эксклюзивная кредитная программа со сниженной процентной ставкой
-✅Выгодный обмен Вашего автомобиля на новый
-✅Индивидуальные предложения для каждого клиента
-
-Максимальная ВЫГОДА только до конца месяца!
-
-Автомобили Toyota от официального дилера ООО «Ставрополь-Авто» - это гарантия лучшей цены, качества и надежности! 
-Для Вашего удобства доступны он-лайн сервисы – оценка Вашего автомобиля, он-лайн одобрение кредита, покупка автомобиля он-лайн.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля. Есть предложения от другого Дилера? Приезжайте! И мы улучшим его.
-Готовы обсуждать условия покупки и договариваться о цене каждого автомобиля.  
-
-Не нашли нужную комплектацию? Мы закажем и привезем ее для Вас в максимально короткие сроки или подберем достойную альтернативу.
-
-Стоимость автомобиля указана с учетом текущих действующих акций и специальных предложений.</Description>
-		<Price>11350000</Price>
-		<TradeinDiscount>250000</TradeinDiscount>
-		<CreditDiscount>250000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>500000</MaxDiscount>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/JTJCHBJA202012399/aeff3404ef4364577ccbdc18a4ffa506.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTJCHBJA202012399/d2880bb8832a8545f34ddd729e0383a3.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTJCHBJA202012399/69f18f99038f1ed223b038efa8c1cf4c.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTJCHBJA202012399/089b515b7e662e5214fd759db78f9659.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTJCHBJA202012399/3f09a77cd955f1081b62f60b11d27b81.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTJCHBJA202012399/94ea15ea7d06821a692ef76b6e4896f4.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTJCHBJA202012399/447981f394f84f8ff6ccd86d54f8705e.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTJCHBJA202012399/ae0955a69e2ec3392789b8e8e89b813e.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTJCHBJA202012399/9670620cf241c92068746d2e2fd2763c.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTJCHBJA202012399/5d676a70869ed0f97c49b539caae527d.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTJCHBJA202012399/5a9c91a4625d9ace26e26c70072d5ab1.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTJCHBJA202012399/5be73d7f5e2bc2652139df7e2adbaf09.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTJCHBJA202012399/67187e445b7fc73e411868de0de06fa7.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTJCHBJA202012399/61797b698a2eaaa1ba0d35d034fb0d1e.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTJCHBJA202012399/84fc156d92a4557cabe6a58f8b3e5bd9.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTJCHBJA202012399/af7f6558995edc2a88f9cb1b046e47cd.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTJCHBJA202012399/92f7f31bcfd9e69eaae83787efb1fe3b.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTJCHBJA202012399/e51185eb431fd273da0522792c47c508.jpg" />
-		</Images>
-		<Make>Lexus</Make>
-		<Model>RX</Model>
-		<GenerationId>18183380</GenerationId>
-		<ModificationId>18311983</ModificationId>
-		<ComplectationId>18590517</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2024</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>JTJCHBJA202012400</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<ContactPhone>+7 865 2978075</ContactPhone>
 	</Ad>
