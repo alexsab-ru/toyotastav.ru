@@ -81,11 +81,11 @@
 Не нашли нужную комплектацию? Мы закажем и привезем ее для Вас в максимально короткие сроки или подберем достойную альтернативу.
 
 Стоимость автомобиля указана с учетом текущих действующих акций и специальных предложений.</Description>
-		<Price>5090000</Price>
-		<TradeinDiscount />
-		<CreditDiscount />
+		<Price>5200000</Price>
+		<TradeinDiscount>150000</TradeinDiscount>
+		<CreditDiscount>350000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount />
+		<MaxDiscount>500000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/2101de90c0a6fac2cd196c0d5cd0ae9e.jpg" />
@@ -139,11 +139,11 @@
 Не нашли нужную комплектацию? Мы закажем и привезем ее для Вас в максимально короткие сроки или подберем достойную альтернативу.
 
 Стоимость автомобиля указана с учетом текущих действующих акций и специальных предложений.</Description>
-		<Price>5090000</Price>
-		<TradeinDiscount />
-		<CreditDiscount />
+		<Price>5250000</Price>
+		<TradeinDiscount>150000</TradeinDiscount>
+		<CreditDiscount>350000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount />
+		<MaxDiscount>500000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/2c6658d03325a1f9276753de39d79f5c.jpg" />
@@ -200,8 +200,8 @@
 
 Стоимость автомобиля указана с учетом текущих действующих акций и специальных предложений.</Description>
 		<Price>5740000</Price>
-		<TradeinDiscount>150000</TradeinDiscount>
-		<CreditDiscount>150000</CreditDiscount>
+		<TradeinDiscount>100000</TradeinDiscount>
+		<CreditDiscount>200000</CreditDiscount>
 		<InsuranceDiscount />
 		<MaxDiscount>300000</MaxDiscount>
 		<Color>Белый</Color>
@@ -259,9 +259,9 @@
 Не нашли нужную комплектацию? Мы закажем и привезем ее для Вас в максимально короткие сроки или подберем достойную альтернативу.
 
 Стоимость автомобиля указана с учетом текущих действующих акций и специальных предложений.</Description>
-		<Price>5290000</Price>
-		<TradeinDiscount>150000</TradeinDiscount>
-		<CreditDiscount>150000</CreditDiscount>
+		<Price>5399000</Price>
+		<TradeinDiscount>100000</TradeinDiscount>
+		<CreditDiscount>200000</CreditDiscount>
 		<InsuranceDiscount />
 		<MaxDiscount>300000</MaxDiscount>
 		<Color>Черный</Color>
@@ -323,10 +323,10 @@
 
 Стоимость автомобиля указана с учетом текущих действующих акций и специальных предложений.</Description>
 		<Price>12690000</Price>
-		<TradeinDiscount>100000</TradeinDiscount>
-		<CreditDiscount>100000</CreditDiscount>
+		<TradeinDiscount>200000</TradeinDiscount>
+		<CreditDiscount>300000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>200000</MaxDiscount>
+		<MaxDiscount>500000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/d89f63d35c6d113ce6310373563fedfc.jpg" />
@@ -384,10 +384,10 @@
 
 Стоимость автомобиля указана с учетом текущих действующих акций и специальных предложений.</Description>
 		<Price>17850000</Price>
-		<TradeinDiscount>300000</TradeinDiscount>
-		<CreditDiscount>300000</CreditDiscount>
+		<TradeinDiscount>200000</TradeinDiscount>
+		<CreditDiscount>650000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>600000</MaxDiscount>
+		<MaxDiscount>850000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/JTMABABJ604064272/a5e2e24dca81ddff90c128a76f7c6834.jpg" />
