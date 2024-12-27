@@ -1,0 +1,39 @@
+{
+    "autoru": {
+        "move_vin_id_up": 0,
+        "new_address": "",
+        "replacements": {
+        },
+        "elements_to_localize": [
+        ],
+        "remove_cars_after_duplicate": [
+        ],
+        "remove_mark_ids": [
+        ],
+        "remove_folder_ids": [
+        ]
+    },
+    "avito": {
+        "move_vin_id_up": 1,
+        "new_address": "Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32", 
+        "replacements": {
+            "Лeксуc-Oрeнбуpг": "Лeксуc",
+            "Лeксуc-Оренбург": "Лeксуc",
+            "Лексус-Opенбург": "Лeксуc",
+            "Лексус - Самара": "Лексус",
+            "Лексус-Самара": "Лексус",
+            "г. Пенза, ул. Ульяновская, 91": "г. Ставрополь, пр-кт Кулакова,  №32",
+            "Оренбург, Загородное ш. 13": "г. Ставрополь, пр-кт Кулакова,  №32",
+            "г. Ставрополь, пр-кт Кулакова,  №32": "г. Ставрополь, пр-кт Кулакова,  №32"
+        },
+        "elements_to_localize": [
+        ],
+        "remove_cars_after_duplicate": [
+        ],
+        "remove_mark_ids": [
+            "Toyota"
+        ],
+        "remove_folder_ids": [
+        ]
+    }
+}

@@ -76,7 +76,7 @@ jobs:
     - name: Get one XML
       if: ${{ vars.ENV_XML_URL }}
       run: |
-        python3 .github/scripts/getOneXML.py
+        python .github/scripts/getOneXML.py
       env:
         ENV_XML_URL: ${{ vars.ENV_XML_URL }}
 
@@ -99,7 +99,7 @@ jobs:
     - name: Get XML for auto.ru
       if: ${{ vars.AUTORU_XML_URL }}
       run: |
-        python3 .github/scripts/getOneXML.py
+        python .github/scripts/getOneXML.py
       env:
         ENV_XML_URL: ${{ vars.AUTORU_XML_URL }}
 
@@ -111,20 +111,34 @@ jobs:
         REPO_NAME: ${{ github.event.repository.name }}
         XML_URL: ${{ vars.AUTORU_XML_URL }}
 
-    - name: Get XML for avito
+    - name: Get Dealer Avito xml
       if: ${{ vars.AVITO_XML_URL }}
       run: |
-        python3 .github/scripts/getOneXML.py
+        python .github/scripts/getOneXML.py
+        python .github/scripts/update_cars_air_storage.py --source_type avito --output_path="./public/avito_dc.xml"
       env:
         ENV_XML_URL: ${{ vars.AVITO_XML_URL }}
-
-    - name: Generate avito xml
-      if: ${{ vars.AVITO_XML_URL }}
-      run: |
-        python .github/scripts/update_cars_air_storage.py --source_type avito
-      env:
         REPO_NAME: ${{ github.event.repository.name }}
         XML_URL: ${{ vars.AVITO_XML_URL }}
+
+    - name: Get friends Avito xml
+      if: ${{ vars.AVITO_FRIEND_XML_URL }}
+      run: |
+        python .github/scripts/getOneXML.py --output="cars_friend.xml"
+        python .github/scripts/update_cars_air_storage.py --source_type avito --input_file cars_friend.xml --output_path="./public/avito_friend.xml" --config_path="./.github/scripts/config_air_storage-friend.json"
+      env:
+        ENV_XML_URL: ${{ vars.AVITO_FRIEND_XML_URL }}
+        REPO_NAME: ${{ github.event.repository.name }}
+        XML_URL: ${{ vars.AVITO_FRIEND_XML_URL }}
+
+    - name: Merge Avito xmls
+      if: ${{ vars.AVITO_FRIEND_XML_URL }}
+      run: |
+        python .github/scripts/getOneXML.py --output_path="./public/avito.xml"
+      env:
+        ENV_XML_URL: "./public/avito_dc.xml ./public/avito_friend.xml"
+        REPO_NAME: ${{ github.event.repository.name }}
+        XML_URL: ${{ vars.AVITO_FRIEND_XML_URL }}
 
     - name: Set output
       id: set_output
