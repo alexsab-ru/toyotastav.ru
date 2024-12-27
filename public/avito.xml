@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <Ads><Ad>
 		<Id>ed646a0855e88f7ff0d42dec225fa66c</Id>
 		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
@@ -26,20 +26,20 @@
 		<Price>5200000</Price>
 		<TradeinDiscount>150000</TradeinDiscount>
 		<CreditDiscount>350000</CreditDiscount>
-		<InsuranceDiscount />
+		<InsuranceDiscount/>
 		<MaxDiscount>500000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/LVGBACEKXRG006049/0e9a878abb00561e69cf8ff3ce18517d.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEKXRG006049/18b276bd06a91fd1595f6022cfe34a59.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEKXRG006049/444166b13cdc7d3a0130ac4d5b76d9e8.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEKXRG006049/9144971653b1de110abc343e8e89ab62.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEKXRG006049/2caecb4e64414215572445722b99fc6b.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEKXRG006049/24edf9f4570b1c6faed742fbbb7d009c.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEKXRG006049/e0457f9eb47a8c7d91efc15e91ce360a.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEKXRG006049/610ea20bcd3b815c08b627e42babde74.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEKXRG006049/b4e26974fed49a70e92a7d4d736b965b.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEKXRG006049/cba903c725625ee07bf092e6b6bce477.jpg" />
+			<Image url="https://photo.toyotasever.ru/LVGBACEKXRG006049/0e9a878abb00561e69cf8ff3ce18517d.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEKXRG006049/18b276bd06a91fd1595f6022cfe34a59.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEKXRG006049/444166b13cdc7d3a0130ac4d5b76d9e8.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEKXRG006049/9144971653b1de110abc343e8e89ab62.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEKXRG006049/2caecb4e64414215572445722b99fc6b.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEKXRG006049/24edf9f4570b1c6faed742fbbb7d009c.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEKXRG006049/e0457f9eb47a8c7d91efc15e91ce360a.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEKXRG006049/610ea20bcd3b815c08b627e42babde74.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEKXRG006049/b4e26974fed49a70e92a7d4d736b965b.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEKXRG006049/cba903c725625ee07bf092e6b6bce477.jpg"/>
 		</Images>
 		<Make>Toyota</Make>
 		<Model>Camry</Model>
@@ -84,20 +84,20 @@
 		<Price>5200000</Price>
 		<TradeinDiscount>150000</TradeinDiscount>
 		<CreditDiscount>350000</CreditDiscount>
-		<InsuranceDiscount />
+		<InsuranceDiscount/>
 		<MaxDiscount>500000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/2101de90c0a6fac2cd196c0d5cd0ae9e.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/3742401f2bc5bf77dd5cc888c8e2846f.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/a51506e42dcbd4e9df17c32060848511.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/4512d7be79e51d00d4e2a85921488136.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/d759ae3e2c9012d6db38826398db38c0.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/e899afb15b6dbfbc315bcc1411f782db.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/ff7df3cc7f4e5730b704267527d69fc1.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/90b3beca2a8cefcad2bf37be735e44de.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/57087b87efed54aee14b81b29b19c7ea.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/da5275969b7d756f3a2c23061c11b323.jpg" />
+			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/2101de90c0a6fac2cd196c0d5cd0ae9e.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/3742401f2bc5bf77dd5cc888c8e2846f.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/a51506e42dcbd4e9df17c32060848511.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/4512d7be79e51d00d4e2a85921488136.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/d759ae3e2c9012d6db38826398db38c0.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/e899afb15b6dbfbc315bcc1411f782db.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/ff7df3cc7f4e5730b704267527d69fc1.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/90b3beca2a8cefcad2bf37be735e44de.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/57087b87efed54aee14b81b29b19c7ea.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEK0RG006058/da5275969b7d756f3a2c23061c11b323.jpg"/>
 		</Images>
 		<Make>Toyota</Make>
 		<Model>Camry</Model>
@@ -142,20 +142,20 @@
 		<Price>5250000</Price>
 		<TradeinDiscount>150000</TradeinDiscount>
 		<CreditDiscount>350000</CreditDiscount>
-		<InsuranceDiscount />
+		<InsuranceDiscount/>
 		<MaxDiscount>500000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/2c6658d03325a1f9276753de39d79f5c.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/8a87ed2a54e6e9c336b38d98f1086a4f.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/3f555b5b4e84591fb84eccbb54e3a55c.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/9f336e562169025c31bae5b1ba78e06e.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/980cb83c91b00be7525c5e37692020a8.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/ad36d4e77f60e5beeb992cca2ffd7362.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/c597cc30093ada041d6dfe20147ec1e0.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/cb53b4807e54ac9c539d0f3bfac3c8e5.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/956b541b3a5c34a4c352cede6f1cb72f.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/a2aad86ed24d7adb553460fc93b745c6.jpg" />
+			<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/2c6658d03325a1f9276753de39d79f5c.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/8a87ed2a54e6e9c336b38d98f1086a4f.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/3f555b5b4e84591fb84eccbb54e3a55c.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/9f336e562169025c31bae5b1ba78e06e.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/980cb83c91b00be7525c5e37692020a8.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/ad36d4e77f60e5beeb992cca2ffd7362.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/c597cc30093ada041d6dfe20147ec1e0.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/cb53b4807e54ac9c539d0f3bfac3c8e5.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/956b541b3a5c34a4c352cede6f1cb72f.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/a2aad86ed24d7adb553460fc93b745c6.jpg"/>
 		</Images>
 		<Make>Toyota</Make>
 		<Model>Camry</Model>
@@ -202,20 +202,20 @@
 		<Price>5740000</Price>
 		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount>200000</CreditDiscount>
-		<InsuranceDiscount />
+		<InsuranceDiscount/>
 		<MaxDiscount>300000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK3RG518305/c4e47f1f136a6a5c7bcc9a109d6947b8.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBECEK3RG518305/1313555e304c13d3b1ad14a6d2627b39.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBECEK3RG518305/590924040b437cbb8a51ac679bdeb1d3.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBECEK3RG518305/a0dab900110902ee2a01b4b85ec92af2.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBECEK3RG518305/51f3e82e1f9a479c5d68496985f5e299.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBECEK3RG518305/7298c116761283ebe27e88c203e7bb35.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBECEK3RG518305/926d8222f647a4814e6211e574588d92.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBECEK3RG518305/6d315887662d90066962b021e30d1638.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBECEK3RG518305/e7850c5dff181db5eba3cfb1d616411c.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBECEK3RG518305/68702dacf1a3aa317b0bce8223649cf7.jpg" />
+			<Image url="https://photo.toyotasever.ru/LVGBECEK3RG518305/c4e47f1f136a6a5c7bcc9a109d6947b8.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK3RG518305/1313555e304c13d3b1ad14a6d2627b39.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK3RG518305/590924040b437cbb8a51ac679bdeb1d3.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK3RG518305/a0dab900110902ee2a01b4b85ec92af2.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK3RG518305/51f3e82e1f9a479c5d68496985f5e299.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK3RG518305/7298c116761283ebe27e88c203e7bb35.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK3RG518305/926d8222f647a4814e6211e574588d92.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK3RG518305/6d315887662d90066962b021e30d1638.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK3RG518305/e7850c5dff181db5eba3cfb1d616411c.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK3RG518305/68702dacf1a3aa317b0bce8223649cf7.jpg"/>
 		</Images>
 		<Make>Toyota</Make>
 		<Model>Camry</Model>
@@ -262,23 +262,23 @@
 		<Price>5399000</Price>
 		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount>200000</CreditDiscount>
-		<InsuranceDiscount />
+		<InsuranceDiscount/>
 		<MaxDiscount>300000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/de93572da23bb220ea4b430f80213360.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/9e6d21c561911154d02c3b16b96c59fe.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/38a02e372380c4b0719bc86c7633e9d7.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/a8ada75e8b56acc5e9ad8b21a26017cd.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/dcfb972aae16483bfc3e97064ba7bb99.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/7f762f11d9a1411e5fb66b23826c2d99.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/d9bd15a2ff1b50ab1c0ebdf14e04054f.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/3ab48ba116d81e93d7bb2eb063c6585e.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/ff607e82e8063086150205f2eff072ae.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/73436c8a7a2d74bb9b10e9cf155c0290.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/90b3d844eded26ca18644b80960fe3c5.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/40ba77a8147ab9c28abf2af23c72e6c6.jpg" />
-			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/9f9ae6108b917afcd6c51dd0b6ba9a80.jpg" />
+			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/de93572da23bb220ea4b430f80213360.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/9e6d21c561911154d02c3b16b96c59fe.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/38a02e372380c4b0719bc86c7633e9d7.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/a8ada75e8b56acc5e9ad8b21a26017cd.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/dcfb972aae16483bfc3e97064ba7bb99.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/7f762f11d9a1411e5fb66b23826c2d99.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/d9bd15a2ff1b50ab1c0ebdf14e04054f.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/3ab48ba116d81e93d7bb2eb063c6585e.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/ff607e82e8063086150205f2eff072ae.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/73436c8a7a2d74bb9b10e9cf155c0290.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/90b3d844eded26ca18644b80960fe3c5.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/40ba77a8147ab9c28abf2af23c72e6c6.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/9f9ae6108b917afcd6c51dd0b6ba9a80.jpg"/>
 		</Images>
 		<Make>Toyota</Make>
 		<Model>Camry</Model>
@@ -325,21 +325,21 @@
 		<Price>12690000</Price>
 		<TradeinDiscount>200000</TradeinDiscount>
 		<CreditDiscount>300000</CreditDiscount>
-		<InsuranceDiscount />
+		<InsuranceDiscount/>
 		<MaxDiscount>500000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/d89f63d35c6d113ce6310373563fedfc.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/543a2250484401df21de98fda5b1fd5a.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/92d3ffc1eff51e8d4fe187b402ff18c1.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/65d15feed9ca696c3068bf1405f8f75e.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/5d6a4219855cffdec2db7c69bb05ea50.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/3172807fbfe879fe7005ba8c3fb3174b.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/276c9441b8cd7aaf52d3a3a492512a08.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/42cd4bb80f7bf3963877764f1c8df80e.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/35505515557139864e79e5334e1b9126.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/5729353c2c60f50f6a9e28c41dbd4186.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/dd95b43260299a501d50376a3f5fc6d5.jpg" />
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/d89f63d35c6d113ce6310373563fedfc.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/543a2250484401df21de98fda5b1fd5a.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/92d3ffc1eff51e8d4fe187b402ff18c1.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/65d15feed9ca696c3068bf1405f8f75e.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/5d6a4219855cffdec2db7c69bb05ea50.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/3172807fbfe879fe7005ba8c3fb3174b.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/276c9441b8cd7aaf52d3a3a492512a08.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/42cd4bb80f7bf3963877764f1c8df80e.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/35505515557139864e79e5334e1b9126.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/5729353c2c60f50f6a9e28c41dbd4186.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/dd95b43260299a501d50376a3f5fc6d5.jpg"/>
 		</Images>
 		<Make>Toyota</Make>
 		<Model>Land Cruiser Prado</Model>
@@ -386,15 +386,15 @@
 		<Price>17850000</Price>
 		<TradeinDiscount>200000</TradeinDiscount>
 		<CreditDiscount>650000</CreditDiscount>
-		<InsuranceDiscount />
+		<InsuranceDiscount/>
 		<MaxDiscount>850000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/JTMABABJ604064272/a5e2e24dca81ddff90c128a76f7c6834.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTMABABJ604064272/f1cfe51eab71231f414b0a477cad381b.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTMABABJ604064272/1c28ae31eacaebe75a8be6f3a595de91.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTMABABJ604064272/ed2f91397488f5bab7ac7fd88d9df432.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTMABABJ604064272/e4a1f23a6394eff555da3c8d65f3c993.jpg" />
+			<Image url="https://photo.toyotasever.ru/JTMABABJ604064272/a5e2e24dca81ddff90c128a76f7c6834.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTMABABJ604064272/f1cfe51eab71231f414b0a477cad381b.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTMABABJ604064272/1c28ae31eacaebe75a8be6f3a595de91.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTMABABJ604064272/ed2f91397488f5bab7ac7fd88d9df432.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTMABABJ604064272/e4a1f23a6394eff555da3c8d65f3c993.jpg"/>
 		</Images>
 		<Make>Toyota</Make>
 		<Model>Land Cruiser</Model>
@@ -441,22 +441,22 @@
 		<Price>5290000</Price>
 		<TradeinDiscount>150000</TradeinDiscount>
 		<CreditDiscount>150000</CreditDiscount>
-		<InsuranceDiscount />
+		<InsuranceDiscount/>
 		<MaxDiscount>300000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/205b29c54040a9717596cc6bfd30c524.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/e1823329855543046b0ea26aa9fa85db.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/8da89cae6d280213af20c6b9fd236cb7.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/8b80342948de7341d45851eea41d4f85.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/aeff4b5cf0d699743f5f87b1ab460e03.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/85ad7bfb49ab66326097b6ee75040f43.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/34ad894c5b1ee5f489aab714a5776f23.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/ced03179cde49216fb19195bd4299c4c.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/2dd49086eec7d420a16f0bcf742183f3.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/c384eea4fa8c5cd7c54c8e8552b758a4.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/27037f6fb43464cdaf97023d64daf188.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/8d836933d26212aa70b7426404f1e93c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/205b29c54040a9717596cc6bfd30c524.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/e1823329855543046b0ea26aa9fa85db.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/8da89cae6d280213af20c6b9fd236cb7.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/8b80342948de7341d45851eea41d4f85.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/aeff4b5cf0d699743f5f87b1ab460e03.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/85ad7bfb49ab66326097b6ee75040f43.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/34ad894c5b1ee5f489aab714a5776f23.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/ced03179cde49216fb19195bd4299c4c.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/2dd49086eec7d420a16f0bcf742183f3.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/c384eea4fa8c5cd7c54c8e8552b758a4.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/27037f6fb43464cdaf97023d64daf188.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF8R3110405/8d836933d26212aa70b7426404f1e93c.jpg"/>
 		</Images>
 		<Make>Toyota</Make>
 		<Model>RAV4</Model>
@@ -503,25 +503,25 @@
 		<Price>4700000</Price>
 		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount>100000</CreditDiscount>
-		<InsuranceDiscount />
+		<InsuranceDiscount/>
 		<MaxDiscount>200000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1P3094495/80dab9e33c019a2a0f6614a05b257b11.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1P3094495/a19c891ff1cbae71d3fc5942ef991c64.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1P3094495/525e0b342f66400069e61169958258b3.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1P3094495/718b32843e7ee683a53556912440147d.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1P3094495/0d51d31e81cf0999673ad6baf84b39c9.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1P3094495/15e83cae18099037545a3a4f65288dcb.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1P3094495/481b2676aa4f057d3ca044fd1f205a8f.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1P3094495/2f8ca1b33b1d70ece6f0477c1e959857.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1P3094495/a85574d8915c3361e7130e81b7221513.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1P3094495/5c8ca1908dafbcbd7cd834862ca262c1.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1P3094495/82111c656b829a4d07736c8ce8573713.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1P3094495/b129d4106ff84ca581144f1c0cdf4c20.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1P3094495/e1c59605d65c9c853828484c08513966.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1P3094495/2e80090676402247a0876aa42aa5bfeb.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1P3094495/fe5b4adc252574250e868ff3c5097b80.jpg" />
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1P3094495/80dab9e33c019a2a0f6614a05b257b11.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1P3094495/a19c891ff1cbae71d3fc5942ef991c64.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1P3094495/525e0b342f66400069e61169958258b3.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1P3094495/718b32843e7ee683a53556912440147d.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1P3094495/0d51d31e81cf0999673ad6baf84b39c9.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1P3094495/15e83cae18099037545a3a4f65288dcb.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1P3094495/481b2676aa4f057d3ca044fd1f205a8f.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1P3094495/2f8ca1b33b1d70ece6f0477c1e959857.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1P3094495/a85574d8915c3361e7130e81b7221513.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1P3094495/5c8ca1908dafbcbd7cd834862ca262c1.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1P3094495/82111c656b829a4d07736c8ce8573713.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1P3094495/b129d4106ff84ca581144f1c0cdf4c20.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1P3094495/e1c59605d65c9c853828484c08513966.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1P3094495/2e80090676402247a0876aa42aa5bfeb.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1P3094495/fe5b4adc252574250e868ff3c5097b80.jpg"/>
 		</Images>
 		<Make>Toyota</Make>
 		<Model>RAV4</Model>
@@ -568,25 +568,25 @@
 		<Price>4700000</Price>
 		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount>100000</CreditDiscount>
-		<InsuranceDiscount />
+		<InsuranceDiscount/>
 		<MaxDiscount>200000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6P3094590/e605826455dfbcc0624c84b8b56d2961.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6P3094590/be19e83c2cc083d19402d56fc839f0d0.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6P3094590/94f04055dc4cbfd7eb37910b56f4cf90.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6P3094590/d950833c8b27ab254ba68642d23b2984.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6P3094590/488755da0f7b9dc3e752180089b04db2.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6P3094590/f01d3b4e3f497c140ee9997ed74e44e0.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6P3094590/92007ecd7e23c5abfc0e22109cac8ca4.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6P3094590/a09534b98e535c16ac145df161748f67.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6P3094590/dcaba2e633f4c0830d5cc7be06d68776.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6P3094590/9f33ceda0b6a88776cc0ec546ff2e9ed.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6P3094590/638c62929252cecd7c3d4a77daad1762.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6P3094590/bc1cc70255a63824e4e28d3fd893197c.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6P3094590/b938dfb8c26b9bbd6d48e747518a4ee9.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6P3094590/23ca728f9c051c26c6e929dc32650b4a.jpg" />
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF6P3094590/3466e97bd67c94f210aebff23aea6061.jpg" />
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6P3094590/e605826455dfbcc0624c84b8b56d2961.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6P3094590/be19e83c2cc083d19402d56fc839f0d0.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6P3094590/94f04055dc4cbfd7eb37910b56f4cf90.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6P3094590/d950833c8b27ab254ba68642d23b2984.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6P3094590/488755da0f7b9dc3e752180089b04db2.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6P3094590/f01d3b4e3f497c140ee9997ed74e44e0.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6P3094590/92007ecd7e23c5abfc0e22109cac8ca4.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6P3094590/a09534b98e535c16ac145df161748f67.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6P3094590/dcaba2e633f4c0830d5cc7be06d68776.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6P3094590/9f33ceda0b6a88776cc0ec546ff2e9ed.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6P3094590/638c62929252cecd7c3d4a77daad1762.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6P3094590/bc1cc70255a63824e4e28d3fd893197c.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6P3094590/b938dfb8c26b9bbd6d48e747518a4ee9.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6P3094590/23ca728f9c051c26c6e929dc32650b4a.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF6P3094590/3466e97bd67c94f210aebff23aea6061.jpg"/>
 		</Images>
 		<Make>Toyota</Make>
 		<Model>RAV4</Model>
@@ -633,18 +633,18 @@
 		<Price>24900000</Price>
 		<TradeinDiscount>150000</TradeinDiscount>
 		<CreditDiscount>150000</CreditDiscount>
-		<InsuranceDiscount />
+		<InsuranceDiscount/>
 		<MaxDiscount>300000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/JTJPBBCX304047123/f30805a15101fcc5a569509e07ba3ffc.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTJPBBCX304047123/a1b363eb8f8ab4083e7b766cde17558b.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTJPBBCX304047123/16f7f8e8710abdee4da8864b348d2bd5.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTJPBBCX304047123/0f73f1ce054c0e58823baf989ca07858.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTJPBBCX304047123/8573554ab6302bbddfd69d7f842813e4.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTJPBBCX304047123/5745153ca73ee021216ab25cc53e033a.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTJPBBCX304047123/a1403be547689693467a539f09dbdc9f.jpg" />
-			<Image url="https://photo.toyotasever.ru/JTJPBBCX304047123/8fe1ba989e0edb5bced72d92f8b5338b.jpg" />
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX304047123/f30805a15101fcc5a569509e07ba3ffc.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX304047123/a1b363eb8f8ab4083e7b766cde17558b.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX304047123/16f7f8e8710abdee4da8864b348d2bd5.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX304047123/0f73f1ce054c0e58823baf989ca07858.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX304047123/8573554ab6302bbddfd69d7f842813e4.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX304047123/5745153ca73ee021216ab25cc53e033a.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX304047123/a1403be547689693467a539f09dbdc9f.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX304047123/8fe1ba989e0edb5bced72d92f8b5338b.jpg"/>
 		</Images>
 		<Make>Lexus</Make>
 		<Model>LX</Model>
@@ -662,4 +662,2676 @@
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<ContactPhone>+7 865 2978075</ContactPhone>
 	</Ad>
-</Ads>
+<Ad>
+		<Id>0e0da9215d181b149add0c6cf19e7825</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Абсолютно Новый Lexus RX 350 у нас в наличии!
+
+Автомобиль оснащен бензиновым 2,4 л. двигателем (249 л.с).
+Lexus RX 350 имеет 21- дюймовые легкосплавные диски, камеры заднего и переднего вида, передние и задние парктроники, 14 дюймовый сенсорный дисплей, 3-х зонная система климат контроля, омыватели передних фар, датчики света и дождя, открытие двери автомобиля с кнопки, подогрев передних сидений и рулевого колеса, кнопка запуска двигателя, 7 подушек безопасности, систему предотвращения выезда из полосы движения, систему мониторинга слепых зон, систему распознования дорожных знаков, а также многое другое.
+
+Подробнее о всех функциях автомобиля Вы можете уточнить в отделе продаж.
+
+Ждём Вас ежедневно пн. - сб. с 9 до 19 часов, вс. с 9 до 16 часов. г. Ставрополь, пр-кт Кулакова,  №32
+
+ПТС оригинал.</Description>
+		<Price>10900000</Price>
+		<TradeinDiscount>250000</TradeinDiscount>
+		<CreditDiscount>250000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>500000</MaxDiscount>
+		<Color>Черный/Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/bacaffb6a95046f57acac03053119ed1.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/71a9d8e98c74e9c1ffbf0ff16925d578.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/047f5797188226a016d32b3acc9e9bda.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/b6bf1be9909fd1cba6d2f8e2a3d4aec7.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/89588911aab93dc14b9f70a1cb7a32c6.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/26157cd42d8722bf195b0ae0ead094b8.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/b6b22c62b8e0b1a75085345c2d941dea.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/6e95d799a27e451493d1c187d70c5ef0.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/332bce51fddbbb6a9544e41ec3324b34.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/4693d44577a172b1cbf0e758990f8ed5.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/8d68af62fb60e4cfb9450a9ee161ad21.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/9e3593920e0c23209c97a73b1720c3ee.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/06ccd808424d3b3f1a1459d5319fd8b0.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/a9b5c460e15d5c7234987c1009c569ff.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/41cfc4a6cb26cba9df2304d0a444b0ba.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/822314c62f61c54c17d00a25d5ffae6e.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/b3695373ce1f55b6b885611bb19e0585.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/f9d6aef386bc468acc3e7139666467a6.jpg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>RX</Model>
+		<GenerationId>18183380</GenerationId>
+		<ModificationId>18183381</ModificationId>
+		<ComplectationId>18614915</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJCHBJA102012427</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>b7aaf214d54f3a450ff563acd11398bb</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Абсолютно Новый Lexus RX 350 у нас в наличии!
+
+Автомобиль оснащен бензиновым 2,4 л. двигателем (249 л.с).
+Lexus RX 350 имеет 21- дюймовые легкосплавные диски, камеры заднего и переднего вида, передние и задние парктроники, 14 дюймовый сенсорный дисплей, 3-х зонная система климат контроля, омыватели передних фар, датчики света и дождя, открытие двери автомобиля с кнопки, подогрев передних сидений и рулевого колеса, кнопка запуска двигателя, 7 подушек безопасности, систему предотвращения выезда из полосы движения, систему мониторинга слепых зон, систему распознования дорожных знаков, а также многое другое.
+
+Подробнее о всех функциях автомобиля Вы можете уточнить в отделе продаж.
+
+Ждём Вас ежедневно пн. - сб. с 9 до 19 часов, вс. с 9 до 16 часов. г. Ставрополь, пр-кт Кулакова,  №32
+
+ПТС оригинал.</Description>
+		<Price>11900000</Price>
+		<TradeinDiscount>250000</TradeinDiscount>
+		<CreditDiscount>250000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>500000</MaxDiscount>
+		<Color>Черный/Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA602012101/3feca20e992fb0cdcfa82b595342fe25.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA602012101/3dcc5a382e968868d60cafdd32576920.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA602012101/9fc57cddd234514dc1d5d9e8fb0f1ea9.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA602012101/23a3a63e624e12e2085ef474a204935b.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA602012101/c07ecc36fcdce86036f7fa3f4b7e1a6a.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA602012101/efdfe90a21db374288ff90f244036200.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA602012101/5c94986d585d7bc2a8e5546d9c4aeaec.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA602012101/d2b6ae1cfd3158361070571bcc00a883.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA602012101/37769e0590d8bbc687ce26232afbcbf7.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA602012101/9c3ce2c273c1bd52d9213adc59d1abbe.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA602012101/6a34bf7fe6fe329b18fea8d87342332b.jpg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>RX</Model>
+		<GenerationId>18183380</GenerationId>
+		<ModificationId>18183381</ModificationId>
+		<ComplectationId>18614915</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJCHBJA602012102</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>e8b7dc4ab9d012fec763a2fdc95e454a</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Абсолютно Новый Lexus RX 350 у нас в наличии!
+
+Автомобиль оснащен бензиновым 2,4 л. двигателем (249 л.с).
+Lexus RX 350 имеет 21- дюймовые легкосплавные диски, камеры заднего и переднего вида, передние и задние парктроники, 14 дюймовый сенсорный дисплей, 3-х зонная система климат контроля, омыватели передних фар, датчики света и дождя, открытие двери автомобиля с кнопки, подогрев передних сидений и рулевого колеса, кнопка запуска двигателя, 7 подушек безопасности, систему предотвращения выезда из полосы движения, систему мониторинга слепых зон, систему распознования дорожных знаков, а также многое другое.
+
+Подробнее о всех функциях автомобиля Вы можете уточнить в отделе продаж.
+
+Ждём Вас ежедневно пн. - сб. с 9 до 19 часов, вс. с 9 до 16 часов. г. Ставрополь, пр-кт Кулакова,  №32
+
+ПТС оригинал.</Description>
+		<Price>12500000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount/>
+		<InsuranceDiscount/>
+		<MaxDiscount/>
+		<Color>1L1/21 Серый Хром металл</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA902015123/f3af4b8cb340aa82c425b2b8fe79f8f9.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA902015123/87d24e41edae2eee6500e066eb938896.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA902015123/ee6c4594e93ab1d0f2955403debc81ff.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA902015123/65538ad4c9f53ad89448d429f13ceb50.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA902015123/ac99d96d1a4c6cf390cec23aeddb7813.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA902015123/0fd2d763ae0ab6a0c4d25a3d8f86ef83.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA902015123/ff0e82a2df81afb5ff959e363a54ecc4.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA902015123/12d076822412fee768ddc46e5c1f893a.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA902015123/1606ea4fbf5157ba6fa1f3fa257dab0d.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA902015123/816e4ebf83d9de92d2fa4908331a2411.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA902015123/0a82d89c085d71a9e02be145378c297d.jpg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>RX</Model>
+		<GenerationId>18183380</GenerationId>
+		<ModificationId>18183381</ModificationId>
+		<ComplectationId>18571879</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJCHBJA902015124</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>25e539e5aea8844ec67448d2bf090b1e</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Абсолютно Новый Lexus LX 600 у нас в наличии!
+
+
+
+Автомобиль оснащен бензиновым 3,5 л. двигателем (415 л.с).
+
+Lexus LX 600 имеет 10-ти ступенчатую коробку передач, постоянный полный привод и легкосплавные колесные диски 22 радиуса.
+
+В комплектацию “F Sport” входит:
+
+4- х зонный климат- контроль для первого и второго ряда сидений;
+камера панорамного обзора с омывателем;
+передние и задние датчики парковки с функцией автоматического торможения;
+система помощи при движении вперед с функцией визуального и звукового оповещения о приближающемся спереди препятствии, а также множество других функций.
+
+
+Подробнее о всех функциях автомобиля Вы можете уточнить в отделе продаж.
+
+Ждём Вас ежедневно пн. - сб. с 9 до 19 часов, вс. с 9 до 16 часов. г. Ставрополь, пр-кт Кулакова,  №32</Description>
+		<Price>25000000</Price>
+		<TradeinDiscount>250000</TradeinDiscount>
+		<CreditDiscount>250000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>500000</MaxDiscount>
+		<Color>Черный/Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/a653fcfe39f1d468ac3c87fdd58d52fa.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/2725ab4cb479341dd5111da7fa89527c.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/b04f5a105f875edbd34a8712df7bfb4d.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/3b1127f9194474c6cc83c84a29d6c531.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/aaf7423bb45629b4bdc5a5f9d16bdd56.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/dfe00b7d97d1fb3799ad18edbc391800.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/c0b19a837bc5047d37ad9c7d1834d647.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/6a6be09e7616b5b77fb20cddee4fddb7.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/ba1c782ecdaeff877f1668aea3d37a4f.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/74ee2389a743af4a23987314f78f3dbf.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/96dedfa73aed5d98180fd5af1ce6c701.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/9cf82233414c2ca2b054f948ffd9c07c.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/5863cc1bbc487b3816dac38d6d88bded.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/6a840bdc7b98d043a3d5731bde6d38f5.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/ed0d4c68fb3a140de2cccc52c28c790b.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/d5f16e39fed2bd1bfaf09004bf7b66aa.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/7737cf857499e83f2e226b3150fe2ac2.jpg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>LX</Model>
+		<GenerationId>17072338</GenerationId>
+		<ModificationId>17072342</ModificationId>
+		<ComplectationId>18772602</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJPBBCX204050869</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+<Ad>
+		<Id>449a2dd579fa3d3de6d3ad35a57baf7a</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>В нaличии новый ОБНОВЛЕННЫЙ LЕХUS GX550, комплектация Executive
+
+Автoмобиль предcтaвлен oт официальнoгo дилepa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+
+Будьтe увeрены, что мы подберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+Стоимость автомобиля 17 500 000 рублей.
+Данная цена действительна при условии приобретения автомобиля в Кредит / Trade-In / Лизинг.
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS GХ 550.
+
+Место осмотра
+
+Осмотреть автомобиль можно по адресу: г. Ставрополь, пр-кт Кулакова,  №32</Description>
+		<Price>16280000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount>501000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>501000</MaxDiscount>
+		<Color>Серый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/90cb4029b56b278196586a8251a0a745.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/73d40fb31569d41bb1d196bce48187f0.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/888ed10a598309a66165438f0fe714cb.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/caae156d09694c57344f3faa141282da.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/1e1026494a581ab17ae3a7c5d490d1b0.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/cc096d6211cdd35db6c28f4ada1d54d2.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/4d6776e84d6a0442ca9ae925c83c53f5.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/28f5addc33c51c23715005cbd502adda.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/64ebd7f05fbd742c8b3e6f4e7edf779e.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/21629333704b4905ba73bbf7683e8c62.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/adbfec0c3210c5015a07d935ad32c622.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/d1b8c4c1d46aa6e4601c0a21ea2610a1.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/e83b8b30aad01ec4b435ccf85eb3f92e.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/dd9423da495501d55017030710a98a83.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/4bcc7cab596387f6419bde4a3d80dd44.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/64812876fa6802866d8bb7c61d7f53ed.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/353d9eac10eb64c5cbb69390a16e0c3b.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/ab721b248abbc4d886f03ee0eece288c.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/3dc850216be9ad66bba66e64b5e34c93.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/36ee5a31e17eaf8d352d1d92f783fbb1.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/a3857402b6b14eaf37da4dd3167fd880.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/3591e7b7d0d510c013c14dc70b1ced0e.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/24ffa34a73cb23690f32ff076611ac83.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/5f83d4aa5f521edc5d872d5c21c8cd0f.jpeg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>GX</Model>
+		<GenerationId>18663226</GenerationId>
+		<ModificationId>18663227</ModificationId>
+		<ComplectationId>18663316</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJTBDDX7R5001389</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>318719f9b58bde7b187727086909c157</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>В нaличии новый ОБНОВЛЕННЫЙ LЕХUS GX550, комплектация Overtrail
+
+Автoмобиль предcтaвлен oт официальнoгo дилepa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+Будьтe увeрены, что мы подберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+Стоимость автомобиля 19 500 000 рублей.
+Данная цена действительна при условии приобретения автомобиля в Кредит / Trade-In / Лизинг.
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS GХ 550.
+
+Место осмотра
+
+Осмотреть автомобиль можно по адресу: г. Ставрополь, пр-кт Кулакова,  №32</Description>
+		<Price>17099000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount>600000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>600000</MaxDiscount>
+		<Color>Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX405013565/8fc0f3aeb74b17f1015322c3887f78ae.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX405013565/82ac9a6fd505cf9b6c6da7ca436a5e5a.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX405013565/7fe5e53c4af0c52f993d613e7c9b27ea.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX405013565/ffb6036c1673b6a43e45320e1010d367.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX405013565/5bf5bbf3a66973ce49c0be0e94211b88.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX405013565/5389ae91487e52a5bcd91d949d1f1961.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX405013565/5c7c9f2a3a1a722441a3833e61085c0d.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX405013565/ded5cfe2c6ab068f770a050131dab0e1.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX405013565/548800f0927610f981f6709a5095a4d3.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX405013565/6a4b304074c038e757ece89fb146d56e.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX405013565/02284fe0d446d0814ad4187cf8e2cf47.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX405013565/f79126f2f23f88c625b92d7697263520.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX405013565/9dd2da82d98747b567095997d03cd0e4.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX405013565/11a03d4f0d92e30baf80dfe7b7060cc2.jpeg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>GX</Model>
+		<GenerationId>18663226</GenerationId>
+		<ModificationId>18663227</ModificationId>
+		<ComplectationId>18663230</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJTBDDX405013566</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>37f6d889b1f1991fd27495e6bf55e05d</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>В наличии нoвый роскошный LEXUS LM 350h, в комплектации VIP +
+
+Сборка Япония.
+АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
+
+Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc:
+
+✅НДС С ПОЛНОЙ СТОИМОСТИ
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+Будьте уверены, что мы подберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+Стоимость автомобиля 26 000 000 рублей
+Цена указана с учетом максимальной выгоды при приобретении автомобиля в Кредит / Трейд-Ин / Лизинг
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.</Description>
+		<Price>24950000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount>351000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>351000</MaxDiscount>
+		<Color>Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/5c0be72e7f30eea55a980b2ced4c92f8.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/2fd6ab28b9b0af9c49a418ae1eacc8ce.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/6f8fa6d0944c1ca23f609c328ef27ee9.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/fd1fa5f74d69c4a1989f509501ca4101.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/2b90665be33c7ca8fe50e0bf2275bcf5.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/460e8a14cf429288c1cf2242cec2fa32.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/8e2da4621aa1d3e3f1f7dfdba3bf6aff.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/6a1f280d18f636446e3ddd3ae164648d.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/a5e53513a62213a34262501e839f5e78.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/0855fbfcbf0bd76b5d5dddd1fd51f9fe.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/090a3570fb795ed342d44cb7318c385c.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/a3a48c95850be07c42235299ae19136b.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/9c11900f099f5c9ed3ac6122fc1caa76.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/f9e559799dbcd8118b190a2f356fc352.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/1b7effd7956da036c01e9e55b53847a6.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/602dcfadaa1ec2c60df6660d7b57634d.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/f3c7048970e1301a3d7ff20d02c0e92b.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/05a57458e0da1c336fcdf70bd28db00f.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/82f5196a2cbd1c0d783ee5a49be198f7.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/595cdf943185c1ddebe39fd6e30a6077.jpeg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>LM</Model>
+		<GenerationId>18738353</GenerationId>
+		<ModificationId>18738354</ModificationId>
+		<ComplectationId>18789721</ComplectationId>
+		<FuelType>Гибрид</FuelType>
+		<Transmission>Вариатор</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Минивэн</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTHADAAD005003578</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>d39a65561bf8c50bbcec4f4edcc3608d</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>В наличии нoвый OБHOBЛEННЫЙ Lехus LX 600, в комплектации F SPORT
+
+АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
+Сборка Япония.
+
+Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+Будьте уверены, что мы подберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+Стоимость автомобиля 21 800 000 рублей, 
+Цена указана с максимальной выгодой  900 000 рублей.
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS LX600.</Description>
+		<Price>20699000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount>655000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>655000</MaxDiscount>
+		<Color>Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX9R4003754/29e48320b3aaf21bb8d7edf2649c112a.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX9R4003754/21f459ea3938c563bb24dde6cd6b46ac.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX9R4003754/184dee0af247176f53ff0fff2e0af531.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX9R4003754/655502aaad62ecc5cf6bff124d9613cb.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX9R4003754/58e67eababe550b62f3eb272766e37f0.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX9R4003754/660588c990ad8cfe96aa7237c23b069e.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX9R4003754/2cb4bdc1337b3aee227ddeca71aab422.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX9R4003754/6cea7a84a76f2a4c6b1f9f535ec27c57.jpeg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>LX</Model>
+		<GenerationId>17072338</GenerationId>
+		<ModificationId>17072416</ModificationId>
+		<ComplectationId>17072420</ComplectationId>
+		<FuelType>Дизель</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJPA7CX9R4003755</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>9052628292801b65cf979957735d9206</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>В наличии нoвый OБHOBЛEННЫЙ Lехus LX 600, в комплектации F SPORT
+
+АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
+Сборка Япония.
+
+Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+Будьте уверены, что мы подберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+Стоимость автомобиля 23 000 000 рублей, 
+Цена указана с максимальной выгодой  1 100 000 рублей.
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS LX600.</Description>
+		<Price>22699000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount>655000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>655000</MaxDiscount>
+		<Color>Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX604050601/c45d1d3315456c21805f6100946d6896.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX604050601/cbe0294385e070c820eebe3d7ce32b07.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX604050601/e4de5f0224b5978a66ec659875483e4d.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX604050601/dd2ce1064ed53c0491e5c8d40bd34470.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX604050601/9b486cf1faf0cd1b0f29d30820525c24.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX604050601/5740bda86ba3efc734145af1cfdc8947.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX604050601/876fe30446ca94dab93cbe1fa7320842.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX604050601/837a5d74af1de27ae57299af4203c2c5.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX604050601/c20b55288204b60de747fbb7f0072659.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX604050601/e38f1e47bf3a0a3c6bd52bfa45be5181.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX604050601/38e5ff71669bed862780698cb68a6c69.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX604050601/c571c3adaf583f7cdcf7430e4da3de6b.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX604050601/c6794c7d2ec4adde7c0b97577214d339.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX604050601/d56e351f190610aa3067bc98fed5d7db.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX604050601/f01da1eeab218dc188f2862886c09056.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX604050601/8cbe292b03fa4db74cd934c895539f87.jpeg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>LX</Model>
+		<GenerationId>17072338</GenerationId>
+		<ModificationId>17072342</ModificationId>
+		<ComplectationId>18772602</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJPBBCX604050602</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>57a9d97b32b90d6efc1786b0c02fdcc1</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>В наличии нoвый OБHOBЛEННЫЙ Lехus LX 600, в комплектации Luxury+
+
+АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
+Сборка Япония.
+
+Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+Будьте уверены, что мы подберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+Стоимость автомобиля 23 000 000 рублей, 
+Цена указана с максимальной выгодой  1 100 000 рублей.
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS LX600.</Description>
+		<Price>22699000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount>655000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>655000</MaxDiscount>
+		<Color>Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX404051035/1d8af2b1c338a622a9e84038a2f800ba.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX404051035/e4b124abdbd485b9f7027fc6a1906df9.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX404051035/588b97c64bcd8a9cdb3cacc69ec2beed.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX404051035/27ef4be8ede7f21bb7cf01c332b63ae9.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX404051035/12bba9b05c00898550cfcf29389662aa.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX404051035/1a05b5da366fe779eb40e12a56d3bde2.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX404051035/5d0e7507966022765af3f46c2543fb1f.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX404051035/3b9f46c1216fbf43f51bcfb6a7349123.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX404051035/2a9f7a43ea67a1d0b80dc10c7d56bc74.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX404051035/821bdab931b0d7d62539712b8a58c950.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX404051035/d7e536e32287fa41a67c06cc722b72cf.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX404051035/33043099b6d408266e032c0722bd3099.jpeg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>LX</Model>
+		<GenerationId>17072338</GenerationId>
+		<ModificationId>17072342</ModificationId>
+		<ComplectationId>17072347</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJPBBCX404051036</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>cb11e0a69e8ca14f84b48b96fdb6ccd6</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>В наличии нoвый OБHOBЛEННЫЙ Lехus LX 600, в комплектации Luxury, 7 мест
+
+АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
+Сборка Япония.
+
+Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+Будьте уверены, что мы подберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+Стоимость автомобиля 23 000 000 рублей, 
+Цена указана с максимальной выгодой  1 100 000 рублей.
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS LX600.</Description>
+		<Price>22699000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount>655000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>655000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJPB7CX004050896/f9fc3b82a6aa504cf30af3e0deb75172.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPB7CX004050896/4a96b77f70caca31933e4b63dc0c44fb.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPB7CX004050896/5822aa5df0541e4b814f53aa3a8ed7eb.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPB7CX004050896/2761c7c436fc1bc198f7c12d9c7ec0f0.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPB7CX004050896/b2345144fce8f8877516ada167a13c09.jpeg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>LX</Model>
+		<GenerationId>17072338</GenerationId>
+		<ModificationId>17072342</ModificationId>
+		<ComplectationId>17072347</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJPB7CX004050897</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>c8b5848d36b1867d15d13547936be814</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350, в комплектации EXECUTIVE
+
+АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
+Сборка Япония.
+
+Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+Стоимость автомобиля 11 500 000 рублей.
+
+Цена указана с учетом максимальной выгоды при приобретении автомобиля в Кредит / Трейд-Ин / Лизинг
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS RХ 350.</Description>
+		<Price>11199000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount>450000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>450000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014434/bd44bd37a3a478cee3e6800a09da7f10.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014434/e0cf0c05be39142566a673c8b78a881f.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014434/132b83933d77f5bbe695128805812cbc.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014434/b2ba621b13d2b2500610537917abc91f.jpeg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>RX</Model>
+		<GenerationId>18183380</GenerationId>
+		<ModificationId>18183381</ModificationId>
+		<ComplectationId>18614915</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJCHBJAX02014435</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>51231b4f3308dfa4c0334c57c2fa1d9f</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350, в комплектации F Sport
+
+АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
+Сборка Япония.
+
+Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+Стоимость автомобиля 12 800 000 рублей.
+
+Цена указана с учетом максимальной выгоды при приобретении автомобиля в Кредит / Трейд-Ин / Лизинг
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS RХ 350.</Description>
+		<Price>12699000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount>320000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>320000</MaxDiscount>
+		<Color>Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014529/be97a9d5f9f9d49e6f3d45d03306aacb.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014529/4f7b3c68e202991174c376228a530623.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014529/f530dd6db2f2e91cc2e2918545d130a2.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014529/f63dfd456a54ccb308cea7e0a1bb94de.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014529/a4143c149ebbdfe7e0d8590f457a32d9.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014529/da19438767c9f012b8ca1d3104a3a085.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014529/e90dbdb3fee0b931b4aa27410d00132c.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014529/17fdf89ef9ab5d1b183b2201ab74fc5c.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014529/223635d280f9a290fe1260de25bafd6a.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014529/8082bdbd67424cde67583c73bb77df78.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014529/7bfd1ff4673ae4bb19be5375c15e9c46.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014529/75d8aabac3412454a36b979d5007ec2a.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014529/9320e73bfad30a2de55a941df915b3b9.jpeg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>RX</Model>
+		<GenerationId>18183380</GenerationId>
+		<ModificationId>18311983</ModificationId>
+		<ComplectationId>18559666</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJCHBJAX02014530</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>3efea0dd98097b96bbabc9208f13f4d3</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации EXECUTIVE
+
+АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
+Сборка Япония.
+
+Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+Стоимость автомобиля 12 100 000 рублей.
+
+Цена указана с учетом максимальной выгоды при приобретении автомобиля в Кредит / Трейд-Ин / Лизинг
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS RХ 350.</Description>
+		<Price>11899000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount>450000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>450000</MaxDiscount>
+		<Color>Платиновый графит</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA102034169/a22f15187ed3f935afe2fd27f0f7eccb.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA102034169/9cb3c6ebcfd7e2535f24a6fc368d61cf.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA102034169/06aad104c5097426a532f869e43a61ca.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA102034169/0b224ee029d0564806c3d4afe17cc280.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA102034169/02f2007a4aa6b8e4dba4fab1762675bc.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA102034169/7bb9199ca9a7b772793ef1a1a436811f.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA102034169/5105dd2907e09893609b35c7fe795db2.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA102034169/18926e1a1c18b0775007b88ca1e0152f.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA102034169/114b45e18a3cc4cb80078f6f6422748b.jpeg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>RX</Model>
+		<GenerationId>18183380</GenerationId>
+		<ModificationId>18672268</ModificationId>
+		<ComplectationId>18672269</ComplectationId>
+		<FuelType>Гибрид</FuelType>
+		<Transmission>Вариатор</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJCJBJA102034170</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>d9483c7ff41c3c8bfc1dc0c3cbd1d1a9</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации F Sport.
+
+ГИБРИДНАЯ ВЕРСИЯ.
+
+АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
+Сборка Япония.
+
+Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+Будьте уверены, что мы подберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+Стоимость автомобиля 12 400 000 рублей
+Цена указана с учетом максимальной выгоды при приобретении автомобиля в Кредит / Трейд-Ин / Лизинг
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS RХ 350.</Description>
+		<Price>12299000</Price>
+		<TradeinDiscount>185000</TradeinDiscount>
+		<CreditDiscount>590000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>775000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA502033994/992ce086ccdcd1090606ef79caa3272c.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA502033994/ee79548e3267d55a4ff2a74e2bfa315e.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA502033994/3f9e779dbfe8b5b1baa3db066e9df7c4.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA502033994/5eb3ff7a3977cdf83a6af021fec881f3.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA502033994/43164030cf94741de279a2e4b5f382c0.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA502033994/9064e5cfa28df77a832a8f9eee8f0e79.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA502033994/5c32e956e1c9d4a680d0ec43a49e384e.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA502033994/79053416f18a30d4030ee0af2ecb4775.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA502033994/59c77f7adf1c70821bb93ca8daa3f268.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA502033994/3fcee5042871ed7ba3cbe8214897adf6.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA502033994/e2736bca9db8d0de8adf37b122a11105.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA502033994/432400cf6343ec68c3571a9be94c8c2c.jpeg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>RX</Model>
+		<GenerationId>18183380</GenerationId>
+		<ModificationId>18595183</ModificationId>
+		<ComplectationId>18595184</ComplectationId>
+		<FuelType>Гибрид</FuelType>
+		<Transmission>Вариатор</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJCJBJA502033995</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>8c3a85710b807b827406bf948c5ecbc9</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации F Sport.
+
+ГИБРИДНАЯ ВЕРСИЯ.
+
+АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
+Сборка Япония.
+
+Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+Будьте уверены, что мы подберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+Стоимость автомобиля 12 400 000 рублей
+Цена указана с учетом максимальной выгоды при приобретении автомобиля в Кредит / Трейд-Ин / Лизинг
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS RХ 350.</Description>
+		<Price>12299000</Price>
+		<TradeinDiscount>185000</TradeinDiscount>
+		<CreditDiscount>590000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>775000</MaxDiscount>
+		<Color>Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA702033382/dc58caf11c526372f6088c3109a00f0c.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA702033382/88ca8bb3897603821c4d3713de1bd1e9.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA702033382/816dad4c36aec49d6e6b87783aacf5c4.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA702033382/3f56b4bef3868c06912313852f6f6cca.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA702033382/4602dc2f49c6129eaffaaf993820bb01.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA702033382/1b71dee9600c51c5c14b4ccc726ce59f.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA702033382/19eddb35ff4e27fa913eb15564d5b76e.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA702033382/d582a180fef585b4fee88e108dd236f0.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA702033382/00b7565732577655280ccd6df083820f.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA702033382/34e40612ef94df61d7da3ef19d0219d1.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA702033382/abf1d320b7a22546b27f260e7d789e44.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA702033382/5db5234dba4816f11ab832bcfd903376.jpeg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>RX</Model>
+		<GenerationId>18183380</GenerationId>
+		<ModificationId>18595183</ModificationId>
+		<ComplectationId>18595184</ComplectationId>
+		<FuelType>Гибрид</FuelType>
+		<Transmission>Вариатор</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJCJBJA702033383</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>cd9af6c11ffba4758c29ccf69e9930cd</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 500H, в комплектации F Sport.
+
+ГИБРИДНАЯ ВЕРСИЯ.
+
+АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
+Сборка Япония
+
+Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+Будьте уверены, что мы подберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+Стоимость автомобиля 15 200 000 рублей
+Цена указана с учетом максимальной выгоды при приобретении автомобиля в Кредит / Трейд-Ин / Лизинг
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS RХ 500Н.</Description>
+		<Price>14999000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount>251000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>251000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJCMBHA202012498/148459155276b36ddb9a1f36c1c25657.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCMBHA202012498/964ab68953f98603878fa378becad4d4.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCMBHA202012498/53823d637de986d2846642e63251bda1.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCMBHA202012498/ff33a53ae48bcba819f6ef1a0a12056c.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCMBHA202012498/651c226e3a3d80eed7208b92a2072991.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCMBHA202012498/dc20a6579ce9b7f103f84d10a32bdb73.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCMBHA202012498/10d6e75b5d2c5622d0b47a18a61f0bb6.jpeg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>RX</Model>
+		<GenerationId>18183380</GenerationId>
+		<ModificationId>18311989</ModificationId>
+		<ComplectationId>18628692</ComplectationId>
+		<FuelType>Гибрид</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJCMBHA202012499</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+<Ad>
+		<Id>4706799bfbc5d1082e090b5fffa974de</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>Нoвый Leхus GX550 в пятиместном исполнении.
+Выгодный обмен Вашего автомобиля на новый Lexus.
+Aвтомoбиль в наличии в нашем дилерском центре Лексус, не упуститe вoзмoжнocть зaбpoнировать eгo пeрвыми!
+
+Лексус рад предложить Вам индивидуальные условия на новые автомобили Lехus. Мы дорожим нашей высокой репутацией и занимаем ведущие позиции в Приволжском федеральном округе.
+
+✅ Возможно оформление в кредит
+✅ Автомобиль на гарантии
+✅ Выгодный обмен Вашего автомобиля на новый
+✅ Индивидуальные предложения для каждого клиента
+
+Также мы готовы подобрать для Вас автомобиль в любой комплектации отвечающей Вашим запросам и сформировать персональное предложение, а также оформить заказ.</Description>
+		<Price>16690000</Price>
+		<TradeinDiscount>200000</TradeinDiscount>
+		<CreditDiscount>200000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>400000</MaxDiscount>
+		<Color>Серый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX4R5001008/75133784900a369118378009e3971cc7.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX4R5001008/1685306321d69688f5605d939dabd2e8.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX4R5001008/a41b7f1a3d1da7e86da4a258db623706.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX4R5001008/cfd7725bb1e62494f74a6fc2d0ef232f.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX4R5001008/e36d8d8c40aac6c132d705faa4db6283.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX4R5001008/7bf2266454e085394886c4aa71093922.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX4R5001008/f6e3076040de51b6275c6c6b41d21f18.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX4R5001008/2ffe4c1d60ac289bfea6ddff9650cca1.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX4R5001008/b0a8777e25daebf95e754b0ba3dd5ae9.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX4R5001008/f29fc7494757494a1b348de11f0ec360.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX4R5001008/02dc6388ae4b72804557d8d5efbe8b85.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX4R5001008/c0aeb8b6573e7f3f09b75da5a4853313.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX4R5001008/585fe0c2dd44116a75f43907152a9ed0.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX4R5001008/9309d7ff71740937a896231d94540183.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX4R5001008/97ede6475871efb2536ccf12994c2a38.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX4R5001008/11c0ceaa9bc528f6adbd3eee7d2cf853.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX4R5001008/a1da600b3ccf3d8ef25a604f7edb8573.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX4R5001008/98767fcc36b684a03bce1d93da359b58.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX4R5001008/745fdf92c4736fea4b32862ae03a49ab.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX4R5001008/d9e480b2debabc4c95910bfb72161bc2.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX4R5001008/44b3b8552d334f8e3f1f84af1a209152.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX4R5001008/ab9dc0ae8f5175cba91a759c7126dfda.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX4R5001008/5ec9a7945c0a2b9165d28f5531ef369a.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX4R5001008/bf420063a3da7d1c0c6f2cd925bc8606.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX4R5001008/a2840e4fc4012190c603ee0e148913d0.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX4R5001008/2ff2ae9eb195d76650c0b88a6fb4bc75.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX4R5001008/2a2f9f6ef5a7a09f0169d87a16b01213.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX4R5001008/2f3c7b9b95aaff038956dfaba8dd3b2b.jpg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>GX</Model>
+		<GenerationId>18663226</GenerationId>
+		<ModificationId>18663227</ModificationId>
+		<ComplectationId>22174150</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJTBDDX4R5001009</VIN>
+		<ContactPhone>88469796868</ContactPhone>
+	</Ad>
+	<Ad>
+		<Id>206760f5bb85490bb7899e39cfbf8bfd</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>Нoвый Leхus GX550 в peдкой комплектации Luxury в пятиместном исполнении. Автомобиль в наличии в официальном дилерском центре Лексус, не упуститe вoзмoжнocть зaбpoнировать eгo пeрвыми!
+Выгодный обмен Вашего автомобиля на новый Lexus. Гарантия на автомобиль.
+Подробности уточняйте.
+
+Лексус рад предложить Вам индивидуальные условия на новые автомобили Lехus. Мы дорожим нашей высокой репутацией и занимаем ведущие позиции в Приволжском федеральном округе.
+
+✅ Возможно оформление в кредит
+✅ Автомобиль на гарантии
+✅ Выгодный обмен Вашего автомобиля на новый
+✅ Индивидуальные предложения для каждого клиента
+
+Также мы готовы подобрать для Вас автомобиль в любой комплектации отвечающей Вашим запросам и сформировать персональное предложение, а также оформить заказ.</Description>
+		<Price>17990000</Price>
+		<TradeinDiscount>500000</TradeinDiscount>
+		<CreditDiscount>200000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>700000</MaxDiscount>
+		<Color>Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX805010152/c277de164744cf2412d7ab95c2398263.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX805010152/ec43ae898ae8b729174f01275d0549cf.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX805010152/33b668237491b2e04a414e0fe44577dd.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX805010152/21eef629d49975fe0ff2683b51f71ca2.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX805010152/aeef6f31e6171e2e293e8768d04ffc34.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX805010152/1083d6dee4ad11d0984b7c84355cc507.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX805010152/cdaac92c210ada1d4824fd69a762a769.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX805010152/09585a67965bb6a3ac5cddc23285c2f2.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX805010152/1eb873a4393fd7b9b8957203b948fcaf.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX805010152/5d1893ee5a12605dfd47d65fdf7fa2b0.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX805010152/3c1709838bc1e2723159b3190d1fb1bd.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX805010152/83e2b76c69bee5c5fa5af1b809c30013.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX805010152/db2f9c684949f33fda91fc8c720f61e2.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX805010152/b13b3ff3c7d6eb66814df189ce06935e.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX805010152/ec6824c39c3b39c6abf47cf91ae5aa23.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX805010152/e7d4c68be603f8bd40667a0b14994051.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX805010152/b6a28b366703c034e46f344fbc376523.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX805010152/64edb98dd9171d368e7378a4123d99ce.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX805010152/249c70269b62c52ee9ffde8f889865f1.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX805010152/c0086436a44a1bb4bf03ce55d2c0159c.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX805010152/01bf4f813a4d287f2367d0270be74040.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX805010152/b4827a9eeb308a0da3d53e7d8f395110.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX805010152/d83cc5f4475c615b95ad7c9d65b9364f.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX805010152/6beaf32aa2aa89a623577e9d98994b75.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX805010152/3662bfc696ab0b2faf6636095c7cf751.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX805010152/21125a8d8ca87cf6493dce4fb7e18fe8.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX805010152/25a2959033a9f577d7705a68975290a7.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX805010152/80d823357f739ff81bc7f9e1e61fdae3.jpg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>GX</Model>
+		<GenerationId>18663226</GenerationId>
+		<ModificationId>18663227</ModificationId>
+		<ComplectationId>18663316</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJTBDDX805010153</VIN>
+		<ContactPhone>88469796868</ContactPhone>
+	</Ad>
+	<Ad>
+		<Id>331fd6ec5c6dca0716babb769d004d8g</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>Нoвый Leхus LX500d в peдкой комплектации Luxury+ (7S).
+Aвтомoбиль в наличии в нашем официальном дилерском центре Лексус, не упуститe вoзмoжнocть зaбpoнировать eгo пeрвыми! Выгодный обмен Вашего автомобиля на новый Lexus. Гарантия на автомобиль в нашем дилерском центре.
+
+Лексус рад предложить Вам индивидуальные условия на новые автомобили Lехus. Мы дорожим нашей высокой репутацией и занимаем ведущие позиции в Приволжском федеральном округе.
+
+✅ Возможно оформление в кредит
+✅ Автомобиль на гарантии
+✅ Выгодный обмен Вашего автомобиля на новый
+✅ Индивидуальные предложения для каждого клиента
+
+Также мы готовы подобрать для Вас автомобиль в любой комплектации отвечающей Вашим запросам и сформировать персональное предложение, а также оформить заказ.</Description>
+		<Price>20490000</Price>
+		<TradeinDiscount>250000</TradeinDiscount>
+		<CreditDiscount>250000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>500000</MaxDiscount>
+		<Color>Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX0R4003769/6557f0e3375cd5fce1242793ffbacfda.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX0R4003769/2346e4bd25b11b6614ad89d802a5fdd8.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX0R4003769/45225f80f048f4b09942b80d0af41577.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX0R4003769/873dbdbe6b6dbe25d93c46c596d214c0.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX0R4003769/b8082f90bbd25a06cae5102bab73804b.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX0R4003769/02b1c039838f7e0ec05d664da01f4261.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX0R4003769/02676a09b08e034215d889b6cef56ed9.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX0R4003769/20b7e4dbabc2b9ff211b078e23a0c263.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX0R4003769/b5be804d00726d492b700b42bba3c3db.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX0R4003769/e0e58653f00b1e6b82463c7d2694fddc.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX0R4003769/f4071d733c140097777c95e4806e4280.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX0R4003769/3dc993f060d5d64df9f7260b1ea5a62c.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX0R4003769/76a12c1b13a4478ac349bfa264416407.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX0R4003769/5ed2adee7504a1e1a7ecb92a26be2f59.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX0R4003769/ab9b5bae0baddae80c60d3c243e3368a.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX0R4003769/6f748052bfdad32c1d4ebd6abcc201a6.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX0R4003769/f6ec0d47bbdc9b008920cb109dd5bc00.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX0R4003769/15dc6b3ea623a89e0dbbbde83b1ebad0.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX0R4003769/e367ef2315546230e417c2365972788f.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX0R4003769/f66294378825a3d8e33955a581dffe0a.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX0R4003769/fb54f61dd6d64a9a88f7703654f4e793.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX0R4003769/85df2b5972a21ef1d31abd62e44c29a6.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX0R4003769/b92aa3e593001dc69de789259a8c1fbb.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX0R4003769/1a208ff36029cb158eee4ac1bb757950.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX0R4003769/0ab14f8edb92eddd50dbe0c322a21ef4.jpg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>LX</Model>
+		<GenerationId>17072338</GenerationId>
+		<ModificationId>17072416</ModificationId>
+		<ComplectationId>17072420</ComplectationId>
+		<FuelType>Дизель</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJPA7CX0R4003770</VIN>
+		<ContactPhone>88469796868</ContactPhone>
+	</Ad>
+	<Ad>
+		<Id>3ae15ee84831a3158a746016a17b6961</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>Нoвый Leхus LX600 в peдкой комплектации LUXURY+! 
+
+Цена с полным НДС.
+
+Лексус рад предложить Вам индивидуальные условия на новые автомобили Lехus. Мы дорожим нашей высокой репутацией и занимаем ведущие позиции в Приволжском федеральном округе.
+
+
+✅ Возможно оформление в кредит
+✅ Автомобиль на гарантии
+✅ Выгодный обмен Вашего автомобиля на новый
+✅ Индивидуальные предложения для каждого клиента
+
+Также мы готовы подобрать для Вас автомобиль в любой комплектации отвечающей Вашим запросам и сформировать персональное предложение, а также оформить заказ.
+
+Цена указана без учета дополнительного оборудования.</Description>
+		<Price>25700000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount/>
+		<InsuranceDiscount/>
+		<MaxDiscount>500000</MaxDiscount>
+		<Color>Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX804050065/b8895c64f0965a1be49344e29844bd49.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX804050065/e4deb15847d1b02e3d0823e338f6e339.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX804050065/f9124db1ffada9cd9c548d7ef1c86a0e.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX804050065/13f1846c859be01ecca91d6831c28779.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX804050065/55ae790c4e4937e35924dc417f9de557.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX804050065/2caeaec333a28a062f9cf26a9d6885ef.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX804050065/604a91af68add74ee7e554c6613270cc.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX804050065/8cfc23aaadb083609259fd7a75fba6c6.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX804050065/0fc6236ce5fbb4b56982de116a136072.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX804050065/b17eeb3daaec0aee196acf935ff0f5df.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX804050065/5148c6ca0b3cd81b8b9658958e3fcf85.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX804050065/7ace906a79ed3850500f4043e5571cc1.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX804050065/c613530a5a52c2719f257926a893f2be.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX804050065/72e72128dd40fc4e67c5ab8022868dfe.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX804050065/bf2a80565f0b4bdbd50db4528a1ca791.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX804050065/81777b5603d768f15b18235f910bc9b6.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX804050065/aff81d8e87af28314ee76dcc462f0085.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX804050065/b494ca144050b095cd6ce9e077618fee.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX804050065/cd430dcc3c4a757284d3c81f0eea0612.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX804050065/c6ababfcf32c3a8d4e91161ad59555f5.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX804050065/c294354e623f57a7898fa5caa913b7e4.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX804050065/867168c95b325c4ac3b9e728bd8510a4.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX804050065/9044ae2ad5e8829d9c6efeef4f1d1ded.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX804050065/49bdb6ba1ff011a02fe9af9c5f53658f.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX804050065/1a89438db96a4b2b24825de99b52bb79.jpg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>LX</Model>
+		<GenerationId>17072338</GenerationId>
+		<ModificationId>17072342</ModificationId>
+		<ComplectationId>17072419</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJPBBCX804050066</VIN>
+		<ContactPhone>88469796868</ContactPhone>
+	</Ad>
+	<Ad>
+		<Id>c9401bef7540dca962b4218441b83e25</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>Неделя низких цен в Лексус! Нoвый Leхus RX350 в  комплектации Executive. Автомобиль в наличии   в нашем  официальном  дилерском центре. Не упуститe вoзмoжнocть зaбpoнировать eгo пeрвыми! Производство Япония. Гарантия на автомобиль в нашем дилерском центре.  Выгодный обмен Вашего автомобиля на новый Lexus.
+
+Новый RX построен на платформе GA-K и получил не только увеличенную колесную базу, но также дополнительные поперечины и распорки для повышения жесткости. Благодаря дополнительной прочности инженеры Lexus получили возможность более точно настроить подвеску, улучшив ездовые характеристики и повысив комфорт.
+
+Лексус рад предложить Вам индивидуальные условия на новые автомобили Lexus. Мы дорожим нашей высокой репутацией и занимаем ведущие позиции в Приволжском федеральном округе. 
+
+
+✅ Кредит 
+✅ Автомобиль на гарантии
+✅ Выгодный обмен Вашего автомобиля на новый
+✅ Индивидуальные предложения для каждого клиента
+
+Также мы готовы подобрать для Вас автомобиль в любой комплектации отвечающей Вашим запросам и сформировать персональное предложение, а также оформить заказ.</Description>
+		<Price>11190000</Price>
+		<TradeinDiscount>250000</TradeinDiscount>
+		<CreditDiscount>250000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>500000</MaxDiscount>
+		<Color>ТЕМНО-СЕРЫЙ</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/adc7d8240335118bdba44eed0725ed1c.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/a367ccc924bfad493535fee93eedab4c.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/3468a87b7d569d986617a8cce13ac28b.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/f0da63eb01b4787129640547eddbea51.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/be313d82927745313270c639a9002667.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/1da2c650a9bf27055afa4ab33e5b307d.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/a3f5776e860de89c204c2f1bf06bde25.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/8262e6cbefe2a0232c49a465baf27f34.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/6df456c6321b22098c647d9ab224ed49.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/e7833769e82a4fa879b1ed9342f3e883.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/0a15e77353c73f99f692ce0078f2c102.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/c11e74131567512eb758ea25fefd8e47.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/2ef650cc9963aee24882bf8bbd9d201c.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/30ecb03b69714d071bf1ec43b45d4cf2.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/53e976110b6ed59b1d5adda990af2e64.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/b98c3fc8ea1733c3014bb843910a64bf.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/6458c8a206b59ec9b34d86e232a799a7.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/ba789a2a3dcbd30d910fd450fd819da5.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/678aa269a031a334a25bc28c69044020.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/655a6eab41f7e1218007cd55b0fb3570.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/a6e2c058ebe0a9771924367a38918a1f.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/fcb00ac9bf7fbb79c95a211643dbfb20.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/41595a5fe64fa9a70cb5dc7c63b581b3.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/82dba545a186cf182787fcc2011fa744.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/5bd516cbf01581c1cbc429dac266e824.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/eb999cce06f026b9039003517e0d47f5.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/e18979b82fbd665953dd8126c4627d6b.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/25c027db502bc2b7932fad06b6020c47.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/493509f619ac698544f56b49bf7681f7.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/d37882f83312b77717df79701bdf4923.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/5160a73b11efc598a35ee84b56f9b008.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/8ff30a3867db6bf3bb0e26c04d2dfe04.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502014213/dd8344cef9a2ea714f56946c2e774a32.jpg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>RX</Model>
+		<GenerationId>18183380</GenerationId>
+		<ModificationId>18183381</ModificationId>
+		<ComplectationId>18614915</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJCHBJA502014214</VIN>
+		<ContactPhone>88469796868</ContactPhone>
+	</Ad>
+<Ad>
+		<Id>449a2dd579fa3d3de6d3ad35a57baf7a</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>В нaличии новый ОБНОВЛЕННЫЙ LЕХUS GX550, комплектация Executive
+
+Автoмобиль предcтaвлен oт официальнoгo дилepa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+
+Будьтe увeрены, что мы подберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+Стоимость автомобиля 17 500 000 рублей.
+Данная цена действительна при условии приобретения автомобиля в Кредит / Trade-In / Лизинг.
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS GХ 550.
+
+Место осмотра
+
+Осмотреть автомобиль можно по адресу: г. Ставрополь, пр-кт Кулакова,  №32</Description>
+		<Price>16280000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount>501000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>501000</MaxDiscount>
+		<Color>Серый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/90cb4029b56b278196586a8251a0a745.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/73d40fb31569d41bb1d196bce48187f0.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/888ed10a598309a66165438f0fe714cb.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/caae156d09694c57344f3faa141282da.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/1e1026494a581ab17ae3a7c5d490d1b0.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/cc096d6211cdd35db6c28f4ada1d54d2.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/4d6776e84d6a0442ca9ae925c83c53f5.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/28f5addc33c51c23715005cbd502adda.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/64ebd7f05fbd742c8b3e6f4e7edf779e.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/21629333704b4905ba73bbf7683e8c62.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/adbfec0c3210c5015a07d935ad32c622.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/d1b8c4c1d46aa6e4601c0a21ea2610a1.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/e83b8b30aad01ec4b435ccf85eb3f92e.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/dd9423da495501d55017030710a98a83.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/4bcc7cab596387f6419bde4a3d80dd44.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/64812876fa6802866d8bb7c61d7f53ed.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/353d9eac10eb64c5cbb69390a16e0c3b.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/ab721b248abbc4d886f03ee0eece288c.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/3dc850216be9ad66bba66e64b5e34c93.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/36ee5a31e17eaf8d352d1d92f783fbb1.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/a3857402b6b14eaf37da4dd3167fd880.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/3591e7b7d0d510c013c14dc70b1ced0e.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/24ffa34a73cb23690f32ff076611ac83.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX7R5001388/5f83d4aa5f521edc5d872d5c21c8cd0f.jpeg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>GX</Model>
+		<GenerationId>18663226</GenerationId>
+		<ModificationId>18663227</ModificationId>
+		<ComplectationId>18663316</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJTBDDX7R5001389</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>318719f9b58bde7b187727086909c157</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>В нaличии новый ОБНОВЛЕННЫЙ LЕХUS GX550, комплектация Overtrail
+
+Автoмобиль предcтaвлен oт официальнoгo дилepa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+Будьтe увeрены, что мы подберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+Стоимость автомобиля 19 500 000 рублей.
+Данная цена действительна при условии приобретения автомобиля в Кредит / Trade-In / Лизинг.
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS GХ 550.
+
+Место осмотра
+
+Осмотреть автомобиль можно по адресу: г. Ставрополь, пр-кт Кулакова,  №32</Description>
+		<Price>17099000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount>600000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>600000</MaxDiscount>
+		<Color>Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX405013565/8fc0f3aeb74b17f1015322c3887f78ae.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX405013565/82ac9a6fd505cf9b6c6da7ca436a5e5a.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX405013565/7fe5e53c4af0c52f993d613e7c9b27ea.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX405013565/ffb6036c1673b6a43e45320e1010d367.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX405013565/5bf5bbf3a66973ce49c0be0e94211b88.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX405013565/5389ae91487e52a5bcd91d949d1f1961.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX405013565/5c7c9f2a3a1a722441a3833e61085c0d.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX405013565/ded5cfe2c6ab068f770a050131dab0e1.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX405013565/548800f0927610f981f6709a5095a4d3.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX405013565/6a4b304074c038e757ece89fb146d56e.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX405013565/02284fe0d446d0814ad4187cf8e2cf47.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX405013565/f79126f2f23f88c625b92d7697263520.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX405013565/9dd2da82d98747b567095997d03cd0e4.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJTBDDX405013565/11a03d4f0d92e30baf80dfe7b7060cc2.jpeg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>GX</Model>
+		<GenerationId>18663226</GenerationId>
+		<ModificationId>18663227</ModificationId>
+		<ComplectationId>18663230</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJTBDDX405013566</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>37f6d889b1f1991fd27495e6bf55e05d</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>В наличии нoвый роскошный LEXUS LM 350h, в комплектации VIP +
+
+Сборка Япония.
+АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
+
+Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc:
+
+✅НДС С ПОЛНОЙ СТОИМОСТИ
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+Будьте уверены, что мы подберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+Стоимость автомобиля 26 000 000 рублей
+Цена указана с учетом максимальной выгоды при приобретении автомобиля в Кредит / Трейд-Ин / Лизинг
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.</Description>
+		<Price>24950000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount>351000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>351000</MaxDiscount>
+		<Color>Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/5c0be72e7f30eea55a980b2ced4c92f8.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/2fd6ab28b9b0af9c49a418ae1eacc8ce.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/6f8fa6d0944c1ca23f609c328ef27ee9.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/fd1fa5f74d69c4a1989f509501ca4101.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/2b90665be33c7ca8fe50e0bf2275bcf5.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/460e8a14cf429288c1cf2242cec2fa32.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/8e2da4621aa1d3e3f1f7dfdba3bf6aff.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/6a1f280d18f636446e3ddd3ae164648d.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/a5e53513a62213a34262501e839f5e78.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/0855fbfcbf0bd76b5d5dddd1fd51f9fe.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/090a3570fb795ed342d44cb7318c385c.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/a3a48c95850be07c42235299ae19136b.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/9c11900f099f5c9ed3ac6122fc1caa76.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/f9e559799dbcd8118b190a2f356fc352.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/1b7effd7956da036c01e9e55b53847a6.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/602dcfadaa1ec2c60df6660d7b57634d.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/f3c7048970e1301a3d7ff20d02c0e92b.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/05a57458e0da1c336fcdf70bd28db00f.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/82f5196a2cbd1c0d783ee5a49be198f7.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTHADAAD005003577/595cdf943185c1ddebe39fd6e30a6077.jpeg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>LM</Model>
+		<GenerationId>18738353</GenerationId>
+		<ModificationId>18738354</ModificationId>
+		<ComplectationId>18789721</ComplectationId>
+		<FuelType>Гибрид</FuelType>
+		<Transmission>Вариатор</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Минивэн</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTHADAAD005003578</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>d39a65561bf8c50bbcec4f4edcc3608d</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>В наличии нoвый OБHOBЛEННЫЙ Lехus LX 600, в комплектации F SPORT
+
+АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
+Сборка Япония.
+
+Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+Будьте уверены, что мы подберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+Стоимость автомобиля 21 800 000 рублей, 
+Цена указана с максимальной выгодой  900 000 рублей.
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS LX600.</Description>
+		<Price>20699000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount>655000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>655000</MaxDiscount>
+		<Color>Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX9R4003754/29e48320b3aaf21bb8d7edf2649c112a.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX9R4003754/21f459ea3938c563bb24dde6cd6b46ac.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX9R4003754/184dee0af247176f53ff0fff2e0af531.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX9R4003754/655502aaad62ecc5cf6bff124d9613cb.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX9R4003754/58e67eababe550b62f3eb272766e37f0.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX9R4003754/660588c990ad8cfe96aa7237c23b069e.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX9R4003754/2cb4bdc1337b3aee227ddeca71aab422.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPA7CX9R4003754/6cea7a84a76f2a4c6b1f9f535ec27c57.jpeg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>LX</Model>
+		<GenerationId>17072338</GenerationId>
+		<ModificationId>17072416</ModificationId>
+		<ComplectationId>17072420</ComplectationId>
+		<FuelType>Дизель</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJPA7CX9R4003755</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>9052628292801b65cf979957735d9206</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>В наличии нoвый OБHOBЛEННЫЙ Lехus LX 600, в комплектации F SPORT
+
+АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
+Сборка Япония.
+
+Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+Будьте уверены, что мы подберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+Стоимость автомобиля 23 000 000 рублей, 
+Цена указана с максимальной выгодой  1 100 000 рублей.
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS LX600.</Description>
+		<Price>22699000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount>655000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>655000</MaxDiscount>
+		<Color>Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX604050601/c45d1d3315456c21805f6100946d6896.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX604050601/cbe0294385e070c820eebe3d7ce32b07.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX604050601/e4de5f0224b5978a66ec659875483e4d.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX604050601/dd2ce1064ed53c0491e5c8d40bd34470.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX604050601/9b486cf1faf0cd1b0f29d30820525c24.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX604050601/5740bda86ba3efc734145af1cfdc8947.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX604050601/876fe30446ca94dab93cbe1fa7320842.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX604050601/837a5d74af1de27ae57299af4203c2c5.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX604050601/c20b55288204b60de747fbb7f0072659.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX604050601/e38f1e47bf3a0a3c6bd52bfa45be5181.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX604050601/38e5ff71669bed862780698cb68a6c69.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX604050601/c571c3adaf583f7cdcf7430e4da3de6b.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX604050601/c6794c7d2ec4adde7c0b97577214d339.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX604050601/d56e351f190610aa3067bc98fed5d7db.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX604050601/f01da1eeab218dc188f2862886c09056.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX604050601/8cbe292b03fa4db74cd934c895539f87.jpeg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>LX</Model>
+		<GenerationId>17072338</GenerationId>
+		<ModificationId>17072342</ModificationId>
+		<ComplectationId>18772602</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJPBBCX604050602</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>57a9d97b32b90d6efc1786b0c02fdcc1</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>В наличии нoвый OБHOBЛEННЫЙ Lехus LX 600, в комплектации Luxury+
+
+АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
+Сборка Япония.
+
+Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+Будьте уверены, что мы подберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+Стоимость автомобиля 23 000 000 рублей, 
+Цена указана с максимальной выгодой  1 100 000 рублей.
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS LX600.</Description>
+		<Price>22699000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount>655000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>655000</MaxDiscount>
+		<Color>Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX404051035/1d8af2b1c338a622a9e84038a2f800ba.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX404051035/e4b124abdbd485b9f7027fc6a1906df9.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX404051035/588b97c64bcd8a9cdb3cacc69ec2beed.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX404051035/27ef4be8ede7f21bb7cf01c332b63ae9.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX404051035/12bba9b05c00898550cfcf29389662aa.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX404051035/1a05b5da366fe779eb40e12a56d3bde2.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX404051035/5d0e7507966022765af3f46c2543fb1f.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX404051035/3b9f46c1216fbf43f51bcfb6a7349123.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX404051035/2a9f7a43ea67a1d0b80dc10c7d56bc74.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX404051035/821bdab931b0d7d62539712b8a58c950.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX404051035/d7e536e32287fa41a67c06cc722b72cf.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX404051035/33043099b6d408266e032c0722bd3099.jpeg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>LX</Model>
+		<GenerationId>17072338</GenerationId>
+		<ModificationId>17072342</ModificationId>
+		<ComplectationId>17072347</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJPBBCX404051036</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>cb11e0a69e8ca14f84b48b96fdb6ccd6</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>В наличии нoвый OБHOBЛEННЫЙ Lехus LX 600, в комплектации Luxury, 7 мест
+
+АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
+Сборка Япония.
+
+Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+Будьте уверены, что мы подберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+Стоимость автомобиля 23 000 000 рублей, 
+Цена указана с максимальной выгодой  1 100 000 рублей.
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS LX600.</Description>
+		<Price>22699000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount>655000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>655000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJPB7CX004050896/f9fc3b82a6aa504cf30af3e0deb75172.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPB7CX004050896/4a96b77f70caca31933e4b63dc0c44fb.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPB7CX004050896/5822aa5df0541e4b814f53aa3a8ed7eb.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPB7CX004050896/2761c7c436fc1bc198f7c12d9c7ec0f0.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPB7CX004050896/b2345144fce8f8877516ada167a13c09.jpeg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>LX</Model>
+		<GenerationId>17072338</GenerationId>
+		<ModificationId>17072342</ModificationId>
+		<ComplectationId>17072347</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJPB7CX004050897</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>c8b5848d36b1867d15d13547936be814</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350, в комплектации EXECUTIVE
+
+АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
+Сборка Япония.
+
+Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+Стоимость автомобиля 11 500 000 рублей.
+
+Цена указана с учетом максимальной выгоды при приобретении автомобиля в Кредит / Трейд-Ин / Лизинг
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS RХ 350.</Description>
+		<Price>11199000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount>450000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>450000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014434/bd44bd37a3a478cee3e6800a09da7f10.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014434/e0cf0c05be39142566a673c8b78a881f.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014434/132b83933d77f5bbe695128805812cbc.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014434/b2ba621b13d2b2500610537917abc91f.jpeg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>RX</Model>
+		<GenerationId>18183380</GenerationId>
+		<ModificationId>18183381</ModificationId>
+		<ComplectationId>18614915</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJCHBJAX02014435</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>51231b4f3308dfa4c0334c57c2fa1d9f</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350, в комплектации F Sport
+
+АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
+Сборка Япония.
+
+Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+Стоимость автомобиля 12 800 000 рублей.
+
+Цена указана с учетом максимальной выгоды при приобретении автомобиля в Кредит / Трейд-Ин / Лизинг
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS RХ 350.</Description>
+		<Price>12699000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount>320000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>320000</MaxDiscount>
+		<Color>Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014529/be97a9d5f9f9d49e6f3d45d03306aacb.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014529/4f7b3c68e202991174c376228a530623.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014529/f530dd6db2f2e91cc2e2918545d130a2.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014529/f63dfd456a54ccb308cea7e0a1bb94de.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014529/a4143c149ebbdfe7e0d8590f457a32d9.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014529/da19438767c9f012b8ca1d3104a3a085.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014529/e90dbdb3fee0b931b4aa27410d00132c.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014529/17fdf89ef9ab5d1b183b2201ab74fc5c.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014529/223635d280f9a290fe1260de25bafd6a.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014529/8082bdbd67424cde67583c73bb77df78.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014529/7bfd1ff4673ae4bb19be5375c15e9c46.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014529/75d8aabac3412454a36b979d5007ec2a.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJAX02014529/9320e73bfad30a2de55a941df915b3b9.jpeg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>RX</Model>
+		<GenerationId>18183380</GenerationId>
+		<ModificationId>18311983</ModificationId>
+		<ComplectationId>18559666</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJCHBJAX02014530</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>3efea0dd98097b96bbabc9208f13f4d3</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации EXECUTIVE
+
+АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
+Сборка Япония.
+
+Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+Стоимость автомобиля 12 100 000 рублей.
+
+Цена указана с учетом максимальной выгоды при приобретении автомобиля в Кредит / Трейд-Ин / Лизинг
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS RХ 350.</Description>
+		<Price>11899000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount>450000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>450000</MaxDiscount>
+		<Color>Платиновый графит</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA102034169/a22f15187ed3f935afe2fd27f0f7eccb.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA102034169/9cb3c6ebcfd7e2535f24a6fc368d61cf.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA102034169/06aad104c5097426a532f869e43a61ca.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA102034169/0b224ee029d0564806c3d4afe17cc280.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA102034169/02f2007a4aa6b8e4dba4fab1762675bc.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA102034169/7bb9199ca9a7b772793ef1a1a436811f.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA102034169/5105dd2907e09893609b35c7fe795db2.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA102034169/18926e1a1c18b0775007b88ca1e0152f.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA102034169/114b45e18a3cc4cb80078f6f6422748b.jpeg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>RX</Model>
+		<GenerationId>18183380</GenerationId>
+		<ModificationId>18672268</ModificationId>
+		<ComplectationId>18672269</ComplectationId>
+		<FuelType>Гибрид</FuelType>
+		<Transmission>Вариатор</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJCJBJA102034170</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>d9483c7ff41c3c8bfc1dc0c3cbd1d1a9</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации F Sport.
+
+ГИБРИДНАЯ ВЕРСИЯ.
+
+АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
+Сборка Япония.
+
+Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+Будьте уверены, что мы подберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+Стоимость автомобиля 12 400 000 рублей
+Цена указана с учетом максимальной выгоды при приобретении автомобиля в Кредит / Трейд-Ин / Лизинг
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS RХ 350.</Description>
+		<Price>12299000</Price>
+		<TradeinDiscount>185000</TradeinDiscount>
+		<CreditDiscount>590000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>775000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA502033994/992ce086ccdcd1090606ef79caa3272c.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA502033994/ee79548e3267d55a4ff2a74e2bfa315e.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA502033994/3f9e779dbfe8b5b1baa3db066e9df7c4.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA502033994/5eb3ff7a3977cdf83a6af021fec881f3.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA502033994/43164030cf94741de279a2e4b5f382c0.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA502033994/9064e5cfa28df77a832a8f9eee8f0e79.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA502033994/5c32e956e1c9d4a680d0ec43a49e384e.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA502033994/79053416f18a30d4030ee0af2ecb4775.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA502033994/59c77f7adf1c70821bb93ca8daa3f268.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA502033994/3fcee5042871ed7ba3cbe8214897adf6.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA502033994/e2736bca9db8d0de8adf37b122a11105.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA502033994/432400cf6343ec68c3571a9be94c8c2c.jpeg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>RX</Model>
+		<GenerationId>18183380</GenerationId>
+		<ModificationId>18595183</ModificationId>
+		<ComplectationId>18595184</ComplectationId>
+		<FuelType>Гибрид</FuelType>
+		<Transmission>Вариатор</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJCJBJA502033995</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>8c3a85710b807b827406bf948c5ecbc9</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации F Sport.
+
+ГИБРИДНАЯ ВЕРСИЯ.
+
+АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
+Сборка Япония.
+
+Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+Будьте уверены, что мы подберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+Стоимость автомобиля 12 400 000 рублей
+Цена указана с учетом максимальной выгоды при приобретении автомобиля в Кредит / Трейд-Ин / Лизинг
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS RХ 350.</Description>
+		<Price>12299000</Price>
+		<TradeinDiscount>185000</TradeinDiscount>
+		<CreditDiscount>590000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>775000</MaxDiscount>
+		<Color>Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA702033382/dc58caf11c526372f6088c3109a00f0c.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA702033382/88ca8bb3897603821c4d3713de1bd1e9.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA702033382/816dad4c36aec49d6e6b87783aacf5c4.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA702033382/3f56b4bef3868c06912313852f6f6cca.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA702033382/4602dc2f49c6129eaffaaf993820bb01.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA702033382/1b71dee9600c51c5c14b4ccc726ce59f.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA702033382/19eddb35ff4e27fa913eb15564d5b76e.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA702033382/d582a180fef585b4fee88e108dd236f0.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA702033382/00b7565732577655280ccd6df083820f.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA702033382/34e40612ef94df61d7da3ef19d0219d1.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA702033382/abf1d320b7a22546b27f260e7d789e44.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCJBJA702033382/5db5234dba4816f11ab832bcfd903376.jpeg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>RX</Model>
+		<GenerationId>18183380</GenerationId>
+		<ModificationId>18595183</ModificationId>
+		<ComplectationId>18595184</ComplectationId>
+		<FuelType>Гибрид</FuelType>
+		<Transmission>Вариатор</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJCJBJA702033383</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>cd9af6c11ffba4758c29ccf69e9930cd</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 500H, в комплектации F Sport.
+
+ГИБРИДНАЯ ВЕРСИЯ.
+
+АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
+Сборка Япония
+
+Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+Будьте уверены, что мы подберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+Стоимость автомобиля 15 200 000 рублей
+Цена указана с учетом максимальной выгоды при приобретении автомобиля в Кредит / Трейд-Ин / Лизинг
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS RХ 500Н.</Description>
+		<Price>14999000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount>251000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>251000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJCMBHA202012498/148459155276b36ddb9a1f36c1c25657.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCMBHA202012498/964ab68953f98603878fa378becad4d4.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCMBHA202012498/53823d637de986d2846642e63251bda1.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCMBHA202012498/ff33a53ae48bcba819f6ef1a0a12056c.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCMBHA202012498/651c226e3a3d80eed7208b92a2072991.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCMBHA202012498/dc20a6579ce9b7f103f84d10a32bdb73.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCMBHA202012498/10d6e75b5d2c5622d0b47a18a61f0bb6.jpeg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>RX</Model>
+		<GenerationId>18183380</GenerationId>
+		<ModificationId>18311989</ModificationId>
+		<ComplectationId>18628692</ComplectationId>
+		<FuelType>Гибрид</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJCMBHA202012499</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>0e0da9215d181b149add0c6cf19e7825</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Абсолютно Новый Lexus RX 350 у нас в наличии!
+
+Автомобиль оснащен бензиновым 2,4 л. двигателем (249 л.с).
+Lexus RX 350 имеет 21- дюймовые легкосплавные диски, камеры заднего и переднего вида, передние и задние парктроники, 14 дюймовый сенсорный дисплей, 3-х зонная система климат контроля, омыватели передних фар, датчики света и дождя, открытие двери автомобиля с кнопки, подогрев передних сидений и рулевого колеса, кнопка запуска двигателя, 7 подушек безопасности, систему предотвращения выезда из полосы движения, систему мониторинга слепых зон, систему распознования дорожных знаков, а также многое другое.
+
+Подробнее о всех функциях автомобиля Вы можете уточнить в отделе продаж.
+
+Ждём Вас ежедневно пн. - сб. с 9 до 19 часов, вс. с 9 до 16 часов. г. Ставрополь, пр-кт Кулакова,  №32
+
+ПТС оригинал.</Description>
+		<Price>10900000</Price>
+		<TradeinDiscount>250000</TradeinDiscount>
+		<CreditDiscount>250000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>500000</MaxDiscount>
+		<Color>Черный/Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/bacaffb6a95046f57acac03053119ed1.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/71a9d8e98c74e9c1ffbf0ff16925d578.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/047f5797188226a016d32b3acc9e9bda.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/b6bf1be9909fd1cba6d2f8e2a3d4aec7.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/89588911aab93dc14b9f70a1cb7a32c6.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/26157cd42d8722bf195b0ae0ead094b8.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/b6b22c62b8e0b1a75085345c2d941dea.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/6e95d799a27e451493d1c187d70c5ef0.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/332bce51fddbbb6a9544e41ec3324b34.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/4693d44577a172b1cbf0e758990f8ed5.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/8d68af62fb60e4cfb9450a9ee161ad21.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/9e3593920e0c23209c97a73b1720c3ee.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/06ccd808424d3b3f1a1459d5319fd8b0.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/a9b5c460e15d5c7234987c1009c569ff.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/41cfc4a6cb26cba9df2304d0a444b0ba.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/822314c62f61c54c17d00a25d5ffae6e.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/b3695373ce1f55b6b885611bb19e0585.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA102012426/f9d6aef386bc468acc3e7139666467a6.jpg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>RX</Model>
+		<GenerationId>18183380</GenerationId>
+		<ModificationId>18183381</ModificationId>
+		<ComplectationId>18614915</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJCHBJA102012427</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>b7aaf214d54f3a450ff563acd11398bb</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Абсолютно Новый Lexus RX 350 у нас в наличии!
+
+Автомобиль оснащен бензиновым 2,4 л. двигателем (249 л.с).
+Lexus RX 350 имеет 21- дюймовые легкосплавные диски, камеры заднего и переднего вида, передние и задние парктроники, 14 дюймовый сенсорный дисплей, 3-х зонная система климат контроля, омыватели передних фар, датчики света и дождя, открытие двери автомобиля с кнопки, подогрев передних сидений и рулевого колеса, кнопка запуска двигателя, 7 подушек безопасности, систему предотвращения выезда из полосы движения, систему мониторинга слепых зон, систему распознования дорожных знаков, а также многое другое.
+
+Подробнее о всех функциях автомобиля Вы можете уточнить в отделе продаж.
+
+Ждём Вас ежедневно пн. - сб. с 9 до 19 часов, вс. с 9 до 16 часов. г. Ставрополь, пр-кт Кулакова,  №32
+
+ПТС оригинал.</Description>
+		<Price>11900000</Price>
+		<TradeinDiscount>250000</TradeinDiscount>
+		<CreditDiscount>250000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>500000</MaxDiscount>
+		<Color>Черный/Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA602012101/3feca20e992fb0cdcfa82b595342fe25.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA602012101/3dcc5a382e968868d60cafdd32576920.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA602012101/9fc57cddd234514dc1d5d9e8fb0f1ea9.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA602012101/23a3a63e624e12e2085ef474a204935b.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA602012101/c07ecc36fcdce86036f7fa3f4b7e1a6a.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA602012101/efdfe90a21db374288ff90f244036200.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA602012101/5c94986d585d7bc2a8e5546d9c4aeaec.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA602012101/d2b6ae1cfd3158361070571bcc00a883.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA602012101/37769e0590d8bbc687ce26232afbcbf7.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA602012101/9c3ce2c273c1bd52d9213adc59d1abbe.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA602012101/6a34bf7fe6fe329b18fea8d87342332b.jpg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>RX</Model>
+		<GenerationId>18183380</GenerationId>
+		<ModificationId>18183381</ModificationId>
+		<ComplectationId>18614915</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJCHBJA602012102</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>e8b7dc4ab9d012fec763a2fdc95e454a</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Абсолютно Новый Lexus RX 350 у нас в наличии!
+
+Автомобиль оснащен бензиновым 2,4 л. двигателем (249 л.с).
+Lexus RX 350 имеет 21- дюймовые легкосплавные диски, камеры заднего и переднего вида, передние и задние парктроники, 14 дюймовый сенсорный дисплей, 3-х зонная система климат контроля, омыватели передних фар, датчики света и дождя, открытие двери автомобиля с кнопки, подогрев передних сидений и рулевого колеса, кнопка запуска двигателя, 7 подушек безопасности, систему предотвращения выезда из полосы движения, систему мониторинга слепых зон, систему распознования дорожных знаков, а также многое другое.
+
+Подробнее о всех функциях автомобиля Вы можете уточнить в отделе продаж.
+
+Ждём Вас ежедневно пн. - сб. с 9 до 19 часов, вс. с 9 до 16 часов. г. Ставрополь, пр-кт Кулакова,  №32
+
+ПТС оригинал.</Description>
+		<Price>12500000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount/>
+		<InsuranceDiscount/>
+		<MaxDiscount/>
+		<Color>1L1/21 Серый Хром металл</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA902015123/f3af4b8cb340aa82c425b2b8fe79f8f9.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA902015123/87d24e41edae2eee6500e066eb938896.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA902015123/ee6c4594e93ab1d0f2955403debc81ff.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA902015123/65538ad4c9f53ad89448d429f13ceb50.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA902015123/ac99d96d1a4c6cf390cec23aeddb7813.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA902015123/0fd2d763ae0ab6a0c4d25a3d8f86ef83.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA902015123/ff0e82a2df81afb5ff959e363a54ecc4.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA902015123/12d076822412fee768ddc46e5c1f893a.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA902015123/1606ea4fbf5157ba6fa1f3fa257dab0d.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA902015123/816e4ebf83d9de92d2fa4908331a2411.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA902015123/0a82d89c085d71a9e02be145378c297d.jpg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>RX</Model>
+		<GenerationId>18183380</GenerationId>
+		<ModificationId>18183381</ModificationId>
+		<ComplectationId>18571879</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJCHBJA902015124</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>25e539e5aea8844ec67448d2bf090b1e</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Абсолютно Новый Lexus LX 600 у нас в наличии!
+
+
+
+Автомобиль оснащен бензиновым 3,5 л. двигателем (415 л.с).
+
+Lexus LX 600 имеет 10-ти ступенчатую коробку передач, постоянный полный привод и легкосплавные колесные диски 22 радиуса.
+
+В комплектацию “F Sport” входит:
+
+4- х зонный климат- контроль для первого и второго ряда сидений;
+камера панорамного обзора с омывателем;
+передние и задние датчики парковки с функцией автоматического торможения;
+система помощи при движении вперед с функцией визуального и звукового оповещения о приближающемся спереди препятствии, а также множество других функций.
+
+
+Подробнее о всех функциях автомобиля Вы можете уточнить в отделе продаж.
+
+Ждём Вас ежедневно пн. - сб. с 9 до 19 часов, вс. с 9 до 16 часов. г. Ставрополь, пр-кт Кулакова,  №32</Description>
+		<Price>25000000</Price>
+		<TradeinDiscount>250000</TradeinDiscount>
+		<CreditDiscount>250000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>500000</MaxDiscount>
+		<Color>Черный/Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/a653fcfe39f1d468ac3c87fdd58d52fa.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/2725ab4cb479341dd5111da7fa89527c.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/b04f5a105f875edbd34a8712df7bfb4d.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/3b1127f9194474c6cc83c84a29d6c531.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/aaf7423bb45629b4bdc5a5f9d16bdd56.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/dfe00b7d97d1fb3799ad18edbc391800.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/c0b19a837bc5047d37ad9c7d1834d647.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/6a6be09e7616b5b77fb20cddee4fddb7.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/ba1c782ecdaeff877f1668aea3d37a4f.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/74ee2389a743af4a23987314f78f3dbf.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/96dedfa73aed5d98180fd5af1ce6c701.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/9cf82233414c2ca2b054f948ffd9c07c.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/5863cc1bbc487b3816dac38d6d88bded.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/6a840bdc7b98d043a3d5731bde6d38f5.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/ed0d4c68fb3a140de2cccc52c28c790b.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/d5f16e39fed2bd1bfaf09004bf7b66aa.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/7737cf857499e83f2e226b3150fe2ac2.jpg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>LX</Model>
+		<GenerationId>17072338</GenerationId>
+		<ModificationId>17072342</ModificationId>
+		<ComplectationId>18772602</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJPBBCX204050869</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	</Ads>
