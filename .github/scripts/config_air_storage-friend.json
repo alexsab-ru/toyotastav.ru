@@ -15,7 +15,7 @@
         ]
     },
     "avito": {
-        "move_vin_id_up": 1,
+        "move_vin_id_up": 2,
         "new_address": "Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32",
         "new_phone": "+7 865 2978075",
         "replacements": {
