@@ -23,10 +23,7 @@ def process_car(car: ET.Element, existing_files: set, current_thumbs, prices_dat
             description_tag: Имя тега с описанием
     """
     price = int(car.find('price').text or 0)
-    tradein_discount = int(car.find('tradeinDiscount').text or 0)
-    credit_discount = int(car.find('creditDiscount').text or 0)
-    max_discount = credit_discount + tradein_discount
-    create_child_element(car, 'max_discount', max_discount)
+    max_discount = int(car.find('max_discount').text or 0)
     create_child_element(car, 'priceWithDiscount', price - max_discount)
     create_child_element(car, 'sale_price', price - max_discount)
     
@@ -36,7 +33,6 @@ def process_car(car: ET.Element, existing_files: set, current_thumbs, prices_dat
     print(f"Уникальный идентификатор: {friendly_url}")
     
     create_child_element(car, 'url', f"https://{config['repo_name']}/cars/{friendly_url}/")
-    update_element_text(car, 'url_link', f"https://{config['repo_name']}/cars/{friendly_url}/")
     
     file_name = f"{friendly_url}.mdx"
     file_path = os.path.join(config['cars_dir'], file_name)
@@ -80,9 +76,7 @@ def main():
 
     # Предполагаем, что у вас есть элементы с именами
     elements_to_localize = [
-        'engineType', 'drive_type', 'gearboxType', 'ptsType', 'color', 'body_type', 'wheel'
     ]
-    # , 'bodyColor', 'bodyType', 'steeringWheel'
 
     # Списки для удаления
     remove_mark_ids = [
@@ -96,28 +90,12 @@ def main():
     current_thumbs = []
     
     # Обработка машин
-    cars_element = root.find("vehicles")
+    cars_element = root.find('cars')
     for car in cars_element:
-        rename_child_element(car, 'mark', 'mark_id')
-        rename_child_element(car, 'model', 'folder_id')
-
         if should_remove_car(car, remove_mark_ids, remove_folder_ids):
             cars_to_remove.append(car)
             continue
         
-        rename_child_element(car, 'modification', 'modification_id')
-        rename_child_element(car, 'сomplectation-name', 'complectation_name')
-        rename_child_element(car, 'complectation-code', 'complectation_code')
-        # rename_child_element(car, 'mileage', 'run')
-        rename_child_element(car, 'engine-type', 'engineType')
-        rename_child_element(car, 'body-type', 'body_type')
-        rename_child_element(car, 'drive-type', 'drive_type')
-        rename_child_element(car, 'steering-wheel', 'wheel')
-        rename_child_element(car, "max-discount", 'max_discount')
-        rename_child_element(car, "tradein-discount", 'tradeinDiscount')
-        rename_child_element(car, "credit-discount", 'creditDiscount')
-        rename_child_element(car, "insurance-discount", 'insuranceDiscount')
-
         process_car(car, existing_files, current_thumbs, prices_data, elements_to_localize, config)
     
     # Удаление ненужных машин
