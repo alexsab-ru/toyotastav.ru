@@ -5,17 +5,17 @@ on:
     - cron: '0 */4 * * *'  # Запускается каждые 4 часа
   push:
     paths:
+      - '.github/scripts/sh/getAirStorage.sh'
       - '.github/scripts/sh/getDealerData.sh'
-      - '.github/workflows/update_cars.yml'
-      - '.github/scripts/getAirStorage.js'
-      - '.github/scripts/getDealerData.cjs'
-      - '.github/scripts/getOneXML.py'
-      - '.github/scripts/update_cars_air_storage.py'
-      - '.github/scripts/update_cars_carcopy.py'
-      - '.github/scripts/update_cars_maxposter.py'
-      - '.github/scripts/update_cars_vehicles.py'
-      - '.github/scripts/update_cars_data_cars_car.py'
+      - '.github/scripts/CarFeedProcessorCSV.py'
+      - '.github/scripts/config_air_storage.json'
       - '.github/scripts/config.py'
+      - '.github/scripts/getOneXML.py'
+      - '.github/scripts/GSheetFetcher.js'
+      - '.github/scripts/update_cars_air_storage.py'
+      - '.github/scripts/update_cars.py'
+      - '.github/scripts/utils.py'
+      - '.github/workflows/update_cars.yml'
   workflow_dispatch:
 
 jobs:
@@ -40,11 +40,6 @@ jobs:
           npm install -g pnpm
           pnpm install --no-frozen-lockfile
 
-    - name: Download CSV
-      if: ${{ vars.ENV_CSV_URL }}
-      run: |
-        curl '${{ vars.ENV_CSV_URL }}' -o data.csv
-
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
@@ -56,13 +51,14 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests lxml pyyaml Pillow
 
-    - name: Generate cars.xml from csv
-      if: ${{ vars.ENV_CSV_URL }}
+    - name: Download CSV and generate cars.xml from csv
+      if: ${{ vars.CSV_URL }}
       run: |
+        curl '${{ vars.CSV_URL }}' -o data.csv
         python .github/scripts/CarFeedProcessorCSV.py
       env:
         REPO_NAME: ${{ github.event.repository.name }}
-        CSV_URL: ${{ vars.ENV_CSV_URL }}
+        CSV_URL: ${{ vars.CSV_URL }}
 
     - name: Get air storage
       if: ${{ vars.AIR_STORAGE_CSV_URL }}
@@ -73,13 +69,6 @@ jobs:
         KEY_COLUMN: "VIN"
         OUTPUT_PATHS: "air_storage.json"
 
-    - name: Get one XML
-      if: ${{ vars.ENV_XML_URL }}
-      run: |
-        python .github/scripts/getOneXML.py
-      env:
-        ENV_XML_URL: ${{ vars.ENV_XML_URL }}
-
     - name: Get Dealer JSON cars price
       if: ${{ vars.DEALER_PRICE_CSV_URL }}
       run: |
@@ -88,36 +77,66 @@ jobs:
       env:
         DEALER_PRICE_CSV_URL: ${{ vars.DEALER_PRICE_CSV_URL }}
 
-    - name: Generate files
-      if: ${{ vars.ENV_XML_URL }}
+    - name: Get cars data_cars_car XML and generate cars file
+      if: ${{ vars.XML_URL_DATA_CARS_CAR }}
       run: |
-        python .github/scripts/update_cars_data_cars_car.py
+        python .github/scripts/getOneXML.py
+        python .github/scripts/update_cars.py --source_type data_cars
       env:
         REPO_NAME: ${{ github.event.repository.name }}
-        XML_URL: ${{ vars.ENV_XML_URL }}
+        XML_URL: ${{ vars.XML_URL_DATA_CARS_CAR }}
 
-    - name: Get XML for auto.ru
+    - name: Get cars maxposter XML and generate cars file
+      if: ${{ vars.XML_URL_MAXPOSTER }}
+      run: |
+        python .github/scripts/getOneXML.py
+        python .github/scripts/update_cars.py --source_type maxposter
+      env:
+        REPO_NAME: ${{ github.event.repository.name }}
+        XML_URL: ${{ vars.XML_URL_MAXPOSTER }}
+
+    - name: Get cars vehicles_vehicle XML and generate cars file
+      if: ${{ vars.XML_URL_VEHICLES_VEHICLE }}
+      run: |
+        python .github/scripts/getOneXML.py
+        python .github/scripts/update_cars.py --source_type vehicles
+      env:
+        REPO_NAME: ${{ github.event.repository.name }}
+        XML_URL: ${{ vars.XML_URL_VEHICLES_VEHICLE }}
+
+    - name: Get cars carcopy XML and generate cars file
+      if: ${{ vars.XML_URL_CARCOPY }}
+      run: |
+        python .github/scripts/getOneXML.py
+        python .github/scripts/update_cars.py --source_type carcopy
+      env:
+        REPO_NAME: ${{ github.event.repository.name }}
+        XML_URL: ${{ vars.XML_URL_CARCOPY }}
+
+    - name: Get Dealer XML for auto.ru and generate auto.ru xml
       if: ${{ vars.AUTORU_XML_URL }}
       run: |
         python .github/scripts/getOneXML.py
-      env:
-        ENV_XML_URL: ${{ vars.AUTORU_XML_URL }}
-
-    - name: Generate auto.ru xml
-      if: ${{ vars.AUTORU_XML_URL }}
-      run: |
         python .github/scripts/update_cars_air_storage.py --source_type autoru  --output_path "./public/autoru.xml"
       env:
         REPO_NAME: ${{ github.event.repository.name }}
         XML_URL: ${{ vars.AUTORU_XML_URL }}
 
-    - name: Get Dealer Avito xml
-      if: ${{ vars.AVITO_XML_URL }}
+    - name: Get Dealer XML for avito and generate avito xml if friend url not exists
+      if: ${{ vars.AVITO_XML_URL && !vars.AVITO_FRIEND_XML_URL }}
+      run: |
+        python .github/scripts/getOneXML.py
+        python .github/scripts/update_cars_air_storage.py --source_type avito --output_path="./public/avito.xml"
+      env:
+        REPO_NAME: ${{ github.event.repository.name }}
+        XML_URL: ${{ vars.AVITO_XML_URL }}
+
+    - name: Get Dealer Avito xml if friend url exists
+      if: ${{ vars.AVITO_XML_URL && vars.AVITO_FRIEND_XML_URL }}
       run: |
         python .github/scripts/getOneXML.py
         python .github/scripts/update_cars_air_storage.py --source_type avito --output_path="./public/avito_dc.xml"
       env:
-        ENV_XML_URL: ${{ vars.AVITO_XML_URL }}
         REPO_NAME: ${{ github.event.repository.name }}
         XML_URL: ${{ vars.AVITO_XML_URL }}
 
@@ -127,7 +146,6 @@ jobs:
         python .github/scripts/getOneXML.py --output="cars_friend.xml"
         python .github/scripts/update_cars_air_storage.py --source_type avito --input_file cars_friend.xml --output_path="./public/avito_friend.xml" --config_path="./.github/scripts/config_air_storage-friend.json"
       env:
-        ENV_XML_URL: ${{ vars.AVITO_FRIEND_XML_URL }}
         REPO_NAME: ${{ github.event.repository.name }}
         XML_URL: ${{ vars.AVITO_FRIEND_XML_URL }}
 
@@ -136,9 +154,8 @@ jobs:
       run: |
         python .github/scripts/getOneXML.py --output_path="./public/avito.xml"
       env:
-        ENV_XML_URL: "./public/avito_dc.xml ./public/avito_friend.xml"
         REPO_NAME: ${{ github.event.repository.name }}
-        XML_URL: ${{ vars.AVITO_FRIEND_XML_URL }}
+        XML_URL: "./public/avito_dc.xml ./public/avito_friend.xml"
 
     - name: Set output
       id: set_output
