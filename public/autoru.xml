@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <data>
   <cars><car>
 			<mark_id>LEXUS</mark_id>
@@ -52,9 +52,162 @@
 			</images>
 		<url>https://toyotastav.ru/cars/lexus-lx-iv-600-35-at-415-лс-4wd-luxury-черный-2024/</url></car>
 	<car>
-			<mark_id>LEXUS</mark_id>
+			<mark_id>Lexus</mark_id>
+			<folder_id>GX, III</folder_id>
+			<modification_id>550 3.4 AT (354 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Executive</complectation_name>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>16280000</price>
+			<credit_discount>501000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>501000</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJTBDDX7R5001390</vin>
+			<phone>83532793594</phone>
+			<description>В нaличии новый ОБНОВЛЕННЫЙ LЕХUS GX550, комплектация Executive
+
+Автoмобиль предcтaвлен oт официальнoгo дилepa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+
+Будьтe увeрены, что мы подберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+Данная цена действительна при условии приобретения автомобиля в Кредит / Trade-In / Лизинг.
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS GХ 550.
+
+Место осмотра
+
+Осмотреть автомобиль можно по адресу: г. Ставрополь, пр-кт Кулакова,  №32</description>
+			<images>
+				<image>https://photo.toyotasever.ru/JTJTBDDX7R5001388/90cb4029b56b278196586a8251a0a745.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX7R5001388/73d40fb31569d41bb1d196bce48187f0.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX7R5001388/888ed10a598309a66165438f0fe714cb.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX7R5001388/caae156d09694c57344f3faa141282da.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX7R5001388/1e1026494a581ab17ae3a7c5d490d1b0.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX7R5001388/cc096d6211cdd35db6c28f4ada1d54d2.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX7R5001388/4d6776e84d6a0442ca9ae925c83c53f5.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX7R5001388/28f5addc33c51c23715005cbd502adda.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX7R5001388/64ebd7f05fbd742c8b3e6f4e7edf779e.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX7R5001388/21629333704b4905ba73bbf7683e8c62.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX7R5001388/adbfec0c3210c5015a07d935ad32c622.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX7R5001388/d1b8c4c1d46aa6e4601c0a21ea2610a1.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX7R5001388/e83b8b30aad01ec4b435ccf85eb3f92e.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX7R5001388/dd9423da495501d55017030710a98a83.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX7R5001388/4bcc7cab596387f6419bde4a3d80dd44.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX7R5001388/64812876fa6802866d8bb7c61d7f53ed.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX7R5001388/353d9eac10eb64c5cbb69390a16e0c3b.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX7R5001388/ab721b248abbc4d886f03ee0eece288c.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX7R5001388/3dc850216be9ad66bba66e64b5e34c93.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX7R5001388/36ee5a31e17eaf8d352d1d92f783fbb1.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX7R5001388/a3857402b6b14eaf37da4dd3167fd880.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX7R5001388/3591e7b7d0d510c013c14dc70b1ced0e.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX7R5001388/24ffa34a73cb23690f32ff076611ac83.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX7R5001388/5f83d4aa5f521edc5d872d5c21c8cd0f.jpeg</image>
+			</images>
+		<url>https://toyotastav.ru/cars/lexus-gx-iii-550-34-at-354-лс-4wd-executive-серый-2024/</url></car>
+		<car>
+			<mark_id>Lexus</mark_id>
+			<folder_id>LM, II</folder_id>
+			<modification_id>350h 2.5hyb CVT (190 л.с.) 4WD</modification_id>
+			<body_type>Минивэн</body_type>
+			<complectation_name>VIP+</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>24950000</price>
+			<credit_discount>451000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>451000</max_discount>
+			<currency>RUR</currency>
+			<vin>JTHADAAD005003579</vin>
+			<phone>83532793594</phone>
+			<description>В наличии нoвый роскошный LEXUS LM 350h, в комплектации VIP +
+
+Сборка Япония.
+АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
+
+Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc:
+
+✅НДС С ПОЛНОЙ СТОИМОСТИ
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+Будьте уверены, что мы подберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+Цена указана с учетом максимальной выгоды при приобретении автомобиля в Кредит / Трейд-Ин / Лизинг
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/JTHADAAD005003577/5c0be72e7f30eea55a980b2ced4c92f8.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHADAAD005003577/2fd6ab28b9b0af9c49a418ae1eacc8ce.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTHADAAD005003577/6f8fa6d0944c1ca23f609c328ef27ee9.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTHADAAD005003577/fd1fa5f74d69c4a1989f509501ca4101.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTHADAAD005003577/2b90665be33c7ca8fe50e0bf2275bcf5.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTHADAAD005003577/460e8a14cf429288c1cf2242cec2fa32.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTHADAAD005003577/8e2da4621aa1d3e3f1f7dfdba3bf6aff.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTHADAAD005003577/6a1f280d18f636446e3ddd3ae164648d.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTHADAAD005003577/a5e53513a62213a34262501e839f5e78.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTHADAAD005003577/0855fbfcbf0bd76b5d5dddd1fd51f9fe.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTHADAAD005003577/090a3570fb795ed342d44cb7318c385c.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTHADAAD005003577/a3a48c95850be07c42235299ae19136b.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTHADAAD005003577/9c11900f099f5c9ed3ac6122fc1caa76.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTHADAAD005003577/f9e559799dbcd8118b190a2f356fc352.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTHADAAD005003577/1b7effd7956da036c01e9e55b53847a6.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTHADAAD005003577/602dcfadaa1ec2c60df6660d7b57634d.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTHADAAD005003577/f3c7048970e1301a3d7ff20d02c0e92b.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTHADAAD005003577/05a57458e0da1c336fcdf70bd28db00f.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTHADAAD005003577/82f5196a2cbd1c0d783ee5a49be198f7.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTHADAAD005003577/595cdf943185c1ddebe39fd6e30a6077.jpeg</image>
+			</images>
+		<url>https://toyotastav.ru/cars/lexus-lm-ii-350h-25hyb-cvt-190-лс-4wd-vip-plus-черный-2024/</url></car>
+		<car>
+			<mark_id>Lexus</mark_id>
 			<folder_id>LX, IV</folder_id>
-			<modification_id>600 3.5 AT (415 л.с.) 4WD</modification_id>
+			<modification_id>500d 3.4d AT (299 л.с.) 4WD</modification_id>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<complectation_name>Luxury</complectation_name>
 			<wheel>левый</wheel>
@@ -64,43 +217,1621 @@
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2024</year>
-			<price>24900000</price>
+			<price>20699000</price>
+			<credit_discount>755000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>755000</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJPA7CX9R4003756</vin>
+			<phone>83532793594</phone>
+			<description>В наличии нoвый OБHOBЛEННЫЙ Lехus LX 600, в комплектации F SPORT
+
+АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
+Сборка Япония.
+
+Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+Будьте уверены, что мы подберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS LX600.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/JTJPA7CX9R4003754/29e48320b3aaf21bb8d7edf2649c112a.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX9R4003754/21f459ea3938c563bb24dde6cd6b46ac.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX9R4003754/184dee0af247176f53ff0fff2e0af531.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX9R4003754/655502aaad62ecc5cf6bff124d9613cb.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX9R4003754/58e67eababe550b62f3eb272766e37f0.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX9R4003754/660588c990ad8cfe96aa7237c23b069e.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX9R4003754/2cb4bdc1337b3aee227ddeca71aab422.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX9R4003754/6cea7a84a76f2a4c6b1f9f535ec27c57.jpeg</image>
+			</images>
+		<url>https://toyotastav.ru/cars/lexus-lx-iv-500d-34d-at-299-лс-4wd-luxury-черный-2024/</url></car>
+		<car>
+			<mark_id>Lexus</mark_id>
+			<folder_id>LX, IV</folder_id>
+			<modification_id>600 3.5 AT (415 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>F Sport</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>22699000</price>
+			<credit_discount>755000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>755000</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJPBBCX604050603</vin>
+			<phone>83532793594</phone>
+			<description>В наличии нoвый OБHOBЛEННЫЙ Lехus LX 600, в комплектации F SPORT
+
+АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
+Сборка Япония.
+
+Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+Будьте уверены, что мы подберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS LX600.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/JTJPBBCX604050601/c45d1d3315456c21805f6100946d6896.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX604050601/cbe0294385e070c820eebe3d7ce32b07.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX604050601/e4de5f0224b5978a66ec659875483e4d.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX604050601/dd2ce1064ed53c0491e5c8d40bd34470.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX604050601/9b486cf1faf0cd1b0f29d30820525c24.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX604050601/5740bda86ba3efc734145af1cfdc8947.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX604050601/876fe30446ca94dab93cbe1fa7320842.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX604050601/837a5d74af1de27ae57299af4203c2c5.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX604050601/c20b55288204b60de747fbb7f0072659.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX604050601/e38f1e47bf3a0a3c6bd52bfa45be5181.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX604050601/38e5ff71669bed862780698cb68a6c69.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX604050601/c571c3adaf583f7cdcf7430e4da3de6b.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX604050601/c6794c7d2ec4adde7c0b97577214d339.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX604050601/d56e351f190610aa3067bc98fed5d7db.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX604050601/f01da1eeab218dc188f2862886c09056.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX604050601/8cbe292b03fa4db74cd934c895539f87.jpeg</image>
+			</images>
+		<url>https://toyotastav.ru/cars/lexus-lx-iv-600-35-at-415-лс-4wd-f-sport-черный-2024/</url></car>
+		<car>
+			<mark_id>Lexus</mark_id>
+			<folder_id>LX, IV</folder_id>
+			<modification_id>600 3.5 AT (415 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Luxury+</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>22699000</price>
+			<credit_discount>755000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>755000</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJPBBCX404051037</vin>
+			<phone>83532793594</phone>
+			<description>В наличии нoвый OБHOBЛEННЫЙ Lехus LX 600, в комплектации Luxury+
+
+АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
+Сборка Япония.
+
+Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+Будьте уверены, что мы подберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS LX600.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/JTJPBBCX404051035/1d8af2b1c338a622a9e84038a2f800ba.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX404051035/e4b124abdbd485b9f7027fc6a1906df9.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX404051035/588b97c64bcd8a9cdb3cacc69ec2beed.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX404051035/27ef4be8ede7f21bb7cf01c332b63ae9.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX404051035/12bba9b05c00898550cfcf29389662aa.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX404051035/1a05b5da366fe779eb40e12a56d3bde2.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX404051035/5d0e7507966022765af3f46c2543fb1f.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX404051035/3b9f46c1216fbf43f51bcfb6a7349123.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX404051035/2a9f7a43ea67a1d0b80dc10c7d56bc74.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX404051035/821bdab931b0d7d62539712b8a58c950.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX404051035/d7e536e32287fa41a67c06cc722b72cf.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX404051035/33043099b6d408266e032c0722bd3099.jpeg</image>
+			</images>
+		<url>https://toyotastav.ru/cars/lexus-lx-iv-600-35-at-415-лс-4wd-luxury-plus-черный-2024/</url></car>
+		<car>
+			<mark_id>Lexus</mark_id>
+			<folder_id>LX, IV</folder_id>
+			<modification_id>600 3.5 AT (415 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Luxury</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>22699000</price>
+			<credit_discount>755000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>755000</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJPB7CX004050898</vin>
+			<phone>83532793594</phone>
+			<description>В наличии нoвый OБHOBЛEННЫЙ Lехus LX 600, в комплектации Luxury, 7 мест
+
+АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
+Сборка Япония.
+
+Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+Будьте уверены, что мы подберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS LX600.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/f9fc3b82a6aa504cf30af3e0deb75172.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/4a96b77f70caca31933e4b63dc0c44fb.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/5822aa5df0541e4b814f53aa3a8ed7eb.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/2761c7c436fc1bc198f7c12d9c7ec0f0.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/b2345144fce8f8877516ada167a13c09.jpeg</image>
+			</images>
+		<url>https://toyotastav.ru/cars/lexus-lx-iv-600-35-at-415-лс-4wd-luxury-белый-2024/</url></car>
+		<car>
+			<mark_id>Lexus</mark_id>
+			<folder_id>RX, V</folder_id>
+			<modification_id>350 2.4 AT (249 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Executive</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>11199000</price>
+			<credit_discount>450000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>450000</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJCHBJAX02014436</vin>
+			<phone>83532793594</phone>
+			<description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350, в комплектации EXECUTIVE
+
+АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
+Сборка Япония.
+
+Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+
+Цена указана с учетом максимальной выгоды при приобретении автомобиля в Кредит / Трейд-Ин / Лизинг
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS RХ 350.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/JTJCHBJAX02014434/bd44bd37a3a478cee3e6800a09da7f10.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJAX02014434/e0cf0c05be39142566a673c8b78a881f.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJAX02014434/132b83933d77f5bbe695128805812cbc.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJAX02014434/b2ba621b13d2b2500610537917abc91f.jpeg</image>
+			</images>
+		<url>https://toyotastav.ru/cars/lexus-rx-v-350-24-at-249-лс-4wd-executive-белый-2024/</url></car>
+		<car>
+			<mark_id>Lexus</mark_id>
+			<folder_id>RX, V</folder_id>
+			<modification_id>350h 2.5hyb CVT (250 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Executive Line</complectation_name>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>11899000</price>
+			<credit_discount>450000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>450000</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJCJBJA102034171</vin>
+			<phone>83532793594</phone>
+			<description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации EXECUTIVE
+
+АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
+Сборка Япония.
+
+Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+Цена указана с учетом максимальной выгоды при приобретении автомобиля в Кредит / Трейд-Ин / Лизинг
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS RХ 350.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/JTJCJBJA102034169/a22f15187ed3f935afe2fd27f0f7eccb.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCJBJA102034169/9cb3c6ebcfd7e2535f24a6fc368d61cf.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCJBJA102034169/06aad104c5097426a532f869e43a61ca.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCJBJA102034169/0b224ee029d0564806c3d4afe17cc280.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCJBJA102034169/02f2007a4aa6b8e4dba4fab1762675bc.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCJBJA102034169/7bb9199ca9a7b772793ef1a1a436811f.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCJBJA102034169/5105dd2907e09893609b35c7fe795db2.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCJBJA102034169/18926e1a1c18b0775007b88ca1e0152f.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCJBJA102034169/114b45e18a3cc4cb80078f6f6422748b.jpeg</image>
+			</images>
+		<url>https://toyotastav.ru/cars/lexus-rx-v-350h-25hyb-cvt-250-лс-4wd-executive-line-платиновый-графит-2024/</url></car>
+		<car>
+			<mark_id>Lexus</mark_id>
+			<folder_id>RX, V</folder_id>
+			<modification_id>350h 2.5hyb CVT (250 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>F SPORT</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>12299000</price>
+			<credit_discount>590000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>185000</tradein_discount>
+			<max_discount>775000</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJCJBJA702033384</vin>
+			<phone>83532793594</phone>
+			<description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации F Sport.
+
+ГИБРИДНАЯ ВЕРСИЯ.
+
+АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
+Сборка Япония.
+
+Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+Будьте уверены, что мы подберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+Цена указана с учетом максимальной выгоды при приобретении автомобиля в Кредит / Трейд-Ин / Лизинг
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS RХ 350.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/JTJCJBJA702033382/dc58caf11c526372f6088c3109a00f0c.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCJBJA702033382/88ca8bb3897603821c4d3713de1bd1e9.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCJBJA702033382/816dad4c36aec49d6e6b87783aacf5c4.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCJBJA702033382/3f56b4bef3868c06912313852f6f6cca.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCJBJA702033382/4602dc2f49c6129eaffaaf993820bb01.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCJBJA702033382/1b71dee9600c51c5c14b4ccc726ce59f.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCJBJA702033382/19eddb35ff4e27fa913eb15564d5b76e.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCJBJA702033382/d582a180fef585b4fee88e108dd236f0.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCJBJA702033382/00b7565732577655280ccd6df083820f.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCJBJA702033382/34e40612ef94df61d7da3ef19d0219d1.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCJBJA702033382/abf1d320b7a22546b27f260e7d789e44.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCJBJA702033382/5db5234dba4816f11ab832bcfd903376.jpeg</image>
+			</images>
+		<url>https://toyotastav.ru/cars/lexus-rx-v-350h-25hyb-cvt-250-лс-4wd-f-sport-черный-2024/</url></car>
+		<car>
+			<mark_id>LEXUS</mark_id>
+			<folder_id>RX, V</folder_id>
+			<modification_id>500h 2.4hyb AT (371 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>F SPORT Performance</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>14999000</price>
+			<credit_discount>251000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>251000</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJCMBHA202012500</vin>
+			<phone>83532793594</phone>
+			<description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 500H, в комплектации F Sport.
+
+ГИБРИДНАЯ ВЕРСИЯ.
+
+АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
+Сборка Япония
+
+Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки.
+
+Будьте уверены, что мы подберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+Цена указана с учетом максимальной выгоды при приобретении автомобиля в Кредит / Трейд-Ин / Лизинг
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Lехus - это премиальный автомобильный бренд, который принадлежит японской компании Тоyоtа. Под этим брендом выпускаются автомобили высокого класса, такие как седаны, купе, кабриолеты, кроссоверы и внедорожники.
+
+Lехus был основан в 1989 году как отдельное подразделение Тоyоtа для производства автомобилей премиум-класса для американского рынка. С тех пор Lехus стал одним из лидеров в производстве роскошных автомобилей и продается более чем в 80 странах мира.
+
+Одной из главных особенностей Lехus являются его инновационные технологии и высокое качество сборки. Многие модели Lехus оснащены системами безопасности, такими как адаптивный круиз-контроль, система предупреждения о столкновении и система автоматического экстренного торможения. Кроме того, Lехus предлагает широкий выбор двигателей и трансмиссий, которые обеспечивают высокую производительность и экономичность.
+
+В целом, Lехus является символом роскоши, комфорта и безопасности на дороге. Если вы ищете автомобиль премиум-класса, то Lехus может стать отличным выбором для вас.
+Lехus является надежным, экономичным, вместительным, популярным, проходимым, стильным и современным автомобилем.
+
+НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS RХ 500Н.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/JTJCMBHA202012498/148459155276b36ddb9a1f36c1c25657.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA202012498/964ab68953f98603878fa378becad4d4.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA202012498/53823d637de986d2846642e63251bda1.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA202012498/ff33a53ae48bcba819f6ef1a0a12056c.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA202012498/651c226e3a3d80eed7208b92a2072991.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA202012498/dc20a6579ce9b7f103f84d10a32bdb73.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA202012498/10d6e75b5d2c5622d0b47a18a61f0bb6.jpeg</image>
+			</images>
+		<url>https://toyotastav.ru/cars/lexus-rx-v-500h-24hyb-at-371-лс-4wd-f-sport-performance-белый-2024/</url></car>
+		<car>
+			<mark_id>TOYOTA</mark_id>
+			<folder_id>RAV4, V (XA50)</folder_id>
+			<modification_id>2.0 CVT (171 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Fashion Plus</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2023</year>
+			<price>4500000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LFMJN5BF2P3094570</vin>
+			<phone>83532793702</phone>
+			<description>В наличии TOYOTA RAV4, 2023 года выпуска, комплектация Fashion Plus
+
+Автомобиль представлен от официального дилера Тойота-Оренбург:
+
+✅ НДС С ПОЛНОЙ СТОИМОСТИ
+
+✅ Гарантия 2 года, либо 50 000 км (в зависимости от того, что наступит ранее).
+
+✅ Выгодный обмен Вашего автомобиля на новый
+
+✅ Автомобиль с ЭПТС
+
+✅ ЛИЗИНГ
+
+Данная цена действительна при условии приобретения автомобиля в Кредит / Trade-In / Лизинг
+
+Будьте увеpены, что мы пoдберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Большой выбор автомобилей в наличии. Максимально выгодные предложения на покупку новых автомобилей и автомобилей с пробегом! 
+
+Звоните прямо сейчас!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LFMJN5BF2P3094568/02b0a0da39eb78ec02f4266b79476385.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF2P3094568/9d056467972d815a14ab26550738f0ab.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF2P3094568/2268ff178dd1a257a000c4bc5a82928e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF2P3094568/56fd325e9cdb2ab4eeb73fe3af60563c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF2P3094568/03b4ff73e5ef30d1c00ccb3ccf4d54b4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF2P3094568/e0d8727517df81ef16e6cbb4f9b04b3b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF2P3094568/4409813092bdb8a785fd06910f634f3e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF2P3094568/b064f98749aff91cdf643ad58b002373.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF2P3094568/1b234398739f7252e7df77f100db5660.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF2P3094568/2c0e2a6e21c69459f14d72fc27efd38d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF2P3094568/36735f71fedb2416542e245d29b1f403.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF2P3094568/2aa36700a734252e96bb5eff3f6a11e9.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF2P3094568/8f0d4cb4eff60220255fba3d824e01bd.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF2P3094568/e024c99c3e7f123f8f2cce54c020bb57.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF2P3094568/a118e0c52692e21b301f45d78ba26624.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF2P3094568/ffc343af36e310fa3e51951202137d64.jpeg</image>
+			</images>
+		<url>https://toyotastav.ru/cars/toyota-rav4-v-xa50-20-cvt-171-лс-4wd-fashion-plus-белый-2023/</url></car>
+		<car>
+			<mark_id>TOYOTA</mark_id>
+			<folder_id>RAV4, V (XA50)</folder_id>
+			<modification_id>2.0 CVT (171 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Fashion Plus</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2023</year>
+			<price>4500000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LFMJN5BF2P3094573</vin>
+			<phone>83532793702</phone>
+			<description>В наличии TOYOTA RAV4, 2023 года выпуска, комплектация Fashion Plus
+
+Автомобиль представлен от официального дилера Тойота-Оренбург:
+
+✅ НДС С ПОЛНОЙ СТОИМОСТИ
+
+✅ Гарантия 2 года, либо 50 000 км (в зависимости от того, что наступит ранее).
+
+✅ Выгодный обмен Вашего автомобиля на новый
+
+✅ Автомобиль с ЭПТС
+
+✅ ЛИЗИНГ
+
+Данная цена действительна при условии приобретения автомобиля в Кредит / Trade-In / Лизинг
+
+Будьте увеpены, что мы пoдберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Большой выбор автомобилей в наличии. Максимально выгодные предложения на покупку новых автомобилей и автомобилей с пробегом! 
+
+Звоните прямо сейчас!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LFMJN5BF2P3094571/39188827dcea6fa8891357ce2096984d.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF2P3094571/d607da76a9069c328173c0fcf37af6fa.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF2P3094571/25f1a203c6b8a44b068fa573d65212cb.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF2P3094571/9879c50e2aa019626200b103786a4b53.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF2P3094571/071cd774ffccc08616b0eecdf0d2082f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF2P3094571/42bc1ee5fceea12d2b2d720e1831da6a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF2P3094571/200d79ce785846c9b382a2186c525b42.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF2P3094571/d6d3e32860eafd308d16a6be3e5de277.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF2P3094571/de42b074541032c099612bf8a85504c9.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF2P3094571/f7214db2c729fece6dc862b6dcd529f5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF2P3094571/498a77b5de01701101a86f3b9b6a59a0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF2P3094571/12d52a5dc0eb4b52a8e3c5ea8925a895.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF2P3094571/44ac5e7cc50c25a1eded38ac11bdf6fc.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF2P3094571/46e8787520ced72fa1fc9d893e6b9041.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF2P3094571/48810e2c0ed03d3345b8968b50700344.jpeg</image>
+			</images>
+		<url>https://toyotastav.ru/cars/toyota-rav4-v-xa50-20-cvt-171-лс-4wd-fashion-plus-белый-2023/</url></car>
+		<car>
+			<mark_id>Lexus</mark_id>
+			<folder_id>GX, III</folder_id>
+			<modification_id>550 3.4 AT (354 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Executive</complectation_name>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>16690000</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<max_discount>400000</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJTBDDX4R5001010</vin>
+			<description>Нoвый Leхus GX550 в пятиместном исполнении.
+Выгодный обмен Вашего автомобиля на новый Lexus.
+Aвтомoбиль в наличии в нашем дилерском центре Лексус, не упуститe вoзмoжнocть зaбpoнировать eгo пeрвыми!
+
+Лексус рад предложить Вам индивидуальные условия на новые автомобили Lехus. Мы дорожим нашей высокой репутацией и занимаем ведущие позиции в Приволжском федеральном округе.
+
+✅ Возможно оформление в кредит
+✅ Автомобиль на гарантии
+✅ Выгодный обмен Вашего автомобиля на новый
+✅ Индивидуальные предложения для каждого клиента
+
+Также мы готовы подобрать для Вас автомобиль в любой комплектации отвечающей Вашим запросам и сформировать персональное предложение, а также оформить заказ.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/JTJTBDDX4R5001008/75133784900a369118378009e3971cc7.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX4R5001008/1685306321d69688f5605d939dabd2e8.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX4R5001008/a41b7f1a3d1da7e86da4a258db623706.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX4R5001008/cfd7725bb1e62494f74a6fc2d0ef232f.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX4R5001008/e36d8d8c40aac6c132d705faa4db6283.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX4R5001008/7bf2266454e085394886c4aa71093922.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX4R5001008/f6e3076040de51b6275c6c6b41d21f18.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX4R5001008/2ffe4c1d60ac289bfea6ddff9650cca1.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX4R5001008/b0a8777e25daebf95e754b0ba3dd5ae9.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX4R5001008/f29fc7494757494a1b348de11f0ec360.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX4R5001008/02dc6388ae4b72804557d8d5efbe8b85.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX4R5001008/c0aeb8b6573e7f3f09b75da5a4853313.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX4R5001008/585fe0c2dd44116a75f43907152a9ed0.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX4R5001008/9309d7ff71740937a896231d94540183.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX4R5001008/97ede6475871efb2536ccf12994c2a38.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX4R5001008/11c0ceaa9bc528f6adbd3eee7d2cf853.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX4R5001008/a1da600b3ccf3d8ef25a604f7edb8573.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX4R5001008/98767fcc36b684a03bce1d93da359b58.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX4R5001008/745fdf92c4736fea4b32862ae03a49ab.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX4R5001008/d9e480b2debabc4c95910bfb72161bc2.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX4R5001008/44b3b8552d334f8e3f1f84af1a209152.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX4R5001008/ab9dc0ae8f5175cba91a759c7126dfda.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX4R5001008/5ec9a7945c0a2b9165d28f5531ef369a.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX4R5001008/bf420063a3da7d1c0c6f2cd925bc8606.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX4R5001008/a2840e4fc4012190c603ee0e148913d0.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX4R5001008/2ff2ae9eb195d76650c0b88a6fb4bc75.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX4R5001008/2a2f9f6ef5a7a09f0169d87a16b01213.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX4R5001008/2f3c7b9b95aaff038956dfaba8dd3b2b.jpg</image>
+			</images>
+		<url>https://toyotastav.ru/cars/lexus-gx-iii-550-34-at-354-лс-4wd-executive-серый-2024/</url></car>
+		<car>
+			<mark_id>Lexus</mark_id>
+			<folder_id>GX, III</folder_id>
+			<modification_id>550 3.4 AT (354 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Luxury</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>17990000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJTBDDX805010154</vin>
+			<description>Нoвый Leхus GX550 в peдкой комплектации Luxury в пятиместном исполнении. Автомобиль в наличии в официальном дилерском центре Лексус, не упуститe вoзмoжнocть зaбpoнировать eгo пeрвыми!
+Выгодный обмен Вашего автомобиля на новый Lexus. Гарантия на автомобиль.
+Подробности уточняйте.
+
+Лексус рад предложить Вам индивидуальные условия на новые автомобили Lехus. Мы дорожим нашей высокой репутацией и занимаем ведущие позиции в Приволжском федеральном округе.
+
+✅ Возможно оформление в кредит
+✅ Автомобиль на гарантии
+✅ Выгодный обмен Вашего автомобиля на новый
+✅ Индивидуальные предложения для каждого клиента
+
+Также мы готовы подобрать для Вас автомобиль в любой комплектации отвечающей Вашим запросам и сформировать персональное предложение, а также оформить заказ.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/JTJTBDDX805010152/c277de164744cf2412d7ab95c2398263.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX805010152/ec43ae898ae8b729174f01275d0549cf.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX805010152/33b668237491b2e04a414e0fe44577dd.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX805010152/21eef629d49975fe0ff2683b51f71ca2.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX805010152/aeef6f31e6171e2e293e8768d04ffc34.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX805010152/1083d6dee4ad11d0984b7c84355cc507.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX805010152/cdaac92c210ada1d4824fd69a762a769.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX805010152/09585a67965bb6a3ac5cddc23285c2f2.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX805010152/1eb873a4393fd7b9b8957203b948fcaf.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX805010152/5d1893ee5a12605dfd47d65fdf7fa2b0.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX805010152/3c1709838bc1e2723159b3190d1fb1bd.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX805010152/83e2b76c69bee5c5fa5af1b809c30013.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX805010152/db2f9c684949f33fda91fc8c720f61e2.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX805010152/b13b3ff3c7d6eb66814df189ce06935e.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX805010152/ec6824c39c3b39c6abf47cf91ae5aa23.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX805010152/e7d4c68be603f8bd40667a0b14994051.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX805010152/b6a28b366703c034e46f344fbc376523.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX805010152/64edb98dd9171d368e7378a4123d99ce.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX805010152/249c70269b62c52ee9ffde8f889865f1.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX805010152/c0086436a44a1bb4bf03ce55d2c0159c.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX805010152/01bf4f813a4d287f2367d0270be74040.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX805010152/b4827a9eeb308a0da3d53e7d8f395110.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX805010152/d83cc5f4475c615b95ad7c9d65b9364f.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX805010152/6beaf32aa2aa89a623577e9d98994b75.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX805010152/3662bfc696ab0b2faf6636095c7cf751.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX805010152/21125a8d8ca87cf6493dce4fb7e18fe8.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX805010152/25a2959033a9f577d7705a68975290a7.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJTBDDX805010152/80d823357f739ff81bc7f9e1e61fdae3.jpg</image>
+			</images>
+		<url>https://toyotastav.ru/cars/lexus-gx-iii-550-34-at-354-лс-4wd-luxury-черный-2024/</url></car>
+		<car>
+			<mark_id>LEXUS</mark_id>
+			<folder_id>LX, IV</folder_id>
+			<modification_id>500d 3.4d AT (299 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Luxury</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>да</metallic>
+			<availability>в пути</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>20490000</price>
+			<credit_discount>250000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<max_discount>500000</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJPA7CX1R4003990</vin>
+			<description>Нoвый Leхus LX500d в peдкой комплектации Luxury+ (7S).
+Aвтомoбиль в пути в наш официальный дилерский центр Лексус, не упуститe вoзмoжнocть зaбpoнировать eгo пeрвыми! Выгодный обмен Вашего автомобиля на новый Lexus. Гарантия на автомобиль в нашем дилерском центре.
+
+Лексус рад предложить Вам индивидуальные условия на новые автомобили Lехus. Мы дорожим нашей высокой репутацией и занимаем ведущие позиции в Приволжском федеральном округе.
+
+
+✅ Возможно оформление в кредит
+✅ Автомобиль на гарантии
+✅ Выгодный обмен Вашего автомобиля на новый
+✅ Индивидуальные предложения для каждого клиента
+
+Также мы готовы подобрать для Вас автомобиль в любой комплектации отвечающей Вашим запросам и сформировать персональное предложение, а также оформить заказ.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/JTJPA7CX1R4003988/85e81dbe436f881cc0c4d7418d3faf11.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX1R4003988/6b0c4dfe0d38c2af58f5ee111c002399.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX1R4003988/61b604cd16c1656294123c4764592615.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX1R4003988/38cd8ac556e5def8b07b6dcc165a64e1.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX1R4003988/118df09bde048d3903affcf622b83e6c.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX1R4003988/317f39b22224df55eeaa0fc74f8304a0.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX1R4003988/d3523cd11305a4dada6bb89510563b0f.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX1R4003988/5f9215d90d31ee983beb11901d491c6e.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX1R4003988/cd2e53cabd2412d8df0b4416531d986b.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX1R4003988/9aaeae572f5dede58b98e51559c11e89.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX1R4003988/f00f1f5aaa76367ed3c109f4c97b32b1.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX1R4003988/881dd349eca5510b050325e148f78ace.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX1R4003988/d63d9eb228f8f5a631e15baafc45d4a1.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX1R4003988/670d3b2aaefc3825d5fdf34aea3abcb7.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX1R4003988/37b47b8f81ecfe618b88f02b768260e3.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX1R4003988/2936d6cce67cf9b00670781178ea85e1.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX1R4003988/017b11b3a04e4c5ecc48e60c8a18e89b.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX1R4003988/d82e0fb5c13907c7583407a7ca624a94.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX1R4003988/d0f696d15ed8954aa37f703f353cbb09.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX1R4003988/44ba296496be99490a5cb4688074d238.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX1R4003988/7c69aeb913edeed333cf4f7784da2c30.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX1R4003988/97a430150608d20bab46b60a9cacaccb.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX1R4003988/cb14f37d8a3cb51e1ffe933150d1eeb0.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX1R4003988/17ed0c0879fe2abd8c9fda012929052a.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX1R4003988/de245d68f1061d8e105a43f3966647fa.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX1R4003988/d05f397f80a89a68c636763007d70a3e.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX1R4003988/b67aa16d601931f87b5611e2c4d32ba2.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX1R4003988/3836c6ca0135e249e99fbc26c92a4693.jpg</image>
+			</images>
+		<url>https://toyotastav.ru/cars/lexus-lx-iv-500d-34d-at-299-лс-4wd-luxury-черный-2024/</url></car>
+		<car>
+			<mark_id>Lexus</mark_id>
+			<folder_id>NX, II</folder_id>
+			<modification_id>250 2.5 AT (199 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Luxury</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>10290000</price>
 			<credit_discount>150000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>150000</tradein_discount>
 			<max_discount>300000</max_discount>
 			<currency>RUR</currency>
-			<vin>JTJPBBCX304047124</vin>
-			<description>❗ЭКСКЛЮЗИВНОЕ ПРЕДЛОЖЕНИЕ ОТ TOYOTA и LEXUS СТАВРОПОЛЬ❗
+			<vin>JTJCDBEZ302003046</vin>
+			<description>Нoвый Leхus NX250 в peдкой максимальной комплектации LUXURY. Автомобиль в наличии в нашем дилерском центре. Не упуститe вoзмoжнocть зaбpoнировать eгo пeрвыми! Производство Япония. Гарантия на автомобиль в нашем дилерском центре. Выгодный обмен Вашего автомобиля на новый Lexus.
 
-❗Только до конца месяца действует особое кредитное предложение!❗
+Лексус рад предложить Вам индивидуальные условия на новые автомобили Lехus. Мы дорожим нашей высокой репутацией и занимаем ведущие позиции в Приволжском федеральном округе.
 
+✅ Возможно оформление в кредит
 ✅ Автомобиль на гарантии
-✅ Эксклюзивная кредитная программа со сниженной процентной ставкой
-✅Выгодный обмен Вашего автомобиля на новый
-✅Индивидуальные предложения для каждого клиента
+✅ Выгодный обмен Вашего автомобиля на новый
+✅ Индивидуальные предложения для каждого клиента
 
-Максимальная ВЫГОДА только до конца месяца!
-
-Автомобили Lexus от официального дилера ООО «Ставрополь-Авто» - это гарантия лучшей цены, качества и надежности! 
-Для Вашего удобства доступны он-лайн сервисы – оценка Вашего автомобиля, он-лайн одобрение кредита, покупка автомобиля он-лайн.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля. Есть предложения от другого Дилера? Приезжайте! И мы улучшим его.
-Готовы обсуждать условия покупки и договариваться о цене каждого автомобиля.  
-
-Не нашли нужную комплектацию? Мы закажем и привезем ее для Вас в максимально короткие сроки или подберем достойную альтернативу.
-
-Стоимость автомобиля указана с учетом текущих действующих акций и специальных предложений.</description>
+Также мы готовы подобрать для Вас автомобиль в любой комплектации отвечающей Вашим запросам и сформировать персональное предложение, а также оформить заказ.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/JTJPBBCX304047123/f30805a15101fcc5a569509e07ba3ffc.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJPBBCX304047123/a1b363eb8f8ab4083e7b766cde17558b.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJPBBCX304047123/16f7f8e8710abdee4da8864b348d2bd5.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJPBBCX304047123/0f73f1ce054c0e58823baf989ca07858.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJPBBCX304047123/8573554ab6302bbddfd69d7f842813e4.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJPBBCX304047123/5745153ca73ee021216ab25cc53e033a.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJPBBCX304047123/a1403be547689693467a539f09dbdc9f.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJPBBCX304047123/8fe1ba989e0edb5bced72d92f8b5338b.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCDBEZ302003044/463e7936ee3acf188e839fefcafacc76.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCDBEZ302003044/849153e8636119161f1d0844d131483c.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCDBEZ302003044/baed97fad882fd371720a993a0ba9284.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCDBEZ302003044/b073adde0394f57b659c43323ca004c0.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCDBEZ302003044/883a29413737554c1955d360a31bf482.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCDBEZ302003044/05a726778195864a82df6560e508a882.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCDBEZ302003044/79f5c7928c58f3b46a1bfbf07d3a076b.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCDBEZ302003044/1648828367248d980620ab6ab3abed29.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCDBEZ302003044/c2306c21fdd0268082fd55551cb98eff.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCDBEZ302003044/fc33dc7c6e2b2c933055ad096a478ab4.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCDBEZ302003044/84aec1b6d4156755b63a42c001a608e9.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCDBEZ302003044/7ce77d015cba564f38a2568bb24fa56c.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCDBEZ302003044/73bda9c2b866ca58d3c60c36f94e099f.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCDBEZ302003044/c295eeeecbff2357e4ea732f7fb8c053.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCDBEZ302003044/3cea42be8719d9e85fe708283ff0098d.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCDBEZ302003044/994cd85d942e988a779a9328cb81aee0.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCDBEZ302003044/c554be4cdece04914dd31e3cb790828d.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCDBEZ302003044/40b0caba42a091b5975828d1afac735f.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCDBEZ302003044/322bc0f0093626bab3c75961bbd213c2.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCDBEZ302003044/8c6d052720d454da88e51580ded42121.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCDBEZ302003044/61a9da3384b32b4f231ef24075dd77a5.jpg</image>
 			</images>
-		<url>https://toyotastav.ru/cars/lexus-lx-iv-600-35-at-415-лс-4wd-luxury-черный-2024/</url></car>
+		<url>https://toyotastav.ru/cars/lexus-nx-ii-250-25-at-199-лс-4wd-luxury-черный-2024/</url></car>
+		<car>
+			<mark_id>LEXUS</mark_id>
+			<folder_id>RX, V</folder_id>
+			<modification_id>350 2.4 AT (249 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Импорт</complectation_name>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>11190000</price>
+			<credit_discount>250000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<max_discount>500000</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJCHBJA502014215</vin>
+			<description>Неделя низких цен в Лексус! Нoвый Leхus RX350 в  комплектации Executive. Автомобиль в наличии   в нашем  официальном  дилерском центре. Не упуститe вoзмoжнocть зaбpoнировать eгo пeрвыми! Производство Япония. Гарантия на автомобиль в нашем дилерском центре.  Выгодный обмен Вашего автомобиля на новый Lexus.
+
+Новый RX построен на платформе GA-K и получил не только увеличенную колесную базу, но также дополнительные поперечины и распорки для повышения жесткости. Благодаря дополнительной прочности инженеры Lexus получили возможность более точно настроить подвеску, улучшив ездовые характеристики и повысив комфорт.
+
+Лексус рад предложить Вам индивидуальные условия на новые автомобили Lexus. Мы дорожим нашей высокой репутацией и занимаем ведущие позиции в Приволжском федеральном округе. 
+
+
+✅ Кредит 
+✅ Автомобиль на гарантии
+✅ Выгодный обмен Вашего автомобиля на новый
+✅ Индивидуальные предложения для каждого клиента
+
+Также мы готовы подобрать для Вас автомобиль в любой комплектации отвечающей Вашим запросам и сформировать персональное предложение, а также оформить заказ.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/adc7d8240335118bdba44eed0725ed1c.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/a367ccc924bfad493535fee93eedab4c.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/3468a87b7d569d986617a8cce13ac28b.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/f0da63eb01b4787129640547eddbea51.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/be313d82927745313270c639a9002667.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/1da2c650a9bf27055afa4ab33e5b307d.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/a3f5776e860de89c204c2f1bf06bde25.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/8262e6cbefe2a0232c49a465baf27f34.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/6df456c6321b22098c647d9ab224ed49.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/e7833769e82a4fa879b1ed9342f3e883.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/0a15e77353c73f99f692ce0078f2c102.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/c11e74131567512eb758ea25fefd8e47.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/2ef650cc9963aee24882bf8bbd9d201c.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/30ecb03b69714d071bf1ec43b45d4cf2.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/53e976110b6ed59b1d5adda990af2e64.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/b98c3fc8ea1733c3014bb843910a64bf.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/6458c8a206b59ec9b34d86e232a799a7.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/ba789a2a3dcbd30d910fd450fd819da5.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/678aa269a031a334a25bc28c69044020.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/655a6eab41f7e1218007cd55b0fb3570.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/a6e2c058ebe0a9771924367a38918a1f.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/fcb00ac9bf7fbb79c95a211643dbfb20.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/41595a5fe64fa9a70cb5dc7c63b581b3.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/82dba545a186cf182787fcc2011fa744.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/5bd516cbf01581c1cbc429dac266e824.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/eb999cce06f026b9039003517e0d47f5.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/e18979b82fbd665953dd8126c4627d6b.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/25c027db502bc2b7932fad06b6020c47.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/493509f619ac698544f56b49bf7681f7.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/d37882f83312b77717df79701bdf4923.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/5160a73b11efc598a35ee84b56f9b008.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/8ff30a3867db6bf3bb0e26c04d2dfe04.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA502014213/dd8344cef9a2ea714f56946c2e774a32.jpg</image>
+			</images>
+		<url>https://toyotastav.ru/cars/lexus-rx-v-350-24-at-249-лс-4wd-импорт-темно-серый-2024/</url></car>
+		<car>
+			<mark_id>Lexus</mark_id>
+			<folder_id>RX, V</folder_id>
+			<modification_id>350 2.4 AT (249 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Executive+</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>12190000</price>
+			<credit_discount>150000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>150000</tradein_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJCHBJA702014779</vin>
+			<description>Leхus RX350 2024 года в комплектации Executive+. Производство Япония. Дилерский.
+Гарантия на автомобиль в нашем дилерском центре. Выгодный обмен Вашего автомобиля на новый Lexus. Автомобиль в наличии  в нашем дилерском центре. Успейте забронировать его первыми!
+✅ навигация (русифицирован с завода)
+✅ Камера 360*
+✅ подогрев и вентиляция всех сидений
+✅ проекция на лобовое стекло
+✅ 249 л.с.
+
+Официальный дилер Лексус рад предложить Вам индивидуальные условия на новые автомобили Lехus. Мы дорожим нашей высокой репутацией и занимаем ведущие позиции в Приволжском федеральном округе.
+
+✅ Возможно оформление в кредит
+✅ Автомобиль на гарантии
+✅ Выгодный обмен Вашего автомобиля на новый
+✅ Индивидуальные предложения для каждого клиента
+✅ Выкуп! Прием автомобилей на комиссионную продажу!
+
+Также мы готовы подобрать для Вас автомобиль в любой комплектации отвечающей Вашим запросам и сформировать персональное предложение, а также оформить заказ.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/JTJCHBJA702014777/dd27bfb9b942f9a15e711ef3f3bba3bd.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA702014777/219415d4f1261481821254df0cb75d9a.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA702014777/7ee09f2553c2468e8998273e3d889571.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA702014777/af19a99d08aabcb25230d6b2a5386dc2.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA702014777/7f3e2d62d337ca1f3ea8faa202ed244c.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA702014777/57fcd14f87e67056f2cf1c70ea57b4b2.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA702014777/dd65c9d9fa7da9597bd859c3770bbb05.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA702014777/88977ff60b15f27d194c6594b875485a.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA702014777/836ed30072349776062946f6dcde07e9.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA702014777/27347a332bd6c4684c7de8f009c4a9df.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA702014777/fc2373d888f13c4969b8da0713c95da2.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA702014777/0a21cd67b66b2f8f83b2ffde03c7546d.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA702014777/1734ecff79954f113d4d870a353dbbaa.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA702014777/f27db02c87421b6f9fcaeebff3f339f5.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA702014777/c75e431c53958b01bcdd0ba821d43e42.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA702014777/84d4111d2becb9e8527c08e7a4f5bfc4.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA702014777/48b900fb7733a76e25746a796935f179.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA702014777/3ab076871ada3729098170549223e07d.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA702014777/c10dfb428428e0c2f7d38ecc985a5391.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA702014777/29630694d393b7d1daa4937a89d4e96b.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA702014777/6f5f73216f33c55396ab1be69426e90b.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA702014777/30051c72a924a577098ce6c2912de77b.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA702014777/8399e4f00f76e5fa4eb86dc319dee030.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA702014777/7701265def0e6f803462b15ecb8c3f23.jpg</image>
+			</images>
+		<url>https://toyotastav.ru/cars/lexus-rx-v-350-24-at-249-лс-4wd-executive-plus-белый-2024/</url></car>
+		<car>
+			<mark_id>Lexus</mark_id>
+			<folder_id>RX, V</folder_id>
+			<modification_id>350 2.4 AT (249 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Executive+</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>12190000</price>
+			<credit_discount>150000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>150000</tradein_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJCHBJA002014042</vin>
+			<description>Leхus RX350 2024 года в комплектации Executive+. Производство Япония. Дилерский.
+Гарантия на автомобиль в нашем дилерском центре. Выгодный обмен Вашего автомобиля на новый Lexus. Автомобиль в наличии  в нашем дилерском центре. Успейте забронировать его первыми!
+✅ навигация (русифицирован с завода)
+✅ Камера 360*
+✅ подогрев и вентиляция всех сидений
+✅ проекция на лобовое стекло
+✅ 249 л.с.
+
+Официальный дилер Лексус рад предложить Вам индивидуальные условия на новые автомобили Lехus. Мы дорожим нашей высокой репутацией и занимаем ведущие позиции в Приволжском федеральном округе.
+
+✅ Возможно оформление в кредит
+✅ Автомобиль на гарантии
+✅ Выгодный обмен Вашего автомобиля на новый
+✅ Индивидуальные предложения для каждого клиента
+✅ Выкуп! Прием автомобилей на комиссионную продажу!
+
+Также мы готовы подобрать для Вас автомобиль в любой комплектации отвечающей Вашим запросам и сформировать персональное предложение, а также оформить заказ.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/ade2d54cd2d14a0f3a272e01bb335383.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/3b0055e7d9f10ab07b45a9bfb0d80a58.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/6b7521b5400baf229c5c9c653bc6daaa.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/6d00197e80220317d79142d7d8e550c7.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/f6e6bdfbf25266359165fd94ee03e192.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/6b4eb1d5888df0fc31a9cd6ca385b5c6.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/06fd03640f1b15bc04eafc4c1701f383.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/ad5ddb58154adf3c68a9e0694bf88930.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/d1de52540c4a7c233029c918a86be65b.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/34af94dff66641565618426f1b26ff51.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/a327345a431e6e486cd7b8b1419021b9.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/ca73ed859cce4713a283bd966e38d867.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/965531d8663276833563d6475eb294ef.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/b110363494e7bdb240c3b23f3460403f.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/46cf49cfa6c26eb0e0d0e873d3b040bb.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/3bcd4c68b8298da6df0c21ea0ecad1d4.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/1258f2ba0ff0fad4c5b6169192175747.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/5413a4a239cf781e0b4a3a9f102b706e.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/d3207385fd60418479d48ea8f18555c1.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/18ad72f6677faf5c3bde7a66035ce95d.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/3d8621e448c4d1373a8c69a7178c2015.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/364e30be69d32cc122c64c548f786e19.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/3124ee92b4d1c007f37f61a73375a601.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/864d90def9515e4e6712cf974f4907a4.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/8967e19d2fbc41b8db8a17f4a967959e.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/2dea9bd9ea1f5fc8e36ff62a7fd60539.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/f0f67bccddeb27a8d9f60ce38ff48cf7.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/9a9d14352dc32cb731e59bc47e166853.jpg</image>
+			</images>
+		<url>https://toyotastav.ru/cars/lexus-rx-v-350-24-at-249-лс-4wd-executive-plus-черный-2024/</url></car>
+		<car>
+			<mark_id>Lexus</mark_id>
+			<folder_id>RX, V</folder_id>
+			<modification_id>350 2.4 AT (249 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Luxury</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>13290000</price>
+			<credit_discount>150000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>150000</tradein_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJCHBJA402015386</vin>
+			<description>Нoвый Leхus RX350  в максимальной комплектации Luxury!
+Aвтомoбиль в наличии в нашем дилерском центре Лексус, не упуститe вoзмoжнocть зaбpoнировать eгo пeрвыми!
+
+Лексус рад предложить Вам индивидуальные условия на новые автомобили Lехus. Мы дорожим нашей высокой репутацией и занимаем ведущие позиции в Приволжском федеральном округе.
+
+
+✅ Возможно оформление в кредит
+✅ Автомобиль на гарантии
+✅ Выгодный обмен Вашего автомобиля на новый
+✅ Индивидуальные предложения для каждого клиента
+
+Также мы готовы подобрать для Вас автомобиль в любой комплектации отвечающей Вашим запросам и сформировать персональное предложение, а также оформить заказ.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/32e5df687d83c4cba5e03b4cb9463f08.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/6eed6fae91ef7d1be9c1827b63901b64.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/f474eadee84fa68dd76c5ece7b0d5910.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/d4381bdfda43c4b062322fd0428b9764.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/2ef5f260c94199e03073c1216ef88873.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/b225ca427fc4458f475181a04b02621c.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/fe15b53ca838810f0d0a7764c847e7d7.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/d9094656fa138c548da6fcdf4b7aca33.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/d1e95c63b0d22bb8214fb8272fac9b8a.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/5de78c2f9866eda0ec566ae8982146f9.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/b432d7df9cba9075a9f196dca971876f.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/36728374827f387f03bd49e8c1edcfa4.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/e287867c2f14b5dc16c245221b43e0fd.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/5d285504a61aa70ec6dd3c15a8478dbb.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/7eb25477c7a67b1ab4397d3311251d82.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/c897ee3f0ed2bb8a57a96fff1f489048.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/fb35e4737018c8751d76145ba1fc659d.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/ed210eabb6e091b61f27d7d1a4b20767.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/04fff91b9932308a80d4038a6ab0d0b7.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/f3758f1a620f4d3c9e505b966af21f22.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/cecb553cf2b1bf775045b30359e01d52.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/25088cf2f9d8697920c8316562473cb8.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/a46877180fe476e712f2eba45eef19bc.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/95bc9d6743d4bc8886bffb0fe897339e.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/b2e4e65bc1b09a1df6f10534e6a391a6.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/56ead89622251f639361f34f9f50c862.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/98ffa05ae748d2198a6bbb3e67b27a47.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/33b28cdb5e9817c77f91ec9f08502a81.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/75c5ba80f85765822cee39ff42417c60.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/1357860cfc7917afedda3b4cd9f3803f.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/2112bd3ec6a9d0ba95773586e3e665a7.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/35580f806da25f6c2e6ab134c3cc9233.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/7929dd118ec0b5ae40d3daca478cf74f.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/9fbaecb15e1ccce0c13875cc095559a8.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/375f05eeae545a7e690b5ec1cb2eaca7.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/a58e9ba77857e1442e30b6e832948c3d.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/cf7fdfc653e92e7bab1e6685f3d9fe98.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA402015384/d277327516cd70cfd9084a4eea689254.jpg</image>
+			</images>
+		<url>https://toyotastav.ru/cars/lexus-rx-v-350-24-at-249-лс-4wd-luxury-белый-2024/</url></car>
+		<car>
+			<mark_id>Lexus</mark_id>
+			<folder_id>RX, V</folder_id>
+			<modification_id>350 2.4 AT (249 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Luxury</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>13290000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJCHBJA202015611</vin>
+			<description>Нoвый Leхus RX350  в максимальной комплектации Luxury!
+Aвтомoбиль в наличии в нашем дилерском центре Лексус, не упуститe вoзмoжнocть зaбpoнировать eгo пeрвыми!
+
+Лексус рад предложить Вам индивидуальные условия на новые автомобили Lехus. Мы дорожим нашей высокой репутацией и занимаем ведущие позиции в Приволжском федеральном округе.
+
+
+✅ Возможно оформление в кредит
+✅ Автомобиль на гарантии
+✅ Выгодный обмен Вашего автомобиля на новый
+✅ Индивидуальные предложения для каждого клиента
+
+Также мы готовы подобрать для Вас автомобиль в любой комплектации отвечающей Вашим запросам и сформировать персональное предложение, а также оформить заказ.</description>
+			<images/>
+		<url>https://toyotastav.ru/cars/lexus-rx-v-350-24-at-249-лс-4wd-luxury-черный-2024/</url></car>
+		<car>
+			<mark_id>Lexus</mark_id>
+			<folder_id>RX, V</folder_id>
+			<modification_id>350 2.4 AT (249 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Luxury</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>13290000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJCHBJA802016651</vin>
+			<description>Нoвый Leхus RX350  в максимальной комплектации Luxury!
+Aвтомoбиль в наличии в нашем дилерском центре Лексус, не упуститe вoзмoжнocть зaбpoнировать eгo пeрвыми!
+
+Лексус рад предложить Вам индивидуальные условия на новые автомобили Lехus. Мы дорожим нашей высокой репутацией и занимаем ведущие позиции в Приволжском федеральном округе.
+
+
+✅ Возможно оформление в кредит
+✅ Автомобиль на гарантии
+✅ Выгодный обмен Вашего автомобиля на новый
+✅ Индивидуальные предложения для каждого клиента
+
+Также мы готовы подобрать для Вас автомобиль в любой комплектации отвечающей Вашим запросам и сформировать персональное предложение, а также оформить заказ.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/JTJCHBJA802016649/5a55b56a4974a8b86e4a40dfcb4e5e18.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA802016649/6524e4e6b6389bf2d61a54443cc848cc.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA802016649/643c4d9f7cd3aae3b1d10b3598245f8a.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA802016649/0e32d3269b1ad31bb2afc8ed2412a90e.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA802016649/3ad523c1349e677b943860d941da3094.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA802016649/a9bce9cc5212220044ad9707fcd72ca3.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA802016649/f149a373e5622a527e3328f007334541.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA802016649/19be7c6e67d669847d7d1ee260b454b6.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA802016649/4c4be59b1fbe027d38ca7907a9dd79a1.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA802016649/2c87cce1e0fde851ba5d82a4df7faaf7.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA802016649/72ab5cac14fe98c6dd202dcfdd0d8ce6.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA802016649/dc027f1d4bd69f1c83a4e4c1f871b97f.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA802016649/1dcfb4628415eac20d3cd507c6f2638c.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA802016649/fed8eaacf006632b8bd2d0d5b4ab0b5d.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA802016649/a52f802ac9255515460cae2d1801e25e.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA802016649/287939a32ca930db4684d60cb50c6578.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA802016649/24f8186daf8e93764a94ed938102c6ea.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA802016649/193b441072b208918585dcb50fd67c57.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA802016649/bd061aac46d2bbe61c1ea584c17bde61.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA802016649/67fa63f738de644b7254bb21ad07054f.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA802016649/d0338616c477f4b58df09f912173380d.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA802016649/3df3f04edae324ae6dca1f5134c49999.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA802016649/5652450dce1ba54ef8681717e572b8c3.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA802016649/ccde013b9d6238fd663668a91068aacb.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA802016649/b793d716fb6e9c139c35f7b6f257fefc.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA802016649/763fc4b5044eb4972aa49b8c960c241b.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA802016649/0397266e1f37fcb988f29126352fb7cb.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA802016649/4ef9bd1188a5bef5800a4107123db187.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA802016649/2e601637f884242a6be413068db75333.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA802016649/412778364722e031eb93f8910280a309.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA802016649/2ec0409bbbcfd2cf5c3abdd02a2b6f54.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA802016649/2259c94c754fd5e89001ad4455fb0b77.jpg</image>
+			</images>
+		<url>https://toyotastav.ru/cars/lexus-rx-v-350-24-at-249-лс-4wd-luxury-черный-2024/</url></car>
+		<car>
+			<mark_id>Lexus</mark_id>
+			<folder_id>RX, V</folder_id>
+			<modification_id>500h 2.4hyb AT (371 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>F Sport Performance+</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>14400000</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<max_discount>400000</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJCMBHA502007651</vin>
+			<description>Нoвый Leхus RX500h в peдкой комплектации F SPORT PERFORMANCE +.
+Aвтомoбиль в наличии в нашем дилерском центре Лексус, не упуститe вoзмoжнocть зaбpoнировать eгo пeрвыми! Выгодный обмен Вашего автомобиля на новый Lexus. Гарантия на автомобиль в нашем дилерском центре.
+
+✅ Панорамная крыша
+
+Лексус рад предложить Вам индивидуальные условия на новые автомобили Lехus. Мы дорожим нашей высокой репутацией и занимаем ведущие позиции в Приволжском федеральном округе.
+
+
+✅ Возможно оформление в кредит
+✅ Автомобиль на гарантии
+✅ Выгодный обмен Вашего автомобиля на новый
+✅ Индивидуальные предложения для каждого клиента
+
+Также мы готовы подобрать для Вас автомобиль в любой комплектации отвечающей Вашим запросам и сформировать персональное предложение, а также оформить заказ.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/JTJCMBHA502007649/1c3f3d56608d5399cd83ff4367b01d81.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA502007649/8248575426022dc802142f9dee6facab.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA502007649/f87b7c841c5ddc5eed2521be1d3a108e.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA502007649/f5a9a225fe76d3d72fbac9dae5caaf3d.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA502007649/c4a83c8ed715383d3bea50b3d626dd0d.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA502007649/7bd845f5dee274d7af45eb5dd8c776f4.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA502007649/4c692a4c6f09e62798d4645a99771177.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA502007649/856e3203bdbf42e2c3d5709cd3813a72.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA502007649/3a0f05a8b093cd794d85b57dd63ec520.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA502007649/9a697ba47533b443aa16c8ee4200fbe4.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA502007649/c6ce19d89f459d521a03c1e07873ff3b.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA502007649/bb170d0d695b1ad836a18a610ff7ee8b.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA502007649/bbfd522f426cf0768c91dd2ffa82a0e7.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA502007649/8f5a6c4fab111dbe2da8671dcbcb3f9a.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA502007649/f80d4ac6d4fed849ff5fff22d888ef6d.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA502007649/b023e522367c4455a50efe1a3e38060e.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA502007649/4aaa7cbe7f8bac4613e35f3667b37ad8.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA502007649/172392a9e9d61cf9e3e44803bf626384.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA502007649/590913d0d6b53edd66d86eda12f9ae37.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA502007649/324a9812bbb8b1241a50b7ad292c8552.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA502007649/f48bc44e110937737b48f802eb1ab0d2.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA502007649/190dfdef7c429a585b7b0246217a340c.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA502007649/1742c8b66301c6197763fbd750fac5f8.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA502007649/d433f7ece4dfd51d837bd8ec1fa719d7.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA502007649/74c093953b0846a9224e3fb34fdaed1e.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA502007649/8fc8318bad90e776b58ce72d73588543.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA502007649/f40295a4b52bab53d519148ba311cb15.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA502007649/68110189cf6825d1fe7e0154dcfd700c.jpg</image>
+			</images>
+		<url>https://toyotastav.ru/cars/lexus-rx-v-500h-24hyb-at-371-лс-4wd-f-sport-performance-plus-белый-2024/</url></car>
+		<car>
+			<mark_id>Lexus</mark_id>
+			<folder_id>RX, V</folder_id>
+			<modification_id>500h 2.4hyb AT (371 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>F Sport Performance+</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>14400000</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<max_discount>400000</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJCMBHA902014621</vin>
+			<description>Нoвый Leхus RX500h в peдкой комплектации F SPORT PERFORMANCE +.
+Aвтомoбиль в наличии в нашем дилерском центре Лексус, не упуститe вoзмoжнocть зaбpoнировать eгo пeрвыми! Выгодный обмен Вашего автомобиля на новый Lexus. Гарантия на автомобиль в нашем дилерском центре.
+
+✅ Панорамная крыша
+
+Лексус рад предложить Вам индивидуальные условия на новые автомобили Lехus. Мы дорожим нашей высокой репутацией и занимаем ведущие позиции в Приволжском федеральном округе.
+
+
+✅ Возможно оформление в кредит
+✅ Автомобиль на гарантии
+✅ Выгодный обмен Вашего автомобиля на новый
+✅ Индивидуальные предложения для каждого клиента
+
+Также мы готовы подобрать для Вас автомобиль в любой комплектации отвечающей Вашим запросам и сформировать персональное предложение, а также оформить заказ.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/JTJCMBHA902014619/930e45ee87ae076c19b40f773bc1ba0b.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA902014619/8634509ac492bc74d4e91622587e2ce4.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA902014619/0727995dd9462a53b5a63e053e7dae07.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA902014619/5c5a7c346c7eaa03c5d1ce9b3846180b.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA902014619/81e28bef68815332bee06455c943ddce.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA902014619/846755259e04466c80418bd0634d50f3.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA902014619/fde1270c18ee1078b5b33c76c28786c8.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA902014619/b90f1667ba441d50df6460efc520a0c0.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA902014619/25cdd537ffbf0d62126559dfffc48a61.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA902014619/4008fd0623dfa90aaba767cbadc7f378.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA902014619/061e170e86d7c252223ec312cc025097.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA902014619/dff5ca7c0347ccccf383a5142aa14ba0.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA902014619/7f624e4f8f1e46c5ca087addf7186286.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA902014619/bbdcdee226bfb0d0d6d88d83ae9c2ff6.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA902014619/1ae852545a0a7be1ccb579da3016f3ab.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA902014619/55bccc15fbc9ffb91d23ded5fa1d5812.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA902014619/c1c02c07abe1da951136d7cedfff1769.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA902014619/9c621694182bb3701dbe595ce16f01f1.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA902014619/e0f38fe1b68271595dfd5e808a2ccf41.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA902014619/06815c17ba080b635fa7a1acee9d4a4b.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA902014619/df53bb947c3628325808a57308b8309c.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA902014619/a842526ff8fe4a581e750d6fbfec4a15.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA902014619/19811bca12eae973d81d9666c6289f2f.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA902014619/70dcb9375e5d23bcf70150db131aba86.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA902014619/1951c6f996685000e3e60ebe0579974f.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA902014619/8ab52cf234a253f93e7dd5951d140e69.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA902014619/c5c8fa97fbade3edecb06d6a32df8ff5.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA902014619/66d4ad28d350fcc8e10d59f471e2a3d6.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA902014619/c91af1d745b24f612aee0520fde54e12.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA902014619/834933fc972c3fb288a51d88146c76b8.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA902014619/15c6436b0779386abfab9afc8559c720.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA902014619/e6c57856c3c3232c84cb70d867b1733d.jpg</image>
+			</images>
+		<url>https://toyotastav.ru/cars/lexus-rx-v-500h-24hyb-at-371-лс-4wd-f-sport-performance-plus-черный-2024/</url></car>
+	<car>
+			<mark_id>TOYOTA</mark_id>
+			<folder_id>Camry, VIII (XV70) Рестайлинг</folder_id>
+			<modification_id>2.5 AT (209 л.с.)</modification_id>
+			<body_type>Седан</body_type>
+			<complectation_name>Deluxe</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2023</year>
+			<price>4880000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LVGBC74K9PG634411</vin>
+			<description>Находитесь в поисках надежного и элегантного автомобиля? Ваши мечты становятся реальностью!
+
+Toyota Camry - идеальный выбор для тех, кто ценит качество, безопасность и непревзойденный комфорт в каждой поездке.
+
+✅ С первого взгляда Toyota Camry привлекает внимание своей динамичной и стильной формой, тщательно проработанной наружной отделкой и характерными чертами, которые делают его мгновенно узнаваемым на дороге.
+
+✅ Просторный салон предлагает Вам комфорт и роскошь, которые становятся незаменимыми в долгих поездках. 
+
+✅ Удобные сиденья обеспечивают отличную поддержку, а продуманные детали управления делают вождение интуитивно понятным.
+
+✅ Под капотом этого автомобиля расположен экономичный и мощный двигатель, который сочетает в себе отличную производительность и высокий уровень топливной эффективности. 
+
+✅ Автоматическая трансмиссия позволяет Вам наслаждаться плавностью хода и мгновенной реакцией на нажатие педали.
+
+
+Не упустите шанс стать владельцем этого потрясающего автомобиля! 
+Toyota Camry — это не просто средство передвижения, а стильное заявление о Вас и Вашем статусе.
+
+☎ Звоните прямо сейчас для получения дополнительной информации! 
+Этот автомобиль точно станет Вашим верным другом на дороге!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/dbe6bc9e26317d90cc2762d5ab380efa.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/4b4e481c9bff5a4f2fe78f69ce27627f.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/79da722cd8b7370cebc92face9696e66.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/9031878700e2d2ad9538260b2fa86360.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/d0b9e8b59cff04d00d71eb219f2beb85.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/99e130c8cf03f7c8905587a3f47bfb0e.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/6501dfdf27719579b48c966a67e2a4f3.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/bbddc1229201290c5823ea7b9aea0a80.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/01b5de4c69d8ae86da5d6f0e45552073.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/5cf12b483b923112b0b04b47feb5b810.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/07d89020e6fcca76992a7730c2169c99.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/1826ce6c083563e86596587cebcf2a61.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/e41d7be98a35b08a88485c1861a5b138.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/19938cf2cdec2f1acdd4878181ebeadf.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/96f24413318d4de67ae1fe6b9faa4809.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/913cb2dd0411ebc43e7b453040fbe8cb.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/de482b90bedfcb5577e24c86816fdf61.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/216b31c584a0ce1b6116179e3a9b77fc.jpg</image>
+			</images>
+		<url>https://toyotastav.ru/cars/toyota-camry-viii-xv70-рестайлинг-25-at-209-лс-deluxe-черный-2023/</url></car>
+		<car>
+			<mark_id>TOYOTA</mark_id>
+			<folder_id>RAV4, V (XA50)</folder_id>
+			<modification_id>2.0 CVT (171 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Fashion Plus</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2023</year>
+			<price>4500000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LFMJN5BF6P3094639</vin>
+			<description>Хотите ощутить свободу движения и комфорт современных технологий? 
+Тогда данное предложение именно для Вас! 
+
+Toyota RAV4 — кроссовер, который сочетает в себе надежность, мощь и стиль.
+
+Основные характеристики и преимущества:
+
+✅  Современный и динамичный дизайн. 
+Эффектный внешний вид с агрессивной решеткой радиатора и выразительными светодиодными фарами не оставит никого равнодушным. RAV4 идеально вписывается как в городской, так и в загородный пейзаж.
+
+✅ Экономичность и мощность.
+2-х литровый двигатель в сочетании с вариатором обеспечивает отличную динамику и впечатляющую топливную эффективность, что делает каждую поездку приятной и экономной.
+
+✅  Просторный и комфортный интерьер.
+Комфортные сиденья с высококачественной отделкой, просторный багажник и современные мультимедийные системы делают каждую поездку удовольствием для Вас и Ваших пассажиров.
+
+✅  Передовые технологии безопасности для Вашего спокойствия на дороге.
+
+Не упустите свой шанс!
+
+☎ Звоните прямо сейчас, чтобы узнать все детали! 
+
+Откройте для себя мир новых возможностей и приключений с RAV4 — Ваш идеальный спутник уже ждет Вас!</description>
+			<images/>
+		<url>https://toyotastav.ru/cars/toyota-rav4-v-xa50-20-cvt-171-лс-4wd-fashion-plus-белый-2023/</url></car>
+		<car>
+			<mark_id>TOYOTA</mark_id>
+			<folder_id>RAV4, V (XA50)</folder_id>
+			<modification_id>2.0 CVT (171 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Fashion Plus</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2023</year>
+			<price>4400000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LFMJN5BF2P3094489</vin>
+			<description>Хотите ощутить свободу движения и комфорт современных технологий? 
+Тогда данное предложение именно для Вас! 
+
+Toyota RAV4 — кроссовер, который сочетает в себе надежность, мощь и стиль.
+
+Основные характеристики и преимущества:
+
+✅  Современный и динамичный дизайн. 
+Эффектный внешний вид с агрессивной решеткой радиатора и выразительными светодиодными фарами не оставит никого равнодушным. RAV4 идеально вписывается как в городской, так и в загородный пейзаж.
+
+✅ Экономичность и мощность.
+2-х литровый двигатель в сочетании с вариатором обеспечивает отличную динамику и впечатляющую топливную эффективность, что делает каждую поездку приятной и экономной.
+
+✅  Просторный и комфортный интерьер.
+Комфортные сиденья с высококачественной отделкой, просторный багажник и современные мультимедийные системы делают каждую поездку удовольствием для Вас и Ваших пассажиров.
+
+✅  Передовые технологии безопасности для Вашего спокойствия на дороге.
+
+Не упустите свой шанс!
+
+☎ Звоните прямо сейчас, чтобы узнать все детали! 
+
+Откройте для себя мир новых возможностей и приключений с RAV4 — Ваш идеальный спутник уже ждет Вас!</description>
+			<images/>
+		<url>https://toyotastav.ru/cars/toyota-rav4-v-xa50-20-cvt-171-лс-4wd-fashion-plus-белый-2023/</url></car>
+	<car>
+			<mark_id>Lexus</mark_id>
+			<folder_id>RX, V</folder_id>
+			<modification_id>350 2.4 AT (279 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Executive</complectation_name>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>11900000</price>
+			<credit_discount>250000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<max_discount>500000</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJCHBJA102016527</vin>
+			<description>Новый автомобиль</description>
+			<images/>
+		<url>https://toyotastav.ru/cars/lexus-rx-v-350-24-at-279-лс-4wd-executive-1l121-серый-хром-металл-2024/</url></car>
+		<car>
+			<mark_id>Lexus</mark_id>
+			<folder_id>NX, II</folder_id>
+			<modification_id>350 2.4 AT (279 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>F Sport</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>12500000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJCHBJAX02014176</vin>
+			<description>Новый автомобиль</description>
+			<images/>
+		<url>https://toyotastav.ru/cars/lexus-nx-ii-350-24-at-279-лс-4wd-f-sport-белый-2024/</url></car>
+		<car>
+			<mark_id>Lexus</mark_id>
+			<folder_id>LX, IV</folder_id>
+			<modification_id>600 3.5 AT (415 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>F SPORT HANDLING</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>25000000</price>
+			<credit_discount>250000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<max_discount>500000</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJPBBCX204050870</vin>
+			<description>Абсолютно Новый Lexus LX 600 у нас в наличии!
+
+
+
+Автомобиль оснащен бензиновым 3,5 л. двигателем (415 л.с).
+
+Lexus LX 600 имеет 10-ти ступенчатую коробку передач, постоянный полный привод и легкосплавные колесные диски 22 радиуса.
+
+В комплектацию “F Sport” входит:
+
+4- х зонный климат- контроль для первого и второго ряда сидений;
+камера панорамного обзора с омывателем;
+передние и задние датчики парковки с функцией автоматического торможения;
+система помощи при движении вперед с функцией визуального и звукового оповещения о приближающемся спереди препятствии, а также множество других функций.
+
+
+Подробнее о всех функциях автомобиля Вы можете уточнить в отделе продаж.
+
+Ждём Вас ежедневно пн. - сб. с 9 до 19 часов, вс. с 9 до 16 часов. г. Ставрополь, пр-кт Кулакова,  №32</description>
+			<images>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/a653fcfe39f1d468ac3c87fdd58d52fa.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/2725ab4cb479341dd5111da7fa89527c.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/b04f5a105f875edbd34a8712df7bfb4d.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/3b1127f9194474c6cc83c84a29d6c531.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/aaf7423bb45629b4bdc5a5f9d16bdd56.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/dfe00b7d97d1fb3799ad18edbc391800.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/c0b19a837bc5047d37ad9c7d1834d647.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/6a6be09e7616b5b77fb20cddee4fddb7.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/ba1c782ecdaeff877f1668aea3d37a4f.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/74ee2389a743af4a23987314f78f3dbf.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/96dedfa73aed5d98180fd5af1ce6c701.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/9cf82233414c2ca2b054f948ffd9c07c.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/5863cc1bbc487b3816dac38d6d88bded.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/6a840bdc7b98d043a3d5731bde6d38f5.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/ed0d4c68fb3a140de2cccc52c28c790b.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/d5f16e39fed2bd1bfaf09004bf7b66aa.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/7737cf857499e83f2e226b3150fe2ac2.jpg</image>
+			</images>
+		<url>https://toyotastav.ru/cars/lexus-lx-iv-600-35-at-415-лс-4wd-f-sport-handling-черныйчерный-2024/</url></car>
 	</cars>
 </data>
