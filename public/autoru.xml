@@ -584,8 +584,8 @@ Lехus является надежным, экономичным, вмести�
 			<price>4500000</price>
 			<credit_discount>101000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>101000</max_discount>
+			<tradein_discount>49000</tradein_discount>
+			<max_discount>150000</max_discount>
 			<currency>RUR</currency>
 			<vin>LFMJN5BF2P3094570</vin>
 			<phone>83532793702</phone>
@@ -1459,29 +1459,6 @@ Lexus RX 350 имеет 21- дюймовые легкосплавные диск
 			<body_type>Внедорожник 5 дв.</body_type>
 			<complectation_name>F Sport</complectation_name>
 			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>12500000</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>JTJCHBJAX02014176</vin>
-			<description>Новый автомобиль</description>
-			<images/>
-		<url>https://toyotastav.ru/cars/lexus-nx-ii-350-24-at-279-лс-4wd-f-sport-белый-2024/</url></car>
-		<car>
-			<mark_id>Lexus</mark_id>
-			<folder_id>NX, II</folder_id>
-			<modification_id>350 2.4 AT (279 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>F Sport</complectation_name>
-			<wheel>левый</wheel>
 			<color>Серый</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
@@ -1519,6 +1496,29 @@ Lexus RX 350 имеет 21- дюймовые легкосплавные диск
 				<image>https://photo.toyotasever.ru/JTJCHBJA902015123/0a82d89c085d71a9e02be145378c297d.jpg</image>
 			</images>
 		<url>https://toyotastav.ru/cars/lexus-nx-ii-350-24-at-279-лс-4wd-f-sport-1l121-серый-хром-металл-2024/</url></car>
+		<car>
+			<mark_id>Lexus</mark_id>
+			<folder_id>NX, II</folder_id>
+			<modification_id>350 2.4 AT (279 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>F Sport</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>12500000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJCHBJAX02014176</vin>
+			<description>Новый автомобиль</description>
+			<images/>
+		<url>https://toyotastav.ru/cars/lexus-nx-ii-350-24-at-279-лс-4wd-f-sport-белый-2024/</url></car>
 		<car>
 			<mark_id>Lexus</mark_id>
 			<folder_id>LX, IV</folder_id>
