@@ -1132,67 +1132,6 @@ Aвтомoбиль в наличии в нашем дилерском центр
 		<url>https://toyotastav.ru/cars/lexus-rx-v-500h-24hyb-at-371-лс-4wd-f-sport-performance-plus-черный-2024/</url></car>
 	<car>
 			<mark_id>TOYOTA</mark_id>
-			<folder_id>Camry, VIII (XV70) Рестайлинг</folder_id>
-			<modification_id>2.5 AT (209 л.с.)</modification_id>
-			<body_type>Седан</body_type>
-			<complectation_name>Deluxe</complectation_name>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2023</year>
-			<price>4880000</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>LVGBC74K9PG634411</vin>
-			<description>Находитесь в поисках надежного и элегантного автомобиля? Ваши мечты становятся реальностью!
-
-Toyota Camry - идеальный выбор для тех, кто ценит качество, безопасность и непревзойденный комфорт в каждой поездке.
-
-✅ С первого взгляда Toyota Camry привлекает внимание своей динамичной и стильной формой, тщательно проработанной наружной отделкой и характерными чертами, которые делают его мгновенно узнаваемым на дороге.
-
-✅ Просторный салон предлагает Вам комфорт и роскошь, которые становятся незаменимыми в долгих поездках. 
-
-✅ Удобные сиденья обеспечивают отличную поддержку, а продуманные детали управления делают вождение интуитивно понятным.
-
-✅ Под капотом этого автомобиля расположен экономичный и мощный двигатель, который сочетает в себе отличную производительность и высокий уровень топливной эффективности. 
-
-✅ Автоматическая трансмиссия позволяет Вам наслаждаться плавностью хода и мгновенной реакцией на нажатие педали.
-
-
-Не упустите шанс стать владельцем этого потрясающего автомобиля! 
-Toyota Camry — это не просто средство передвижения, а стильное заявление о Вас и Вашем статусе.
-
-☎ Звоните прямо сейчас для получения дополнительной информации! 
-Этот автомобиль точно станет Вашим верным другом на дороге!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/dbe6bc9e26317d90cc2762d5ab380efa.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/4b4e481c9bff5a4f2fe78f69ce27627f.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/79da722cd8b7370cebc92face9696e66.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/9031878700e2d2ad9538260b2fa86360.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/d0b9e8b59cff04d00d71eb219f2beb85.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/99e130c8cf03f7c8905587a3f47bfb0e.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/6501dfdf27719579b48c966a67e2a4f3.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/bbddc1229201290c5823ea7b9aea0a80.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/01b5de4c69d8ae86da5d6f0e45552073.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/5cf12b483b923112b0b04b47feb5b810.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/07d89020e6fcca76992a7730c2169c99.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/1826ce6c083563e86596587cebcf2a61.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/e41d7be98a35b08a88485c1861a5b138.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/19938cf2cdec2f1acdd4878181ebeadf.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/96f24413318d4de67ae1fe6b9faa4809.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/913cb2dd0411ebc43e7b453040fbe8cb.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/de482b90bedfcb5577e24c86816fdf61.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGBC74K9PG634409/216b31c584a0ce1b6116179e3a9b77fc.jpg</image>
-			</images>
-		<url>https://toyotastav.ru/cars/toyota-camry-viii-xv70-рестайлинг-25-at-209-лс-deluxe-черный-2023/</url></car>
-		<car>
-			<mark_id>TOYOTA</mark_id>
 			<folder_id>RAV4, V (XA50)</folder_id>
 			<modification_id>2.0 CVT (171 л.с.) 4WD</modification_id>
 			<body_type>Внедорожник 5 дв.</body_type>
