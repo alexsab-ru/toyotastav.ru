@@ -987,10 +987,10 @@ Aвтомoбиль в наличии в нашем дилерском центр
 			<owners_number>Не было владельцев</owners_number>
 			<year>2023</year>
 			<price>4399000</price>
-			<credit_discount>100000</credit_discount>
+			<credit_discount>150000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<max_discount>200000</max_discount>
+			<tradein_discount>150000</tradein_discount>
+			<max_discount>300000</max_discount>
 			<currency>RUR</currency>
 			<vin>LFMJN5BF4P3094526</vin>
 			<description>Хотите ощутить свободу движения и комфорт современных технологий? 
@@ -1053,10 +1053,10 @@ Toyota RAV4 — кроссовер, который сочетает в себе 
 			<owners_number>Не было владельцев</owners_number>
 			<year>2023</year>
 			<price>4350000</price>
-			<credit_discount>100000</credit_discount>
+			<credit_discount>150000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<max_discount>200000</max_discount>
+			<tradein_discount>150000</tradein_discount>
+			<max_discount>300000</max_discount>
 			<currency>RUR</currency>
 			<vin>LFMJN5BF4P3094607</vin>
 			<description>Хотите ощутить свободу движения и комфорт современных технологий? 
@@ -1082,7 +1082,27 @@ Toyota RAV4 — кроссовер, который сочетает в себе 
 ☎ Звоните прямо сейчас, чтобы узнать все детали! 
 
 Откройте для себя мир новых возможностей и приключений с RAV4 — Ваш идеальный спутник уже ждет Вас!</description>
-			<images/>
+			<images>
+				<image>https://photo.toyotasever.ru/LFMJN5BF4P3094605/927a3fd4a5408d5bf200eff36b27214e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF4P3094605/2b31d83ddafb4373cf9446a0e9537c8d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF4P3094605/f0985fa5e16233c3b2f9682a32647ba3.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF4P3094605/7f0e725aac312252611b537a4b99ab0e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF4P3094605/ebb72cdac82a2f3e675b8c4e2023286c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF4P3094605/1b1b5463c06442186270698d61f1e915.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF4P3094605/b5325ac9406afb124798d9e96d31b272.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF4P3094605/7ef69a3cba254738ab604ef7d72a0980.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF4P3094605/95bc5aaaf0c3a734e661c32a7ef89c73.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF4P3094605/d74a43970318f37a5484386882aa80cd.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF4P3094605/67913df6c39a24ba4438879f414e93e6.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF4P3094605/970103ab5524310ef67424c97f1ac5ed.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF4P3094605/680f7b1deb0b37c4b3ff17021e30e8a5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF4P3094605/7068ef80aa698a5eafea72021f5a029a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF4P3094605/99a90695a69fdcade9898df7243493f9.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF4P3094605/6d2387770d72c3e68c062c8ca5231900.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF4P3094605/c6b6d916f0abd8d75744fbf108c61817.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF4P3094605/2281e17e788c7342780c8f865d4cf190.jpeg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF4P3094605/8b83f6d838060b288aa1975b857ae902.jpeg</image>
+			</images>
 		<url>https://toyotastav.ru/cars/toyota-rav4-v-xa50-20-cvt-171-лс-4wd-fashion-plus-белый-2023/</url></car>
 		<car>
 			<mark_id>Lexus</mark_id>
@@ -1158,6 +1178,29 @@ Lexus RX 350 имеет 21- дюймовые легкосплавные диск
 			<body_type>Внедорожник 5 дв.</body_type>
 			<complectation_name>F Sport</complectation_name>
 			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>12500000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJCHBJAX02014176</vin>
+			<description>Новый автомобиль</description>
+			<images/>
+		<url>https://toyotastav.ru/cars/lexus-nx-ii-350-24-at-279-лс-4wd-f-sport-белый-2024/</url></car>
+		<car>
+			<mark_id>Lexus</mark_id>
+			<folder_id>NX, II</folder_id>
+			<modification_id>350 2.4 AT (279 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>F Sport</complectation_name>
+			<wheel>левый</wheel>
 			<color>Серый</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
@@ -1195,29 +1238,6 @@ Lexus RX 350 имеет 21- дюймовые легкосплавные диск
 				<image>https://photo.toyotasever.ru/JTJCHBJA902015123/0a82d89c085d71a9e02be145378c297d.jpg</image>
 			</images>
 		<url>https://toyotastav.ru/cars/lexus-nx-ii-350-24-at-279-лс-4wd-f-sport-1l121-серый-хром-металл-2024/</url></car>
-		<car>
-			<mark_id>Lexus</mark_id>
-			<folder_id>NX, II</folder_id>
-			<modification_id>350 2.4 AT (279 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>F Sport</complectation_name>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>12500000</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>JTJCHBJAX02014176</vin>
-			<description>Новый автомобиль</description>
-			<images/>
-		<url>https://toyotastav.ru/cars/lexus-nx-ii-350-24-at-279-лс-4wd-f-sport-белый-2024/</url></car>
 		<car>
 			<mark_id>Lexus</mark_id>
 			<folder_id>LX, IV</folder_id>
