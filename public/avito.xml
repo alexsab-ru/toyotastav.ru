@@ -605,6 +605,35 @@
 		<ContactPhone>+7 865 2978075</ContactPhone>
 	</Ad>
 <Ad>
+		<Id>8c18990ff27033fa065f345d75860b62</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Новый автомобиль</Description>
+		<Price>11900000</Price>
+		<TradeinDiscount>250000</TradeinDiscount>
+		<CreditDiscount>250000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>500000</MaxDiscount>
+		<Color>Серый</Color>
+		<Images/>
+		<Make>Lexus</Make>
+		<Model>RX</Model>
+		<GenerationId>18183380</GenerationId>
+		<ModificationId>18183381</ModificationId>
+		<ComplectationId>18614915</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJCHBJA102016527</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
 		<Id>b7aaf214d54f3a450ff563acd11398bc</Id>
 		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
 		<CarType>Новые</CarType>
@@ -652,6 +681,35 @@ Lexus RX 350 имеет 21- дюймовые легкосплавные диск
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>JTJCHBJA602012103</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>b435c5e027f7685de36e81e539adc74a</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Новый автомобиль</Description>
+		<Price>12500000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount/>
+		<InsuranceDiscount/>
+		<MaxDiscount/>
+		<Color>Белый</Color>
+		<Images/>
+		<Make>Lexus</Make>
+		<Model>RX</Model>
+		<GenerationId>18183380</GenerationId>
+		<ModificationId>18183381</ModificationId>
+		<ComplectationId>18571879</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJCHBJAX02014176</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
