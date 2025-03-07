@@ -684,35 +684,6 @@ Lexus RX 350 имеет 21- дюймовые легкосплавные диск
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
-		<Id>b435c5e027f7685de36e81e539adc74a</Id>
-		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Новый автомобиль</Description>
-		<Price>12500000</Price>
-		<TradeinDiscount/>
-		<CreditDiscount/>
-		<InsuranceDiscount/>
-		<MaxDiscount/>
-		<Color>Белый</Color>
-		<Images/>
-		<Make>Lexus</Make>
-		<Model>RX</Model>
-		<GenerationId>18183380</GenerationId>
-		<ModificationId>18183381</ModificationId>
-		<ComplectationId>18571879</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2024</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>JTJCHBJAX02014176</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-	</Ad>
-	<Ad>
 		<Id>e8b7dc4ab9d012fec763a2fdc95e454b</Id>
 		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
 		<CarType>Новые</CarType>
