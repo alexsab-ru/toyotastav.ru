@@ -535,11 +535,11 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2024</year>
-			<price>16690000</price>
-			<credit_discount>200000</credit_discount>
+			<price>16270000</price>
+			<credit_discount>280000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<max_discount>400000</max_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>280000</max_discount>
 			<currency>RUR</currency>
 			<vin>JTJTBDDX4R5001010</vin>
 			<description>Нoвый Leхus GX550 в пятиместном исполнении.
@@ -598,7 +598,7 @@ Aвтомoбиль в наличии в нашем дилерском центр
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2024</year>
-			<price>19990000</price>
+			<price>19490000</price>
 			<credit_discount>250000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
