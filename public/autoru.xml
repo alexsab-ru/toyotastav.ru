@@ -803,7 +803,7 @@ Aвтомoбиль в наличии в нашем дилерском центр
 			<folder_id>LX, IV</folder_id>
 			<modification_id>600 3.5 AT (415 л.с.) 4WD</modification_id>
 			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Luxury+</complectation_name>
+			<complectation_name>Luxury</complectation_name>
 			<wheel>левый</wheel>
 			<color>Белый</color>
 			<metallic>нет</metallic>
@@ -876,7 +876,7 @@ Aвтомoбиль в наличии в нашем дилерском центр
 				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/f2cf65f398e2da08624a77f8837690c5.jpg</image>
 				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/bf98c3a90ef9d2fc1c6188fa0f49dcca.jpg</image>
 			</images>
-		<url>https://toyotastav.ru/cars/lexus-lx-iv-600-35-at-415-лс-4wd-luxury-plus-белый-2024/</url></car>
+		<url>https://toyotastav.ru/cars/lexus-lx-iv-600-35-at-415-лс-4wd-luxury-белый-2024/</url></car>
 		<car>
 			<mark_id>Lexus</mark_id>
 			<folder_id>RX, V</folder_id>
