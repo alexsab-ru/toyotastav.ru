@@ -815,7 +815,7 @@ Aвтомoбиль в наличии в нашем дилерском центр
 			<max_discount>0</max_discount>
 			<currency>RUR</currency>
 			<vin>JTJCHBJA102017905</vin>
-			<description>Обновленный Leхus RX350  в наличии в нашем дилерском центре. Не упустите возможность забронировать его первым.
+			<description>Обновленный Leхus RX350 2025 модельного года, в наличии в нашем дилерском центре. Не упустите возможность забронировать его первым.
 
 Автомобиль японской сборки, русифицирован с завода. Официально растаможенный автомобиль с полным пакетом документов, можно сразу ставить на учёт в ГИБДД. 
 Гарантия и постгарантийное обслуживание у официального дилера LEXUS в Самаре на Московском шоссе 264А. 
@@ -831,6 +831,8 @@ Aвтомoбиль в наличии в нашем дилерском центр
 В стоимость автомобиля входит установленное дополнительное оборудование:
 - защитная сетка в передний бампер
 - спутниковая охранная система Цезарь Сателлит Omega X
+- Тонировка задних стекол
+- Оригинальные дефлекторы боковых окон
 
 Свяжитесь с нами удобным для Вас способом и мы подберем авто именно по Вашим требованиям!
 
@@ -844,7 +846,16 @@ Aвтомoбиль в наличии в нашем дилерском центр
 - Премиальная аудио-система объёмного звучания Mark Levinson 21 динамик + сабвуфер
 - Цифровое салонное зеркало заднего вида 
 - Адаптивная регулировка жесткости амортизаторов (AVS)</description>
-			<images/>
+			<images>
+				<image>https://photo.toyotasever.ru/JTJCHBJA102017903/adbe081162b02a9b11b00be113feb4fd.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA102017903/f4072562491175b57ef3c4c09cbe2dc1.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA102017903/8b72d000735976f16d22a1ccff637a24.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA102017903/fe10c352fa0b211d507006d872404eba.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA102017903/1e56e200869a8c204cd460045fecb774.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA102017903/58fde5351c76b2e37641f8d829c9b153.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA102017903/a784ebc6f5fe8e3779b020b39a88aaac.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCHBJA102017903/4a571be1cd69114d430a882c287dca8a.jpg</image>
+			</images>
 		<url>https://toyotastav.ru/cars/lexus-rx-v-350-24-at-249-лс-4wd-luxury-белый-2024/</url></car>
 	<car>
 			<mark_id>TOYOTA</mark_id>
