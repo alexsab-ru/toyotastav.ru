@@ -957,6 +957,29 @@ Aвтомoбиль в наличии в нашем дилерском центр
 		<url>https://toyotastav.ru/cars/lexus-rx-v-350-24-at-249-лс-4wd-luxury-белый-2024/</url></car>
 	<car>
 			<mark_id>TOYOTA</mark_id>
+			<folder_id>Highlander, IV (U70)</folder_id>
+			<modification_id>3.5 AT (249 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Люкс Safety</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2025</year>
+			<price>6500000</price>
+			<credit_discount>150000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>150000</max_discount>
+			<currency>RUR</currency>
+			<vin>LVGEU76AXSG042186</vin>
+			<description/>
+			<images/>
+		<url>https://toyotastav.ru/cars/toyota-highlander-iv-u70-35-at-249-лс-4wd-люкс-safety-черный-2025/</url></car>
+		<car>
+			<mark_id>TOYOTA</mark_id>
 			<folder_id>RAV4, V (XA50)</folder_id>
 			<modification_id>2.0 CVT (171 л.с.) 4WD</modification_id>
 			<body_type>Внедорожник 5 дв.</body_type>
