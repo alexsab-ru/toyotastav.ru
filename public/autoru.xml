@@ -821,83 +821,6 @@ Aвтомoбиль в наличии в нашем дилерском центр
 			<folder_id>RX, V</folder_id>
 			<modification_id>350 2.4 AT (249 л.с.) 4WD</modification_id>
 			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Executive+</complectation_name>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>11990000</price>
-			<credit_discount>150000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<max_discount>300000</max_discount>
-			<currency>RUR</currency>
-			<vin>JTJCHBJA002014042</vin>
-			<description>Leхus RX350, в наличии в нашем дилерском центре. Не упустите возможность забронировать его первым. 
-
-Автомобиль японской сборки, русифицирован с завода. Официально растаможенный автомобиль с полным пакетом документов, можно сразу ставить на учёт в ГИБДД. 
-Гарантия и постгарантийное обслуживание у официального дилера LEXUS в Самаре на Московском шоссе 264А. 
-
-
-✅ Выгодный обмен Вашего автомобиля по программе Trade-in
-✅ Оформление в кредит. Кредитование от АО «Тойота Банк» при поддержке ООО «Тойота Мотор», а также более 10 банков-партнеров. Кредитуем все регионы РФ. Более 50 кредитных программ.
-✅ Индивидуальные предложения для каждого клиента
-✅ Поможем доставить автомобиль прямо к дому
-✅ Юридически чистая и безопасная сделка 
-✅ Cтoимоcть автомобиля указанa бeз cкpытыx кoмисcий и дoполнительных плaтежeй
-
-В стоимость автомобиля входит установленное дополнительное оборудование:
-- защитная сетка в передний бампер
-- спутниковая охранная система Цезарь Сателлит Omega X
-
-Свяжитесь с нами удобным для Вас способом и мы подберем авто именно по Вашим требованиям!
-
-Комплектация «EXECUTIVE+»:
-- Камеры панорамного обзора
-- Подогрев и вентиляция передних и задних сидений
-- Проекция на лобовое стекло
-- Легкосплавные колёсные диски R21 
-- Аудио-система PANASONIC 12 динамиков + сабвуфер
-- Навигационная система</description>
-			<images>
-				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/9dc2d0a792b2b2ecdd66a8dc88bf9830.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/3b0055e7d9f10ab07b45a9bfb0d80a58.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/6b7521b5400baf229c5c9c653bc6daaa.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/6d00197e80220317d79142d7d8e550c7.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/f6e6bdfbf25266359165fd94ee03e192.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/6b4eb1d5888df0fc31a9cd6ca385b5c6.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/06fd03640f1b15bc04eafc4c1701f383.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/ad5ddb58154adf3c68a9e0694bf88930.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/d1de52540c4a7c233029c918a86be65b.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/34af94dff66641565618426f1b26ff51.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/a327345a431e6e486cd7b8b1419021b9.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/ca73ed859cce4713a283bd966e38d867.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/965531d8663276833563d6475eb294ef.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/b110363494e7bdb240c3b23f3460403f.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/46cf49cfa6c26eb0e0d0e873d3b040bb.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/3bcd4c68b8298da6df0c21ea0ecad1d4.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/1258f2ba0ff0fad4c5b6169192175747.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/5413a4a239cf781e0b4a3a9f102b706e.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/d3207385fd60418479d48ea8f18555c1.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/18ad72f6677faf5c3bde7a66035ce95d.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/3d8621e448c4d1373a8c69a7178c2015.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/364e30be69d32cc122c64c548f786e19.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/3124ee92b4d1c007f37f61a73375a601.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/864d90def9515e4e6712cf974f4907a4.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/8967e19d2fbc41b8db8a17f4a967959e.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/2dea9bd9ea1f5fc8e36ff62a7fd60539.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/f0f67bccddeb27a8d9f60ce38ff48cf7.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCHBJA002014040/9a9d14352dc32cb731e59bc47e166853.jpg</image>
-			</images>
-		<url>https://toyotastav.ru/cars/lexus-rx-v-350-24-at-249-лс-4wd-executive-plus-черный-2024/</url></car>
-		<car>
-			<mark_id>Lexus</mark_id>
-			<folder_id>RX, V</folder_id>
-			<modification_id>350 2.4 AT (249 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
 			<complectation_name>Luxury</complectation_name>
 			<wheel>левый</wheel>
 			<color>Белый</color>
@@ -971,29 +894,6 @@ Aвтомoбиль в наличии в нашем дилерском центр
 			</images>
 		<url>https://toyotastav.ru/cars/lexus-rx-v-350-24-at-249-лс-4wd-luxury-белый-2024/</url></car>
 	<car>
-			<mark_id>TOYOTA</mark_id>
-			<folder_id>Highlander, IV (U70)</folder_id>
-			<modification_id>3.5 AT (249 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Люкс Safety</complectation_name>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2025</year>
-			<price>6500000</price>
-			<credit_discount>150000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>150000</max_discount>
-			<currency>RUR</currency>
-			<vin>LVGEU76AXSG042186</vin>
-			<description/>
-			<images/>
-		<url>https://toyotastav.ru/cars/toyota-highlander-iv-u70-35-at-249-лс-4wd-люкс-safety-черный-2025/</url></car>
-		<car>
 			<mark_id>TOYOTA</mark_id>
 			<folder_id>RAV4, V (XA50)</folder_id>
 			<modification_id>2.0 CVT (171 л.с.) 4WD</modification_id>
