@@ -606,11 +606,11 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2024</year>
-			<price>16270000</price>
-			<credit_discount>280000</credit_discount>
+			<price>15990000</price>
+			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
-			<max_discount>280000</max_discount>
+			<max_discount>0</max_discount>
 			<currency>RUR</currency>
 			<vin>JTJTBDDX4R5001010</vin>
 			<description>Нoвый Leхus GX550 в пятиместном исполнении.
@@ -681,7 +681,6 @@ Aвтомoбиль в наличии в нашем дилерском центр
 Автомобиль японской сборки, русифицирован с завода. Официально растаможенный автомобиль с полным пакетом документов, можно сразу ставить на учёт в ГИБДД.
 Гарантия и постгарантийное обслуживание у официального дилера LEXUS в Самаре на Московском шоссе 264А.
 
-
 ✅ Выгодный обмен Вашего автомобиля по программе Trade-in
 ✅ Оформление в кредит. Кредитование от АО «Тойота Банк» при поддержке ООО «Тойота Мотор», а также более 10 банков-партнеров. Кредитуем все регионы РФ. Более 50 кредитных программ.
 ✅ Индивидуальные предложения для каждого клиента
@@ -703,7 +702,41 @@ Aвтомoбиль в наличии в нашем дилерском центр
 - Легкосплавные колёсные диски R22
 - Цветная проекция на лобовое стекло
 - Цифровое салонное зеркало заднего вида с автозатемнением</description>
-			<images/>
+			<images>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/fd51de4cd51402199f9018240e7125ba.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/cc5a76991c472c84b2035e4658fc8aac.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/58cdb1ec68286c87140b8c370cf6c914.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/d07f1f289b726b8a5ecfe71207f60a5f.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/2823a9f1718c2c8966b14381349424f2.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/b977ed399c7fedf0599ad26c594c5475.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/959cd9ce68f815b4c153006937e85cf8.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/b31a4e07694232ee816abbc26dd5d6cf.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/3ffe2a7b21654083e9af8a83341ea8fb.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/d7da5aca0c29f94d4a83d894e9bfd2f7.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/edb7ca0d0c33eec091d6fdb9992263e7.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/dca62cc2c93e78a655e2f3d494ae2aae.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/4c5a6c706b75957d613e505d43143a5a.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/1890a6bb427f70461c2913690c2c8e12.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/c20497d7d8aacc077181c53d5a6f19a7.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/b19d18b54c9e4cb4b264b2366aeb6f03.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/0d2603f32455dd5834f061c92e244713.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/e113d402307cf7192734bf8f8b814c63.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/2ffdf9de11962f776d75d4874c9eaed0.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/5fca2a226c04ebf8a8d661b0d0a60b82.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/4d3897f272056c0c402ad37cf6309544.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/3af39951e4bccfbce458dc6c5ce02929.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/b6b529b661ff679c3e8ac2a4174a0808.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/5b2cf11a78d0ed1420cdabf30f122eb0.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/4da42956fef440edd846ced054f43f55.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/53409c26cf8d44fe51e255f79e919f7f.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/6f98e62ee0616e133281484a52e7ece0.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/a617e456a2848cdaa0d3005dcf0a2e7c.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/5df34fb191e25d596f3b8aab579fb1d3.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/a68b264b934854c523a87a2b0840ad28.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/b07f2997d03259a909d132f47857855b.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/cc34d4c5bf2588bf00a3cd77e4f87c57.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPA7CX7S4004424/6d1c06d4ecba65931c2f14d76dc77779.jpg</image>
+			</images>
 		<url>https://toyotastav.ru/cars/lexus-lx-iv-500d-34d-at-299-лс-4wd-luxury-черный-2025/</url></car>
 		<car>
 			<mark_id>LEXUS</mark_id>
