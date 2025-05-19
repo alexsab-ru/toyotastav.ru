@@ -752,10 +752,10 @@ Aвтомoбиль в наличии в нашем дилерском центр
 			<owners_number>Не было владельцев</owners_number>
 			<year>2024</year>
 			<price>20490000</price>
-			<credit_discount>300000</credit_discount>
+			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>300000</tradein_discount>
-			<max_discount>600000</max_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
 			<currency>RUR</currency>
 			<vin>JTJPB7CX004050898</vin>
 			<description>Leхus LX600  в наличии в нашем дилерском центре.
