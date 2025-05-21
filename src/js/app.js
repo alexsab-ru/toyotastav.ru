@@ -4,10 +4,19 @@ import './modules/modals';
 import './modules/latest.posts';
 import './modules/stock-slider';
 
+import ResponsiveMenu from './modules/ResponsiveMenu';
+
+import LazyLoader from './modules/LazyLoader';
+
 import { connectForms, cookiecook } from '@alexsab-ru/scripts';
 cookiecook();
 connectForms('https://alexsab.ru/lead/dev/', {
 	confirmModalText: 'Вы уже оставляли заявку сегодня, с Вами обязательно свяжутся в ближайшее время!',
+});
+
+document.addEventListener('DOMContentLoaded', () => {
+	new ResponsiveMenu('#site_nav ul');
+	new LazyLoader();
 });
 
 import GLightbox from 'glightbox';
@@ -17,36 +26,6 @@ const lightbox = GLightbox({
 	loop: true,
 	slideEffect: 'fade',
 });
-
-const imageObserver = new IntersectionObserver((entries, observer) => {
-	entries.forEach((entry) => {
-		if (entry.isIntersecting) {
-			entry.target.src = entry.target.dataset.src;
-			observer.unobserve(entry.target);
-		}
-	});
-	},
-	{
-		threshold: 0.5
-	}
-);
-
-const lazys = document.querySelectorAll('.lazy');
-
-if(lazys.length){
-	lazys.forEach(lazy => {
-		const images = lazy.querySelectorAll('img');
-		if(images){
-			images.forEach(img => {
-				imageObserver.observe(img);
-				img.onload = () => {img.classList.remove('opacity-0')}
-			});
-		}
-		lazy.classList.remove('lazy')
-	})
-}
-
-
 
 function executeRecaptcha() {
 grecaptcha.ready(function() {
