@@ -816,6 +816,43 @@ Aвтомoбиль в наличии в нашем дилерском центр
 			</images>
 		<url>https://toyotastav.ru/cars/lexus-lx-iv-600-35-at-415-лс-4wd-luxury-белый-2024/</url></car>
 		<car>
+			<mark_id>LEXUS</mark_id>
+			<folder_id>LX, IV</folder_id>
+			<modification_id>600 3.5 AT (415 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>VIP</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2025</year>
+			<price>21990000</price>
+			<credit_discount>500000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>500000</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJPBACX8S4070672</vin>
+			<description>Новый Lexus LX600 в комплектации VIP
+
+
+Лексус рад предложить Вам индивидуальные условия на новые автомобили Lexus. Мы дорожим нашей высокой репутацией и занимаем ведущие позиции в Приволжском федеральном округе. 
+
+ Только до конца месяца! 
+
+✅ Кредит от 9,9%
+✅ Автомобиль на гарантии
+✅ Выгодный обмен Вашего автомобиля на новый
+✅ Индивидуальные предложения для каждого клиента
+
+Также мы готовы подобрать для Вас автомобиль в любой комплектации отвечающей Вашим запросам и сформировать персональное предложение, а также оформить заказ.
+
+Цена указана без учета дополнительного оборудования.</description>
+			<images/>
+		<url>https://toyotastav.ru/cars/lexus-lx-iv-600-35-at-415-лс-4wd-vip-черный-2025/</url></car>
+		<car>
 			<mark_id>Lexus</mark_id>
 			<folder_id>RX, V</folder_id>
 			<modification_id>350 2.4 AT (249 л.с.) 4WD</modification_id>
@@ -911,7 +948,7 @@ Aвтомoбиль в наличии в нашем дилерском центр
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2024</year>
-			<price>12099000</price>
+			<price>12090000</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
