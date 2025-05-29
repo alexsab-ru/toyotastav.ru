@@ -753,10 +753,10 @@ Aвтомoбиль в наличии в нашем дилерском центр
 			<owners_number>Не было владельцев</owners_number>
 			<year>2024</year>
 			<price>20490000</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>250000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
+			<tradein_discount>250000</tradein_discount>
+			<max_discount>500000</max_discount>
 			<currency>RUR</currency>
 			<vin>JTJPB7CX004050898</vin>
 			<description>Leхus LX600  в наличии в нашем дилерском центре.
@@ -852,11 +852,11 @@ Aвтомoбиль в наличии в нашем дилерском центр
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
-			<price>12990000</price>
-			<credit_discount>150000</credit_discount>
+			<price>12690000</price>
+			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<max_discount>300000</max_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
 			<currency>RUR</currency>
 			<vin>JTJCHBJA702018668</vin>
 			<description>Обновленный Leхus RX350 2025 года, в наличии в нашем дилерском центре. Не упустите возможность забронировать его первым. 
@@ -1085,6 +1085,57 @@ Aвтомoбиль в наличии в нашем дилерском центр
 				<image>https://photo.toyotasever.ru/JTJCHBJA102017903/6ac9893684d058296e8155fdaa5bb13c.jpg</image>
 			</images>
 		<url>https://toyotastav.ru/cars/lexus-rx-v-350-24-at-249-лс-4wd-luxury-белый-2024/</url></car>
+		<car>
+			<mark_id>Lexus</mark_id>
+			<folder_id>RX, V</folder_id>
+			<modification_id>350 2.4 AT (249 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Luxury</complectation_name>
+			<wheel>левый</wheel>
+			<color>Красный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2025</year>
+			<price>13490000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJCHBJA802019747</vin>
+			<description>Обновленный Leхus RX350  в наличии в нашем дилерском центре. Не упустите возможность забронировать его первым.
+
+Автомобиль японской сборки, русифицирован с завода. Официально растаможенный автомобиль с полным пакетом документов, можно сразу ставить на учёт в ГИБДД. 
+Гарантия и постгарантийное обслуживание у официального дилера LEXUS в Самаре на Московском шоссе 264А. 
+
+
+✅ Выгодный обмен Вашего автомобиля по программе Trade-in
+✅ Оформление в кредит. Кредитование от АО «Тойота Банк» при поддержке ООО «Тойота Мотор», а также более 10 банков-партнеров. Кредитуем все регионы РФ. Более 50 кредитных программ.
+✅ Индивидуальные предложения для каждого клиента
+✅ Поможем доставить автомобиль прямо к дому
+✅ Юридически чистая и безопасная сделка 
+✅ Cтoимоcть автомобиля указанa бeз cкpытыx кoмисcий и дoполнительных плaтежeй
+
+В стоимость автомобиля входит установленное дополнительное оборудование:
+- защитная сетка в передний бампер
+- спутниковая охранная система Цезарь Сателлит Omega X
+
+Свяжитесь с нами удобным для Вас способом и мы подберем авто именно по Вашим требованиям!
+
+Комплектация «LUXURY»:
+- Обновленная приборная панель
+- Панорамная крыша
+- Камеры панорамного обзора
+- Подогрев и вентиляция передних и задних сидений
+- Проекция на лобовое стекло
+- Легкосплавные колёсные диски R21 
+- Премиальная аудио-система объёмного звучания Mark Levinson 21 динамик + сабвуфер
+- Цифровое салонное зеркало заднего вида 
+- Адаптивная регулировка жесткости амортизаторов (AVS)</description>
+			<images/>
+		<url>https://toyotastav.ru/cars/lexus-rx-v-350-24-at-249-лс-4wd-luxury-красный-2025/</url></car>
 	<car>
 			<mark_id>TOYOTA</mark_id>
 			<folder_id>RAV4, V (XA50)</folder_id>
