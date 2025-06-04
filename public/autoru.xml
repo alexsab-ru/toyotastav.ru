@@ -64,11 +64,11 @@
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2024</year>
-			<price>16280000</price>
-			<credit_discount>501000</credit_discount>
+			<price>15750000</price>
+			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<max_discount>701000</max_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
 			<currency>RUR</currency>
 			<vin>JTJTBDDX7R5001390</vin>
 			<phone>83532793594</phone>
@@ -471,11 +471,11 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
-			<price>12800000</price>
-			<credit_discount>590000</credit_discount>
+			<price>12500000</price>
+			<credit_discount>490000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<max_discount>775000</max_discount>
+			<tradein_discount>250000</tradein_discount>
+			<max_discount>740000</max_discount>
 			<currency>RUR</currency>
 			<vin>JTJCJBJA202050349</vin>
 			<phone>83532793594</phone>
@@ -545,8 +545,8 @@ Lехus является надежным, экономичным, вмести�
 			<price>14999000</price>
 			<credit_discount>251000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>251000</max_discount>
+			<tradein_discount>351000</tradein_discount>
+			<max_discount>602000</max_discount>
 			<currency>RUR</currency>
 			<vin>JTJCMBHA202012500</vin>
 			<phone>83532793594</phone>
