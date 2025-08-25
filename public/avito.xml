@@ -1817,11 +1817,11 @@ Aвтомoбиль в наличии в нашем дилерском центр
 Кредит предоставляется АО «Тойота Банк». Лицензия Банка России № 3470 от 21.06.2007г. 127273, г. Москва, ул. Отрадная, 2Б, стр.1., ИНН 7750004136, ОГРН 1077711000058. Реклама.
 
 Банк может отказать в выдаче кредита. Предложение действует до 31/08/2025 и носит информационный характер, условия могут быть изменены банком. Не является публичной офертой (ст. 437 ГК).</Description>
-		<Price>13690000</Price>
-		<TradeinDiscount>150000</TradeinDiscount>
-		<CreditDiscount>150000</CreditDiscount>
+		<Price>13390000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount/>
 		<InsuranceDiscount/>
-		<MaxDiscount>300000</MaxDiscount>
+		<MaxDiscount/>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/JTJCMBHA702016899/76d6f833d7404df207e598929d4bc149.jpg"/>
